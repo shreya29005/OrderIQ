@@ -1,0 +1,11 @@
+table_name,row_count
+dim_users,10000
+dim_restaurants,12393
+fact_sessions,85000
+fact_search_events,48488
+fact_cart_events,11567
+fact_orders,6245
+fact_delivery_ops,5955
+fact_refunds,235
+fact_ratings,3766
+daily_marketplace_metrics,181

@@ -1,0 +1,6 @@
+model_name,evaluation_rows,actual_avg_delivered_orders,forecast_avg_delivered_orders,mae,rmse,mape_pct,bias,rank_by_mae
+forecast_rolling_28d,28,44.07,44.96,5.52,7.83,13.53,0.89,1
+forecast_rolling_14d,28,44.07,44.83,5.83,8.06,14.15,0.76,2
+forecast_rolling_7d,28,44.07,44.89,6.41,8.51,15.46,0.82,3
+forecast_weighted_baseline,28,44.07,44.91,7.91,9.64,18.81,0.84,4
+forecast_lag_7d,28,44.07,44.89,10.11,11.83,23.71,0.82,5

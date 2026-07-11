@@ -1,0 +1,18 @@
+# raw and generated data
+data/raw/
+!data/raw/README.md
+data/interim/
+data/processed/
+
+# secrets
+.env
+kaggle.json
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# local scratch
+scratch/
+*.log

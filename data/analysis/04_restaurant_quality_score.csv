@@ -1,0 +1,705 @@
+restaurant_id,restaurant_name,city,zone,primary_cuisine,price_band,total_orders,delivered_orders,cancelled_orders,unique_customers,repeat_customers,repeat_customer_rate_pct,avg_order_value,gross_order_value,avg_delivery_time_min,p90_delivery_time_min,sla_breach_pct,refund_orders,refund_rate_pct,total_refund_amount,rating_count,avg_food_rating,avg_delivery_rating,complaint_orders,complaint_rate_pct,cancellation_rate_pct,public_rating,public_votes,restaurant_quality_score,restaurant_quality_tier
+1325,Onesta,Bangalore,Basaveshwara Nagar,Pizza,premium,3,3,0,2,1,50.0,328.11,984.34,37.28,42.77,0.0,0,0.0,0.0,1,5.0,5.0,0.0,0.0,0.0,4.3,397,88.83,high_quality_partner
+203,Paradise,Bangalore,JP Nagar,Biryani,premium,3,3,0,2,1,50.0,428.91,1286.73,34.19,35.72,0.0,0,0.0,0.0,2,4.65,4.05,0.0,0.0,0.0,4.0,1992,84.65,high_quality_partner
+447,Dunkin' Donuts,Bangalore,Brigade Road,Desserts,premium,6,6,0,3,2,66.67,326.89,1961.37,34.88,43.02,0.0,0,0.0,0.0,3,4.1,4.53,0.0,0.0,0.0,4.0,1087,84.34,high_quality_partner
+212,Nagarjuna,Bangalore,Indiranagar,Andhra,premium,3,3,0,2,1,50.0,394.89,1184.66,35.25,39.19,0.0,0,0.0,0.0,3,4.5,4.2,0.0,0.0,0.0,4.2,1926,83.71,high_quality_partner
+4411,Sreeraj Lassi Bar,Bangalore,Shanti Nagar,Beverages,low,7,7,0,5,2,40.0,120.0,840.0,36.32,42.45,0.0,0,0.0,0.0,6,4.37,4.22,0.0,0.0,0.0,3.9,62,83.57,high_quality_partner
+3540,Slanz Cafe,Bangalore,Basaveshwara Nagar,Cafe,mid,6,6,0,4,2,50.0,323.78,1942.66,32.96,39.08,0.0,0,0.0,0.0,3,3.97,4.73,0.0,0.0,0.0,3.6,99,83.08,high_quality_partner
+1897,Salt Mango Tree,Bangalore,Indiranagar,Kerala,premium,3,3,0,2,1,50.0,487.1,1461.3,34.58,40.9,0.0,0,0.0,0.0,2,4.2,4.2,0.0,0.0,0.0,4.2,255,83.01,high_quality_partner
+918,Keventers,Bangalore,Indiranagar,Beverages,mid,3,3,0,2,1,50.0,209.93,629.79,40.05,44.13,0.0,0,0.0,0.0,3,4.07,4.43,0.0,0.0,0.0,4.0,571,82.86,high_quality_partner
+1063,V B Bakery,Bangalore,Basavanagudi,Bakery,low,3,3,0,2,1,50.0,120.0,360.0,29.69,37.62,0.0,0,0.0,0.0,2,4.4,4.25,0.0,0.0,0.0,4.2,502,82.83,high_quality_partner
+1987,Pizza Stop,Bangalore,Koramangala 4th Block,Pizza,premium,4,4,0,2,1,50.0,336.77,1347.06,40.73,43.81,0.0,0,0.0,0.0,1,4.0,4.3,0.0,0.0,0.0,3.9,241,82.36,high_quality_partner
+2950,Savi Sagar,Bangalore,Malleshwaram,North Indian,mid,3,3,0,2,1,50.0,271.12,813.37,38.9,44.47,0.0,0,0.0,0.0,2,3.8,4.75,0.0,0.0,0.0,3.8,136,82.16,high_quality_partner
+3641,Ramji Chaiwale,Bangalore,Koramangala 1st Block,Beverages,low,3,3,0,2,1,50.0,149.9,449.7,26.75,36.2,0.0,0,0.0,0.0,3,4.03,4.47,0.0,0.0,0.0,3.8,94,82.15,high_quality_partner
+2393,Sweet Chariot,Bangalore,Koramangala 7th Block,Bakery,mid,3,3,0,1,1,100.0,365.37,1096.1,20.72,22.49,0.0,0,0.0,0.0,2,4.0,4.35,0.0,0.0,0.0,4.0,189,82.06,high_quality_partner
+4373,Fabcafe,Bangalore,MG Road,Cafe,premium,3,3,0,2,1,50.0,430.56,1291.69,33.95,39.81,0.0,0,0.0,0.0,2,3.85,4.4,0.0,0.0,0.0,4.2,63,81.86,high_quality_partner
+389,Le Rock,Bangalore,Brigade Road,Continental,premium,3,3,0,2,1,50.0,1136.57,3409.72,36.31,44.48,0.0,0,0.0,0.0,1,3.9,4.1,0.0,0.0,0.0,4.1,1222,81.79,high_quality_partner
+2577,Prasiddhi Food Corner,Bangalore,JP Nagar,Fast Food,low,3,3,0,2,1,50.0,120.0,360.0,43.1,44.18,0.0,0,0.0,0.0,2,3.85,4.55,0.0,0.0,0.0,3.7,171,81.71,high_quality_partner
+6162,Brownie Points,Bangalore,Koramangala 4th Block,Bakery,low,4,4,0,3,1,33.33,146.11,584.43,34.72,45.12,0.0,0,0.0,0.0,2,4.3,4.7,0.0,0.0,0.0,3.8,26,81.3,high_quality_partner
+168,Chavadi,Bangalore,Bannerghatta Road,Continental,premium,3,3,0,2,1,50.0,950.3,2850.89,39.94,48.26,33.33,0,0.0,0.0,2,4.9,3.8,0.0,0.0,0.0,4.4,2241,81.2,high_quality_partner
+3216,Panda Boy,Bangalore,Kammanahalli,Chinese,premium,3,3,0,2,1,50.0,265.91,797.73,30.84,31.94,0.0,0,0.0,0.0,3,3.9,4.17,0.0,0.0,0.0,3.9,118,81.19,high_quality_partner
+7759,Crazy Crush - Juices & Desserts Cafe,Bangalore,Whitefield,Beverages,low,3,3,0,2,1,50.0,201.3,603.91,34.93,41.4,0.0,0,0.0,0.0,2,4.15,4.25,0.0,0.0,0.0,3.5,11,81.12,high_quality_partner
+3909,Sweet Truth,Bangalore,Electronic City,Bakery,mid,3,3,0,2,1,50.0,224.41,673.23,37.42,47.58,0.0,0,0.0,0.0,1,4.3,3.6,0.0,0.0,0.0,3.9,81,80.69,high_quality_partner
+1080,Pizza Hut,Bangalore,Basaveshwara Nagar,Pizza,premium,3,3,0,2,1,50.0,503.88,1511.64,35.24,35.48,0.0,0,0.0,0.0,2,3.35,4.7,0.0,0.0,0.0,3.6,492,80.61,high_quality_partner
+2595,Twiststick House,Bangalore,Basavanagudi,Continental,mid,4,4,0,3,1,33.33,327.79,1311.17,40.26,45.99,0.0,0,0.0,0.0,4,4.45,4.0,0.0,0.0,0.0,4.1,169,80.59,high_quality_partner
+4184,Waffle-A-Go Go,Bangalore,Banashankari,Fast Food,mid,4,4,0,3,1,33.33,198.29,793.17,29.01,39.39,0.0,0,0.0,0.0,3,4.1,4.53,0.0,0.0,0.0,3.9,70,80.34,high_quality_partner
+2812,Taj Darbar,Bangalore,Koramangala 5th Block,Biryani,premium,3,3,0,2,1,50.0,401.65,1204.96,41.63,47.45,0.0,0,0.0,0.0,2,3.6,4.25,0.0,0.0,0.0,3.8,149,80.18,high_quality_partner
+658,Mani's Dum Biryani,Bangalore,Koramangala 5th Block,Biryani,premium,4,4,0,1,1,100.0,497.81,1991.23,44.56,51.3,25.0,0,0.0,0.0,4,4.43,3.93,0.0,0.0,0.0,3.9,784,80.14,high_quality_partner
+3026,Mad Over Donuts,Bangalore,Malleshwaram,Bakery,mid,4,4,0,3,1,33.33,249.29,997.17,37.39,45.76,0.0,0,0.0,0.0,1,4.4,4.0,0.0,0.0,0.0,3.9,131,80.11,high_quality_partner
+2647,Srinidhi Sagar,Bangalore,Old Airport Road,South Indian,low,3,3,0,2,1,50.0,198.28,594.85,40.43,46.95,0.0,0,0.0,0.0,2,3.8,3.95,0.0,0.0,0.0,3.9,164,79.92,high_quality_partner
+617,Nandhana Palace,Bangalore,Koramangala 4th Block,Andhra,premium,3,3,0,2,1,50.0,294.54,883.61,33.28,37.25,0.0,0,0.0,0.0,2,3.75,4.0,0.0,0.0,0.0,4.1,822,79.79,high_quality_partner
+7859,Chai Cafe,Bangalore,Electronic City,Fast Food,low,3,3,0,2,1,50.0,243.36,730.09,41.33,44.1,0.0,0,0.0,0.0,2,3.95,4.0,0.0,0.0,0.0,3.6,10,79.66,high_quality_partner
+4199,Sampoorna,Bangalore,JP Nagar,Chinese,premium,3,3,0,2,1,50.0,340.57,1021.7,38.34,46.44,0.0,0,0.0,0.0,3,3.63,4.13,0.0,0.0,0.0,3.6,70,79.54,high_quality_partner
+4065,Patio - The Resto Cafe,Bangalore,Banaswadi,Cafe,mid,4,4,0,3,1,33.33,192.03,768.12,41.02,47.69,0.0,0,0.0,0.0,3,4.27,4.07,0.0,0.0,0.0,3.7,75,79.44,high_quality_partner
+2010,Hatti Kaapi,Bangalore,Koramangala 5th Block,South Indian,low,4,4,0,3,1,33.33,147.82,591.3,40.12,45.6,0.0,0,0.0,0.0,3,3.67,4.67,0.0,0.0,0.0,3.9,237,79.35,high_quality_partner
+4145,Arogya Thaana,Bangalore,Whitefield,Beverages,low,3,3,0,2,1,50.0,127.53,382.6,37.98,44.16,0.0,0,0.0,0.0,1,3.9,3.7,0.0,0.0,0.0,3.8,72,79.25,high_quality_partner
+5621,Curries & Pickles,Bangalore,Electronic City,Andhra,mid,3,3,0,2,1,50.0,198.6,595.79,33.5,37.26,0.0,0,0.0,0.0,2,3.55,4.25,0.0,0.0,0.0,3.4,35,78.89,high_quality_partner
+4715,Gold Line Breadz,Bangalore,Kammanahalli,Bakery,mid,6,6,0,4,2,50.0,206.74,1240.44,34.15,43.19,0.0,0,0.0,0.0,2,3.95,3.65,0.0,0.0,0.0,3.7,54,78.72,high_quality_partner
+5819,Savoury Express,Bangalore,Jeevan Bhima Nagar,Arabian,premium,4,4,0,3,1,33.33,546.26,2185.05,42.61,46.19,0.0,0,0.0,0.0,2,3.35,5.0,0.0,0.0,0.0,3.6,32,78.53,high_quality_partner
+4695,Hatti Kaapi,Bangalore,Brigade Road,South Indian,low,3,3,0,2,1,50.0,120.0,360.0,42.57,48.14,0.0,0,0.0,0.0,2,3.55,3.75,0.0,0.0,0.0,3.9,54,78.04,high_quality_partner
+2307,Cafe Kabana,Bangalore,Bannerghatta Road,Cafe,premium,4,4,0,3,1,33.33,355.09,1420.34,32.04,41.71,0.0,0,0.0,0.0,3,3.7,4.37,0.0,0.0,0.0,4.0,200,77.93,high_quality_partner
+474,Maia - Eat | Bake | Mom,Bangalore,Bellandur,Continental,premium,4,4,0,2,2,100.0,528.69,2114.77,38.82,48.68,25.0,0,0.0,0.0,4,4.05,3.55,0.0,0.0,0.0,4.2,1034,77.88,high_quality_partner
+2147,Hyderabad Biryani House,Bangalore,Malleshwaram,Biryani,premium,4,4,0,3,1,33.33,437.96,1751.82,31.79,38.55,0.0,0,0.0,0.0,3,3.83,4.13,0.0,0.0,0.0,4.1,218,77.87,high_quality_partner
+183,Onesta,Bangalore,Whitefield,Pizza,premium,6,6,0,4,1,25.0,357.23,2143.35,37.88,44.62,0.0,0,0.0,0.0,3,3.8,4.37,0.0,0.0,0.0,4.4,2110,77.64,high_quality_partner
+4380,Hotel Prashanth,Bangalore,Rajajinagar,North Indian,mid,3,3,0,2,1,50.0,200.16,600.47,36.87,38.47,0.0,0,0.0,0.0,2,3.15,4.1,0.0,0.0,0.0,3.9,63,77.53,high_quality_partner
+3377,Kentacky Chicken Corner,Bangalore,Richmond Road,Andhra,low,3,3,0,2,1,50.0,220.35,661.06,35.14,49.83,33.33,0,0.0,0.0,2,4.5,3.9,0.0,0.0,0.0,4.0,109,77.41,high_quality_partner
+8162,The Biryani Culture,Bangalore,Malleshwaram,North Indian,mid,3,3,0,2,1,50.0,295.55,886.65,37.88,41.95,0.0,0,0.0,0.0,1,3.5,4.0,0.0,0.0,0.0,3.2,9,77.4,high_quality_partner
+2587,Barcode,Bangalore,Koramangala 4th Block,South Indian,premium,4,4,0,2,1,50.0,846.76,3387.03,37.82,46.45,25.0,0,0.0,0.0,2,4.15,3.8,0.0,0.0,0.0,3.8,170,77.14,high_quality_partner
+8236,Just Kulfi,Bangalore,Jeevan Bhima Nagar,Ice Cream,mid,3,3,0,2,1,50.0,257.3,771.89,44.57,55.01,33.33,0,0.0,0.0,1,4.3,4.1,0.0,0.0,0.0,3.5,8,77.03,high_quality_partner
+3348,Kundana,Bangalore,Bannerghatta Road,Andhra,premium,4,4,0,2,1,50.0,461.17,1844.69,46.13,53.91,75.0,0,0.0,0.0,4,4.35,3.8,0.0,0.0,0.0,3.8,111,76.96,high_quality_partner
+2860,Ovenstory Pizza,Bangalore,BTM,Pizza,premium,6,6,0,5,1,20.0,434.43,2606.55,34.24,43.3,0.0,0,0.0,0.0,2,4.7,3.75,0.0,0.0,0.0,4.0,144,76.39,high_quality_partner
+1050,Cafe Grill,Bangalore,Jeevan Bhima Nagar,Chinese,low,5,5,0,3,1,33.33,211.27,1056.33,40.07,50.94,40.0,0,0.0,0.0,4,4.28,4.32,0.0,0.0,0.0,4.1,506,76.35,high_quality_partner
+144,Stories,Bangalore,Rajajinagar,Continental,premium,8,8,0,6,1,16.67,717.97,5743.77,39.32,49.15,12.5,0,0.0,0.0,5,4.58,4.24,0.0,0.0,0.0,4.6,2423,76.34,high_quality_partner
+1932,Tempteys,Bangalore,BTM,Beverages,low,6,6,0,5,1,20.0,158.39,950.32,33.7,43.02,0.0,0,0.0,0.0,4,4.33,4.18,0.0,0.0,0.0,4.2,250,76.26,high_quality_partner
+858,Elements Eatery,Bangalore,Frazer Town,Continental,premium,5,5,0,4,1,25.0,691.82,3459.11,40.28,45.6,0.0,0,0.0,0.0,3,3.87,4.27,0.0,0.0,0.0,4.0,608,75.67,high_quality_partner
+1318,4 Seasons Restaurant,Bangalore,Kalyan Nagar,North Indian,premium,3,3,0,2,1,50.0,526.72,1580.16,40.03,48.94,33.33,0,0.0,0.0,3,3.33,4.4,0.0,0.0,0.0,3.7,399,75.52,high_quality_partner
+562,Time Traveller - Sai Vishram,Bangalore,Electronic City,Continental,premium,4,4,0,3,1,33.33,593.39,2373.54,38.52,49.62,25.0,0,0.0,0.0,1,4.2,3.4,0.0,0.0,0.0,4.2,882,75.49,high_quality_partner
+2849,Halo Chef,Bangalore,Koramangala 4th Block,North Indian,mid,6,6,0,5,1,20.0,304.33,1825.99,42.81,49.61,16.67,0,0.0,0.0,2,4.6,4.4,0.0,0.0,0.0,3.9,145,75.45,high_quality_partner
+2948,Chicken County,Bangalore,Majestic,North Indian,premium,3,3,0,2,1,50.0,384.01,1152.02,42.68,51.69,33.33,0,0.0,0.0,3,4.0,3.83,0.0,0.0,0.0,3.8,136,75.33,high_quality_partner
+2878,Samskruti - Sanman Gardenia,Bangalore,Jayanagar,North Indian,premium,5,5,0,4,1,25.0,338.66,1693.28,45.33,50.66,20.0,0,0.0,0.0,4,4.28,4.2,0.0,0.0,0.0,4.0,142,75.24,high_quality_partner
+1669,Beijing Bites,Bangalore,Marathahalli,Chinese,premium,6,6,0,5,1,20.0,524.03,3144.19,35.48,46.56,0.0,0,0.0,0.0,4,4.08,4.15,0.0,0.0,0.0,3.9,300,75.19,high_quality_partner
+419,Orbis Restaurant,Bangalore,Whitefield,Arabian,premium,6,6,0,5,1,20.0,395.72,2374.3,39.42,52.53,16.67,0,0.0,0.0,4,4.33,4.35,0.0,0.0,0.0,3.9,1140,75.04,high_quality_partner
+2240,Absolute Chinese,Bangalore,Rajajinagar,Chinese,mid,3,2,1,2,1,50.0,284.5,853.51,33.42,34.93,0.0,0,0.0,0.0,1,3.6,4.3,0.0,0.0,33.33,3.8,209,74.92,stable_partner
+1269,Faasos,Bangalore,Banashankari,North Indian,mid,4,4,0,3,1,33.33,309.0,1236.01,39.68,49.43,25.0,0,0.0,0.0,3,4.03,3.57,0.0,0.0,0.0,4.2,415,74.83,stable_partner
+919,Thalassery Restaurant,Bangalore,Electronic City,Kerala,premium,4,4,0,3,1,33.33,251.06,1004.24,36.69,45.95,25.0,0,0.0,0.0,1,3.7,3.9,0.0,0.0,0.0,3.8,571,74.44,stable_partner
+3692,Mojo Pizza - 2X Toppings,Bangalore,Kammanahalli,Pizza,premium,3,3,0,2,1,50.0,387.09,1161.27,39.96,47.93,0.0,1,33.33,219.45,3,4.27,4.47,0.0,0.0,0.0,4.1,91,73.73,stable_partner
+7544,Just Bake,Bangalore,MG Road,Bakery,mid,3,3,0,1,1,100.0,221.5,664.51,35.15,48.33,33.33,0,0.0,0.0,3,3.7,3.53,0.0,0.0,0.0,3.8,12,73.34,stable_partner
+10130,Jai Mataji Farshan and Sweets,Bangalore,Ulsoor,Mithai,low,5,5,0,3,1,33.33,124.22,621.09,35.98,44.8,0.0,0,0.0,0.0,1,3.1,4.2,0.0,0.0,0.0,0.0,0,73.27,stable_partner
+4376,Homelicious Food,Bangalore,Bellandur,North Indian,low,3,2,1,2,1,50.0,145.16,435.49,36.77,37.05,0.0,0,0.0,0.0,1,3.5,3.9,0.0,0.0,33.33,4.0,63,73.24,stable_partner
+4513,Chinese Kitchen,Bangalore,Basavanagudi,Chinese,low,6,6,0,5,1,20.0,120.0,720.0,37.06,43.18,0.0,0,0.0,0.0,4,3.78,4.15,0.0,0.0,0.0,3.8,59,73.17,stable_partner
+4757,Xtreme Sports Bar,Bangalore,Marathahalli,Continental,premium,4,4,0,3,1,33.33,699.63,2798.51,41.07,48.12,25.0,0,0.0,0.0,3,3.8,3.87,0.0,0.0,0.0,3.8,53,73.16,stable_partner
+105,Hammered,Bangalore,New BEL Road,North Indian,premium,3,3,0,3,0,0.0,594.47,1783.41,37.73,46.81,0.0,0,0.0,0.0,3,5.0,4.47,0.0,0.0,0.0,4.5,2935,72.96,stable_partner
+3366,Nisarga,Bangalore,Basaveshwara Nagar,Andhra,mid,4,4,0,2,1,50.0,354.89,1419.57,35.7,46.73,0.0,0,0.0,0.0,4,3.25,4.5,1.0,25.0,0.0,3.6,110,72.89,stable_partner
+21,TBC Sky Lounge,Bangalore,HSR,Continental,premium,5,5,0,4,1,25.0,637.24,3186.19,49.1,52.83,40.0,0,0.0,0.0,3,4.47,3.73,0.0,0.0,0.0,4.7,6745,72.82,stable_partner
+1238,Samosa Singh,Bangalore,Electronic City,Street Food,low,7,7,0,6,1,16.67,120.0,840.0,35.17,42.95,0.0,0,0.0,0.0,2,3.65,4.3,0.0,0.0,0.0,4.0,427,72.77,stable_partner
+3058,Izakaya Gastro Pub,Bangalore,Whitefield,North Indian,premium,3,3,0,3,0,0.0,726.08,2178.24,38.82,46.74,0.0,0,0.0,0.0,1,5.0,4.9,0.0,0.0,0.0,3.8,129,72.7,stable_partner
+5278,Pepper's - The Palladium,Bangalore,Majestic,North Indian,premium,3,3,0,2,1,50.0,365.55,1096.65,41.42,51.62,33.33,0,0.0,0.0,1,3.8,3.2,0.0,0.0,0.0,3.7,41,72.24,stable_partner
+6412,Haji Ali Juice Centre,Bangalore,MG Road,Beverages,mid,5,4,1,3,1,33.33,243.03,1215.16,33.98,41.83,0.0,0,0.0,0.0,1,4.0,4.0,0.0,0.0,20.0,3.8,23,71.97,stable_partner
+4034,Chef Master,Bangalore,Jayanagar,Kerala,low,6,6,0,5,1,20.0,193.03,1158.16,38.74,45.43,16.67,0,0.0,0.0,5,3.94,4.2,0.0,0.0,0.0,3.8,76,71.94,stable_partner
+751,Mealer.in,Bangalore,Koramangala 4th Block,North Indian,mid,3,2,1,2,1,50.0,267.36,802.09,46.31,52.85,50.0,0,0.0,0.0,1,4.1,4.0,0.0,0.0,33.33,4.2,701,71.76,stable_partner
+34,Chianti,Bangalore,Koramangala 5th Block,Italian,premium,8,7,1,6,1,16.67,922.23,7377.87,38.79,45.75,14.29,0,0.0,0.0,5,4.66,4.0,0.0,0.0,12.5,4.7,4872,71.67,stable_partner
+11063,Hariharan Tiffen Centre,Bangalore,Nagawara,South Indian,low,3,3,0,2,1,50.0,121.94,365.83,47.62,51.0,66.67,0,0.0,0.0,1,4.1,3.3,0.0,0.0,0.0,0.0,0,71.67,stable_partner
+261,Belgian Waffle Factory,Bangalore,Brigade Road,Desserts,mid,4,4,0,4,0,0.0,239.44,957.75,32.55,36.33,0.0,0,0.0,0.0,2,5.0,3.95,0.0,0.0,0.0,4.9,1750,71.61,stable_partner
+2283,Gowdru Hotel,Bangalore,Indiranagar,South Indian,mid,3,3,0,3,0,0.0,226.54,679.61,34.45,44.2,0.0,0,0.0,0.0,2,4.75,4.85,0.0,0.0,0.0,3.9,203,71.47,stable_partner
+3173,Empire Restaurant,Bangalore,JP Nagar,Kerala,mid,8,8,0,6,2,33.33,195.84,1566.69,35.46,44.32,0.0,0,0.0,0.0,4,3.43,4.28,1.0,25.0,0.0,3.6,121,71.27,stable_partner
+1090,PHEW (Play Hard Eat Wild),Bangalore,BTM,Continental,premium,6,6,0,5,1,20.0,454.31,2725.83,42.86,49.04,16.67,0,0.0,0.0,3,3.77,3.9,0.0,0.0,0.0,3.9,488,71.23,stable_partner
+264,Smoor,Bangalore,Indiranagar,Desserts,premium,3,3,0,3,0,0.0,625.33,1875.98,36.39,37.66,0.0,0,0.0,0.0,3,4.6,4.43,0.0,0.0,0.0,4.6,1732,71.21,stable_partner
+5359,Java,Bangalore,Old Airport Road,North Indian,premium,4,4,0,3,1,33.33,391.48,1565.92,40.53,43.15,0.0,0,0.0,0.0,4,3.53,4.68,1.0,25.0,0.0,3.7,39,71.2,stable_partner
+5107,BOX8- Desi Meals,Bangalore,New BEL Road,North Indian,mid,3,3,0,3,0,0.0,305.48,916.43,39.63,44.84,0.0,0,0.0,0.0,3,4.7,4.67,0.0,0.0,0.0,4.4,44,70.9,stable_partner
+950,Euki,Bangalore,Jayanagar,Italian,premium,6,6,0,6,0,0.0,410.81,2464.87,39.84,42.68,0.0,0,0.0,0.0,4,4.58,4.4,0.0,0.0,0.0,4.1,553,70.81,stable_partner
+2528,Inhouse Burger,Bangalore,Marathahalli,Fast Food,mid,4,4,0,3,1,33.33,247.2,988.79,37.3,46.28,25.0,0,0.0,0.0,4,4.4,3.95,1.0,25.0,0.0,4.0,176,70.77,stable_partner
+118,The Pallet,Bangalore,Whitefield,Continental,premium,4,4,0,4,0,0.0,909.93,3639.7,38.26,40.42,0.0,0,0.0,0.0,1,4.6,4.5,0.0,0.0,0.0,4.5,2745,70.63,stable_partner
+4911,Kudil Kerala Kitchen,Bangalore,Marathahalli,Kerala,low,4,3,1,3,1,33.33,151.12,604.48,37.64,49.0,33.33,0,0.0,0.0,2,4.3,4.1,0.0,0.0,25.0,3.8,49,70.29,stable_partner
+1110,Mojo Pizza - 2X Toppings,Bangalore,BTM,Pizza,premium,3,3,0,3,0,0.0,341.78,1025.34,37.64,42.33,0.0,0,0.0,0.0,3,4.6,4.3,0.0,0.0,0.0,4.3,476,70.17,stable_partner
+3574,Sambram Biriyani Paradise,Bangalore,JP Nagar,Biryani,premium,3,3,0,2,1,50.0,325.52,976.55,43.1,48.54,0.0,1,33.33,111.81,2,3.6,4.35,0.0,0.0,0.0,3.6,97,70.16,stable_partner
+6603,Cafe Get Hooked,Bangalore,Banaswadi,Cafe,premium,3,3,0,3,0,0.0,332.45,997.34,43.46,49.42,0.0,0,0.0,0.0,1,4.8,4.5,0.0,0.0,0.0,3.7,21,70.14,stable_partner
+39,Onesta,Bangalore,Indiranagar,Pizza,premium,3,3,0,3,0,0.0,269.56,808.68,38.87,40.65,0.0,0,0.0,0.0,2,4.55,4.15,0.0,0.0,0.0,4.3,4709,70.09,stable_partner
+625,The Royal Corner - Pai Viceroy,Bangalore,Jayanagar,North Indian,premium,3,3,0,3,0,0.0,620.61,1861.84,40.84,43.0,0.0,0,0.0,0.0,3,4.4,4.5,0.0,0.0,0.0,4.2,815,70.0,stable_partner
+436,Sector 7 CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,Bangalore,HSR,Cafe,premium,3,3,0,3,0,0.0,333.73,1001.2,30.13,38.68,0.0,0,0.0,0.0,1,4.2,4.7,0.0,0.0,0.0,4.3,1105,69.98,stable_partner
+2705,eat.fit,Bangalore,Koramangala 5th Block,Healthy Food,mid,3,3,0,3,0,0.0,253.23,759.68,29.87,42.87,0.0,0,0.0,0.0,3,4.57,4.33,0.0,0.0,0.0,4.6,158,69.9,stable_partner
+2066,Cakewala,Bangalore,HSR,Bakery,mid,6,6,0,5,1,20.0,302.14,1812.84,30.43,37.81,0.0,0,0.0,0.0,4,4.3,4.15,1.0,25.0,0.0,4.3,229,69.89,stable_partner
+4035,Temple Meals,Bangalore,Malleshwaram,South Indian,low,3,3,0,2,1,50.0,136.8,410.4,37.27,44.54,0.0,1,33.33,42.53,2,3.65,4.55,0.0,0.0,0.0,3.8,76,69.82,stable_partner
+198,Shanmukha,Bangalore,Jayanagar,Biryani,premium,3,3,0,3,0,0.0,386.51,1159.54,31.28,36.85,0.0,0,0.0,0.0,3,4.47,4.23,0.0,0.0,0.0,4.3,2020,69.8,stable_partner
+598,Barley & Grapes Cafe,Bangalore,Whitefield,Cafe,premium,4,4,0,4,0,0.0,626.95,2507.8,37.09,41.65,0.0,0,0.0,0.0,3,4.57,4.43,0.0,0.0,0.0,4.2,843,69.67,stable_partner
+2392,Brahmins' Thatte Idli,Bangalore,Kalyan Nagar,South Indian,low,4,4,0,4,0,0.0,120.0,480.0,30.06,32.91,0.0,0,0.0,0.0,4,4.5,4.43,0.0,0.0,0.0,4.1,189,69.61,stable_partner
+1818,De Grand Restaurant,Bangalore,Banaswadi,North Indian,premium,3,3,0,3,0,0.0,376.45,1129.34,39.48,42.08,0.0,0,0.0,0.0,2,4.65,4.2,0.0,0.0,0.0,3.9,268,69.49,stable_partner
+7,Onesta,Bangalore,Koramangala 4th Block,Pizza,premium,3,3,0,3,0,0.0,489.05,1467.14,31.09,37.88,0.0,0,0.0,0.0,2,3.95,4.65,0.0,0.0,0.0,4.4,9085,69.47,stable_partner
+2612,Abhiruchi,Bangalore,Kammanahalli,Andhra,premium,5,5,0,4,1,25.0,323.73,1618.65,45.78,54.94,40.0,0,0.0,0.0,4,3.85,4.07,0.0,0.0,0.0,3.8,167,69.45,stable_partner
+2971,Global Flavors,Bangalore,Banaswadi,North Indian,premium,3,3,0,2,1,50.0,711.27,2133.8,35.61,42.81,0.0,1,33.33,342.7,3,3.2,4.63,0.0,0.0,0.0,3.5,135,69.37,stable_partner
+2922,The Chocolate Heaven,Bangalore,Old Airport Road,Desserts,premium,3,3,0,3,0,0.0,507.27,1521.8,38.57,42.84,0.0,0,0.0,0.0,2,4.5,4.45,0.0,0.0,0.0,3.8,139,69.37,stable_partner
+223,Mudpipe Cafe,Bangalore,BTM,Cafe,premium,4,4,0,4,0,0.0,465.66,1862.62,38.52,43.24,0.0,0,0.0,0.0,3,4.2,4.3,0.0,0.0,0.0,4.5,1883,69.34,stable_partner
+1623,Faasos,Bangalore,JP Nagar,North Indian,mid,3,3,0,3,0,0.0,229.41,688.22,38.62,42.32,0.0,0,0.0,0.0,2,4.75,4.1,0.0,0.0,0.0,3.9,313,69.33,stable_partner
+365,Gilly's Restobar,Bangalore,Electronic City,Continental,premium,3,3,0,3,0,0.0,746.61,2239.82,35.13,44.62,0.0,0,0.0,0.0,2,4.35,4.6,0.0,0.0,0.0,4.3,1265,69.32,stable_partner
+396,Green Onion,Bangalore,Residency Road,Chinese,premium,3,3,0,3,0,0.0,287.88,863.64,37.31,41.63,0.0,0,0.0,0.0,2,4.45,4.45,0.0,0.0,0.0,4.3,1199,69.25,stable_partner
+506,Sree Krishna Kafe,Bangalore,Koramangala 5th Block,South Indian,low,5,5,0,5,0,0.0,129.66,648.31,32.7,40.25,0.0,0,0.0,0.0,3,4.1,4.57,0.0,0.0,0.0,4.2,973,69.15,stable_partner
+867,Midnight Mania,Bangalore,BTM,Pizza,premium,4,4,0,4,0,0.0,380.03,1520.1,30.93,35.13,0.0,0,0.0,0.0,3,4.4,4.2,0.0,0.0,0.0,4.1,601,69.11,stable_partner
+401,"3B's - Buddies, Bar & Barbecues",Bangalore,BTM,North Indian,premium,3,3,0,3,0,0.0,781.15,2343.44,31.19,39.0,0.0,0,0.0,0.0,2,4.8,3.9,0.0,0.0,0.0,4.4,1181,69.11,stable_partner
+721,Toscano,Bangalore,Koramangala 7th Block,Italian,premium,3,3,0,3,0,0.0,868.55,2605.66,29.68,32.42,0.0,0,0.0,0.0,2,4.1,4.5,0.0,0.0,0.0,4.5,727,69.1,stable_partner
+30,Empire Restaurant,Bangalore,Jayanagar,North Indian,premium,3,3,0,3,0,0.0,308.93,926.79,37.95,40.12,0.0,0,0.0,0.0,2,4.1,4.35,0.0,0.0,0.0,4.4,5060,69.02,stable_partner
+435,Ente Keralam,Bangalore,Ulsoor,Kerala,premium,5,5,0,4,1,25.0,700.48,3502.42,40.58,46.2,20.0,0,0.0,0.0,5,3.84,4.18,1.0,20.0,0.0,4.0,1106,68.93,stable_partner
+4383,Karachi Bakery,Bangalore,Indiranagar,Bakery,mid,3,3,0,3,0,0.0,315.33,946.0,32.55,41.84,0.0,0,0.0,0.0,3,4.43,4.47,0.0,0.0,0.0,3.9,63,68.76,stable_partner
+3935,Hongkong Noodles,Bangalore,Kalyan Nagar,Chinese,premium,4,4,0,4,0,0.0,463.14,1852.55,41.0,47.27,0.0,0,0.0,0.0,4,4.18,4.65,0.0,0.0,0.0,3.8,80,68.75,stable_partner
+1263,Bharpur Aahar,Bangalore,Jeevan Bhima Nagar,North Indian,low,3,3,0,3,0,0.0,131.79,395.38,37.05,43.22,0.0,0,0.0,0.0,3,4.3,4.47,0.0,0.0,0.0,3.9,419,68.71,stable_partner
+4003,Curries And Pickles,Bangalore,Indiranagar,Andhra,low,3,3,0,2,1,50.0,181.4,544.2,41.66,46.83,0.0,0,0.0,0.0,2,3.0,4.7,1.0,50.0,0.0,3.8,77,68.67,stable_partner
+1091,Domino's Pizza,Bangalore,New BEL Road,Pizza,mid,3,3,0,3,0,0.0,286.58,859.73,32.79,43.13,0.0,0,0.0,0.0,3,3.93,4.93,0.0,0.0,0.0,3.9,487,68.65,stable_partner
+2556,Leon Grill,Bangalore,Koramangala 5th Block,Burger,mid,3,3,0,3,0,0.0,337.12,1011.35,32.27,42.39,0.0,0,0.0,0.0,3,4.5,4.1,0.0,0.0,0.0,4.3,172,68.62,stable_partner
+1687,BOX8- Desi Meals,Bangalore,Residency Road,North Indian,mid,3,3,0,3,0,0.0,263.83,791.5,38.05,41.72,0.0,0,0.0,0.0,2,4.0,4.7,0.0,0.0,0.0,4.3,295,68.55,stable_partner
+3666,Gangothri Veg Restaurant,Bangalore,Koramangala 6th Block,North Indian,low,3,3,0,3,0,0.0,124.9,374.7,41.4,43.77,0.0,0,0.0,0.0,1,4.3,4.6,0.0,0.0,0.0,3.7,93,68.51,stable_partner
+855,Rajdhani Thali Restaurant,Bangalore,Malleshwaram,North Indian,premium,3,3,0,3,0,0.0,597.79,1793.38,32.73,45.22,0.0,0,0.0,0.0,2,4.25,4.25,0.0,0.0,0.0,4.0,610,68.35,stable_partner
+6498,Eagles Pizza,Bangalore,Kalyan Nagar,Pizza,premium,3,3,0,3,0,0.0,466.0,1398.0,34.89,41.06,0.0,0,0.0,0.0,2,4.2,4.65,0.0,0.0,0.0,3.8,22,68.31,stable_partner
+2493,Just Shawarma,Bangalore,New BEL Road,Arabian,low,5,5,0,5,0,0.0,142.04,710.21,38.61,43.8,0.0,0,0.0,0.0,2,4.15,4.5,0.0,0.0,0.0,3.8,179,68.28,stable_partner
+4158,Polar Bear,Bangalore,HSR,Desserts,mid,3,3,0,3,0,0.0,219.41,658.23,28.62,34.39,0.0,0,0.0,0.0,1,4.3,4.4,0.0,0.0,0.0,4.1,71,68.28,stable_partner
+1549,Hakka Chinese Restaurant,Bangalore,Koramangala 1st Block,Chinese,premium,3,3,0,3,0,0.0,281.22,843.67,40.07,46.81,0.0,0,0.0,0.0,1,4.7,3.7,0.0,0.0,0.0,3.9,332,68.24,stable_partner
+760,Al-Bek,Bangalore,Jayanagar,North Indian,premium,4,4,0,4,0,0.0,290.1,1160.4,34.49,41.29,0.0,0,0.0,0.0,3,4.27,4.1,0.0,0.0,0.0,4.0,692,68.22,stable_partner
+3160,The Pancake Story,Bangalore,Koramangala 1st Block,Desserts,low,6,6,0,5,1,20.0,186.33,1117.98,43.6,50.63,33.33,0,0.0,0.0,5,4.74,3.92,1.0,20.0,0.0,4.6,121,68.21,stable_partner
+1717,Drunken Monkey,Bangalore,Bannerghatta Road,Beverages,mid,3,3,0,3,0,0.0,254.11,762.33,31.03,39.01,0.0,0,0.0,0.0,1,4.1,4.4,0.0,0.0,0.0,4.4,290,68.16,stable_partner
+3214,The Jade Kitchen,Bangalore,JP Nagar,Chinese,mid,4,4,0,4,0,0.0,207.64,830.55,38.49,45.08,0.0,0,0.0,0.0,3,4.17,4.43,0.0,0.0,0.0,4.0,118,68.06,stable_partner
+2245,Shanthi Sagar,Bangalore,Ulsoor,South Indian,low,4,4,0,4,0,0.0,159.69,638.74,32.45,36.34,0.0,0,0.0,0.0,2,4.3,4.2,0.0,0.0,0.0,4.0,208,68.04,stable_partner
+2823,Amma's Pastries,Bangalore,HSR,Bakery,mid,4,4,0,4,0,0.0,270.69,1082.74,34.41,38.44,0.0,0,0.0,0.0,4,4.47,4.28,0.0,0.0,0.0,4.1,148,67.98,stable_partner
+1283,Achayyan's,Bangalore,Indiranagar,Kerala,mid,3,3,0,3,0,0.0,216.0,648.01,34.66,37.22,0.0,0,0.0,0.0,3,4.37,4.17,0.0,0.0,0.0,3.8,410,67.97,stable_partner
+1659,Desi Dhaba,Bangalore,Electronic City,Chinese,low,5,5,0,5,0,0.0,158.43,792.16,38.52,44.77,0.0,0,0.0,0.0,3,3.83,4.77,0.0,0.0,0.0,3.8,303,67.94,stable_partner
+7086,Shree Udupi Grand,Bangalore,Jayanagar,South Indian,premium,3,3,0,3,0,0.0,386.96,1160.87,33.1,41.61,0.0,0,0.0,0.0,3,4.27,4.43,0.0,0.0,0.0,3.8,16,67.86,stable_partner
+3777,Spice Cove - I.V Sanctum,Bangalore,Majestic,North Indian,premium,3,3,0,3,0,0.0,349.74,1049.23,42.0,47.24,0.0,0,0.0,0.0,2,4.5,4.3,0.0,0.0,0.0,3.8,88,67.8,stable_partner
+775,KFC,Bangalore,Electronic City,Burger,mid,3,3,0,3,0,0.0,257.19,771.58,38.96,40.85,0.0,0,0.0,0.0,3,4.17,4.3,0.0,0.0,0.0,3.9,682,67.8,stable_partner
+1966,Samosa Singh,Bangalore,Marathahalli,Street Food,low,3,3,0,3,0,0.0,130.19,390.56,29.49,31.52,0.0,0,0.0,0.0,3,4.3,4.17,0.0,0.0,0.0,4.0,244,67.79,stable_partner
+2655,The Rasaganga,Bangalore,HSR,South Indian,low,3,3,0,3,0,0.0,184.86,554.58,41.49,46.35,0.0,0,0.0,0.0,1,3.8,4.9,0.0,0.0,0.0,3.9,163,67.76,stable_partner
+4267,RS Shiv Sagar Express,Bangalore,Residency Road,South Indian,low,9,9,0,6,2,33.33,171.88,1546.96,38.61,52.21,22.22,0,0.0,0.0,7,3.51,4.06,2.0,28.57,0.0,4.0,67,67.75,stable_partner
+8671,The little Kitchen,Bangalore,JP Nagar,Chinese,low,5,4,1,4,1,25.0,208.98,1044.88,35.23,42.08,0.0,0,0.0,0.0,2,3.2,4.6,0.0,0.0,20.0,3.4,6,67.7,stable_partner
+3856,Just Bake,Bangalore,New BEL Road,Bakery,mid,7,7,0,5,2,40.0,190.15,1331.08,36.25,40.05,0.0,0,0.0,0.0,3,3.2,4.27,2.0,66.67,0.0,2.6,84,67.68,stable_partner
+3298,Kanti Sweets,Bangalore,Rajajinagar,Mithai,mid,3,3,0,3,0,0.0,236.59,709.76,36.2,40.22,0.0,0,0.0,0.0,1,4.5,4.0,0.0,0.0,0.0,3.8,114,67.67,stable_partner
+5132,Goli Vada Pav No. 1,Bangalore,JP Nagar,Street Food,low,4,4,0,3,1,33.33,141.8,567.18,43.44,46.63,0.0,0,0.0,0.0,3,3.4,4.27,1.0,33.33,0.0,3.3,44,67.66,stable_partner
+335,Hyderabadi Spice,Bangalore,Electronic City,Biryani,premium,4,4,0,4,0,0.0,370.05,1480.18,39.25,47.73,0.0,0,0.0,0.0,1,3.7,4.6,0.0,0.0,0.0,4.0,1369,67.61,stable_partner
+480,Pind Balluchi,Bangalore,Brigade Road,North Indian,premium,6,6,0,4,2,50.0,468.38,2810.27,41.38,55.16,33.33,1,16.67,128.57,3,3.93,3.9,0.0,0.0,0.0,4.0,1025,67.59,stable_partner
+515,Checkpost,Bangalore,JP Nagar,South Indian,premium,4,4,0,4,0,0.0,389.07,1556.29,33.04,40.41,0.0,0,0.0,0.0,2,3.75,4.55,0.0,0.0,0.0,4.0,960,67.57,stable_partner
+3948,BOX8- Desi Meals,Bangalore,Whitefield,North Indian,mid,3,3,0,3,0,0.0,303.22,909.66,40.14,41.46,0.0,0,0.0,0.0,2,4.2,4.25,0.0,0.0,0.0,4.2,79,67.57,stable_partner
+2122,Gogula's Sweets & Chats,Bangalore,BTM,Mithai,low,4,4,0,3,1,33.33,130.06,520.25,32.95,43.45,0.0,1,25.0,62.54,3,3.5,4.27,0.0,0.0,0.0,4.0,221,67.56,stable_partner
+938,Aagaman Veg,Bangalore,Indiranagar,North Indian,premium,3,3,0,3,0,0.0,512.47,1537.41,38.59,47.56,0.0,0,0.0,0.0,2,4.0,4.3,0.0,0.0,0.0,4.0,560,67.48,stable_partner
+12018,Chef Baker's,Bangalore,New BEL Road,Bakery,mid,3,3,0,3,0,0.0,238.37,715.12,34.93,38.32,0.0,0,0.0,0.0,3,4.23,4.73,0.0,0.0,0.0,0.0,0,67.48,stable_partner
+9,Empire Restaurant,Bangalore,Indiranagar,North Indian,premium,3,3,0,3,0,0.0,458.52,1375.57,42.4,47.33,0.0,0,0.0,0.0,1,4.1,3.9,0.0,0.0,0.0,4.1,8304,67.47,stable_partner
+1025,D View Cafe,Bangalore,JP Nagar,Cafe,premium,4,4,0,4,0,0.0,675.99,2703.97,37.08,43.16,0.0,0,0.0,0.0,3,3.8,4.5,0.0,0.0,0.0,4.0,516,67.46,stable_partner
+4402,EggFactor - Street House,Bangalore,HSR,Fast Food,low,3,3,0,3,0,0.0,131.46,394.39,35.38,38.34,0.0,0,0.0,0.0,2,4.0,4.5,0.0,0.0,0.0,4.2,62,67.46,stable_partner
+3775,Feaster,Bangalore,HSR,Continental,premium,3,3,0,3,0,0.0,456.1,1368.3,40.92,44.47,0.0,0,0.0,0.0,2,4.5,3.85,0.0,0.0,0.0,3.8,88,67.45,stable_partner
+3644,Light House Cafe,Bangalore,Marathahalli,Cafe,premium,5,5,0,5,0,0.0,316.16,1580.82,36.73,47.39,0.0,0,0.0,0.0,3,4.17,4.17,0.0,0.0,0.0,3.7,94,67.4,stable_partner
+1302,BluO,Bangalore,Malleshwaram,Continental,premium,4,4,0,4,0,0.0,787.74,3150.94,37.72,47.39,0.0,0,0.0,0.0,3,4.27,4.17,0.0,0.0,0.0,4.1,405,67.4,stable_partner
+1211,Amma's Pastries,Bangalore,BTM,Bakery,mid,5,5,0,5,0,0.0,178.13,890.63,39.22,44.64,0.0,0,0.0,0.0,2,4.05,4.45,0.0,0.0,0.0,4.2,434,67.39,stable_partner
+4302,Creamvilla,Bangalore,Sarjapur Road,Cafe,premium,4,4,0,3,1,33.33,372.85,1491.39,30.03,35.48,0.0,0,0.0,0.0,2,3.35,4.45,1.0,50.0,0.0,3.9,66,67.39,stable_partner
+1020,Cafe Palmyra,Bangalore,Whitefield,Chinese,premium,3,3,0,3,0,0.0,1115.6,3346.79,41.25,45.85,0.0,0,0.0,0.0,3,4.2,4.27,0.0,0.0,0.0,4.2,519,67.39,stable_partner
+224,Oye Amritsar,Bangalore,Koramangala 6th Block,North Indian,premium,5,5,0,5,0,0.0,382.32,1911.6,40.34,52.94,20.0,0,0.0,0.0,2,4.35,4.4,0.0,0.0,0.0,4.0,1880,67.38,stable_partner
+3822,Biggies Burger 'n' More,Bangalore,Marathahalli,Cafe,mid,3,3,0,3,0,0.0,216.73,650.2,30.83,38.35,0.0,0,0.0,0.0,2,4.4,3.95,0.0,0.0,0.0,4.1,85,67.37,stable_partner
+2967,Khan Saheb Grills and Rolls,Bangalore,Jayanagar,Fast Food,mid,5,5,0,5,0,0.0,182.37,911.84,37.43,45.63,0.0,0,0.0,0.0,4,4.05,4.3,0.0,0.0,0.0,3.9,135,67.32,stable_partner
+3977,Ibaco,Bangalore,Basavanagudi,Desserts,low,4,4,0,4,0,0.0,225.76,903.04,41.09,45.1,0.0,0,0.0,0.0,4,4.35,4.05,0.0,0.0,0.0,3.8,78,67.32,stable_partner
+2728,Dhyaana,Bangalore,Indiranagar,Cafe,premium,3,3,0,3,0,0.0,372.48,1117.43,25.45,31.6,0.0,0,0.0,0.0,1,4.4,3.7,0.0,0.0,0.0,4.3,156,67.29,stable_partner
+471,Toscano,Bangalore,Whitefield,Italian,premium,3,3,0,3,0,0.0,861.22,2583.65,41.08,43.89,0.0,0,0.0,0.0,3,4.3,3.7,0.0,0.0,0.0,4.2,1038,67.26,stable_partner
+2403,Frozen Bottle,Bangalore,HSR,Beverages,mid,3,3,0,3,0,0.0,196.0,588.0,28.02,39.61,0.0,0,0.0,0.0,3,4.17,4.13,0.0,0.0,0.0,4.1,187,67.19,stable_partner
+3992,PurpleBasil.in,Bangalore,Kammanahalli,Healthy Food,mid,4,4,0,4,0,0.0,241.24,964.96,35.58,44.52,0.0,0,0.0,0.0,3,3.97,4.4,0.0,0.0,0.0,4.1,77,67.18,stable_partner
+1507,BOX8- Desi Meals,Bangalore,Kammanahalli,North Indian,mid,3,3,0,3,0,0.0,367.15,1101.44,34.58,43.45,0.0,0,0.0,0.0,2,4.15,4.1,0.0,0.0,0.0,4.1,343,67.17,stable_partner
+2737,Shakes Theory,Bangalore,Jayanagar,Beverages,low,3,3,0,3,0,0.0,168.57,505.7,31.13,33.9,0.0,0,0.0,0.0,3,4.1,4.07,0.0,0.0,0.0,4.5,155,67.12,stable_partner
+2052,Kitchens@BTM,Bangalore,BTM,Biryani,mid,4,4,0,4,0,0.0,269.65,1078.6,36.62,42.67,0.0,0,0.0,0.0,2,3.9,4.45,0.0,0.0,0.0,3.9,232,67.1,stable_partner
+5428,Just Bake,Bangalore,Whitefield,Bakery,mid,3,3,0,3,0,0.0,298.75,896.24,34.52,37.32,0.0,0,0.0,0.0,2,4.2,4.3,0.0,0.0,0.0,3.8,38,67.1,stable_partner
+1354,New Peking,Bangalore,Kammanahalli,Chinese,premium,3,3,0,3,0,0.0,443.73,1331.18,34.2,42.27,0.0,0,0.0,0.0,1,3.7,4.6,0.0,0.0,0.0,4.0,386,67.09,stable_partner
+2103,Atithi,Bangalore,HSR,North Indian,premium,3,3,0,3,0,0.0,501.34,1504.01,35.21,45.29,0.0,0,0.0,0.0,2,4.25,3.95,0.0,0.0,0.0,3.9,224,67.09,stable_partner
+11465,Masale Daan,Bangalore,Kammanahalli,North Indian,mid,3,3,0,3,0,0.0,227.3,681.89,27.49,36.85,0.0,0,0.0,0.0,2,4.3,4.5,0.0,0.0,0.0,0.0,0,67.07,stable_partner
+2235,Frozen Bottle,Bangalore,Electronic City,Beverages,mid,3,3,0,3,0,0.0,235.23,705.68,27.81,34.23,0.0,0,0.0,0.0,2,4.3,3.9,0.0,0.0,0.0,4.1,209,67.05,stable_partner
+399,Gyani Da Punjabi Dhaba,Bangalore,BTM,North Indian,mid,3,3,0,3,0,0.0,247.32,741.97,38.21,42.35,0.0,0,0.0,0.0,2,4.05,4.15,0.0,0.0,0.0,3.9,1190,67.01,stable_partner
+833,Biryanis And More,Bangalore,Jayanagar,Biryani,premium,3,3,0,3,0,0.0,441.02,1323.06,39.56,41.14,0.0,0,0.0,0.0,2,3.8,4.35,0.0,0.0,0.0,4.1,631,66.97,stable_partner
+1300,The Paratha Company,Bangalore,Whitefield,North Indian,mid,3,3,0,3,0,0.0,169.31,507.93,31.33,33.48,0.0,0,0.0,0.0,1,3.9,4.3,0.0,0.0,0.0,4.2,405,66.92,stable_partner
+2653,Kanti Sweets,Bangalore,Bellandur,Mithai,mid,4,3,1,4,0,0.0,252.03,1008.1,35.14,41.79,0.0,0,0.0,0.0,1,5.0,4.6,0.0,0.0,25.0,4.1,163,66.88,stable_partner
+4741,Malties - Radisson Blu,Bangalore,Marathahalli,Continental,premium,4,4,0,4,0,0.0,2268.67,9074.67,37.69,42.34,0.0,0,0.0,0.0,3,3.83,4.67,0.0,0.0,0.0,4.3,53,66.86,stable_partner
+8460,Adyar Ananda Bhavan - Sweets,Bangalore,BTM,Mithai,low,3,3,0,3,0,0.0,138.35,415.06,28.13,30.4,0.0,0,0.0,0.0,1,3.9,4.9,0.0,0.0,0.0,3.4,7,66.86,stable_partner
+576,Stoned Monkey,Bangalore,Banashankari,Desserts,mid,3,3,0,3,0,0.0,232.6,697.79,31.93,40.97,0.0,0,0.0,0.0,2,3.5,4.7,0.0,0.0,0.0,4.3,865,66.82,stable_partner
+1434,Coastal Hub,Bangalore,Whitefield,Kerala,premium,3,3,0,3,0,0.0,360.1,1080.29,23.51,24.08,0.0,0,0.0,0.0,2,4.2,3.85,0.0,0.0,0.0,4.0,364,66.82,stable_partner
+1734,eat.fit,Bangalore,Nagawara,Healthy Food,mid,3,3,0,3,0,0.0,366.9,1100.71,37.88,48.72,33.33,0,0.0,0.0,2,4.8,4.4,0.0,0.0,0.0,4.4,287,66.79,stable_partner
+10325,Crepe Connection,Bangalore,Marathahalli,Fast Food,mid,3,3,0,3,0,0.0,310.88,932.64,37.08,41.06,0.0,0,0.0,0.0,2,4.45,4.2,0.0,0.0,0.0,0.0,0,66.77,stable_partner
+1951,Andhra Kafe,Bangalore,Whitefield,Andhra,premium,3,3,0,3,0,0.0,323.1,969.29,33.91,43.46,0.0,0,0.0,0.0,2,3.85,4.4,0.0,0.0,0.0,3.8,247,66.76,stable_partner
+697,BiereKraft,Bangalore,Marathahalli,Continental,premium,3,3,0,3,0,0.0,769.88,2309.65,45.58,48.95,0.0,0,0.0,0.0,3,3.87,4.47,0.0,0.0,0.0,4.2,746,66.76,stable_partner
+3458,Faasos,Bangalore,Old Airport Road,North Indian,mid,5,4,1,4,0,0.0,329.13,1645.67,40.39,44.74,0.0,0,0.0,0.0,1,4.7,5.0,0.0,0.0,20.0,3.9,104,66.75,stable_partner
+1739,McDonald's,Bangalore,Banashankari,Burger,mid,3,3,0,3,0,0.0,201.83,605.5,36.02,38.42,0.0,0,0.0,0.0,2,3.55,4.85,0.0,0.0,0.0,3.9,286,66.75,stable_partner
+1708,Maiyas,Bangalore,Malleshwaram,South Indian,low,4,4,0,4,0,0.0,209.14,836.56,38.21,42.92,0.0,0,0.0,0.0,3,4.03,4.13,0.0,0.0,0.0,3.9,291,66.72,stable_partner
+3722,Spice Boulevard,Bangalore,Whitefield,Cafe,premium,4,4,0,4,0,0.0,431.27,1725.06,30.99,35.77,0.0,0,0.0,0.0,2,4.7,3.55,0.0,0.0,0.0,3.9,90,66.67,stable_partner
+5368,Tim Cafe,Bangalore,Marathahalli,Cafe,low,3,3,0,3,0,0.0,157.66,472.97,37.95,42.05,0.0,0,0.0,0.0,3,3.9,4.63,0.0,0.0,0.0,3.6,39,66.67,stable_partner
+6271,Cafe Bollywood,Bangalore,JP Nagar,Street Food,low,3,3,0,2,1,50.0,129.74,389.23,38.38,42.02,0.0,0,0.0,0.0,3,2.93,4.7,2.0,66.67,0.0,3.4,25,66.67,stable_partner
+7452,The Velu's,Bangalore,Domlur,Fast Food,low,3,3,0,2,1,50.0,161.34,484.01,37.1,44.88,0.0,0,0.0,0.0,3,3.0,4.23,2.0,66.67,0.0,3.6,13,66.61,stable_partner
+4588,The Hungers Zone,Bangalore,BTM,Fast Food,low,3,3,0,2,1,50.0,213.4,640.19,41.77,50.91,33.33,1,33.33,206.1,1,4.2,3.8,0.0,0.0,0.0,3.8,57,66.53,stable_partner
+2192,2 Statez,Bangalore,Kalyan Nagar,Kerala,premium,3,3,0,3,0,0.0,292.5,877.49,33.85,39.73,0.0,0,0.0,0.0,1,3.9,4.3,0.0,0.0,0.0,3.7,214,66.51,stable_partner
+2170,Lassi Shop,Bangalore,Koramangala 5th Block,Beverages,low,3,3,0,3,0,0.0,124.23,372.7,39.85,47.62,0.0,0,0.0,0.0,2,3.9,4.25,0.0,0.0,0.0,4.1,216,66.5,stable_partner
+3281,Mitraa Da Pizza,Bangalore,Kumaraswamy Layout,Fast Food,low,5,5,0,5,0,0.0,152.92,764.61,40.85,47.53,20.0,0,0.0,0.0,4,4.2,4.7,0.0,0.0,0.0,3.8,115,66.47,stable_partner
+5473,Bakers77,Bangalore,Jayanagar,Bakery,mid,3,3,0,3,0,0.0,214.92,644.77,39.27,45.83,0.0,0,0.0,0.0,2,3.8,4.55,0.0,0.0,0.0,4.0,37,66.46,stable_partner
+603,Pizza Hut,Bangalore,Indiranagar,Pizza,premium,3,3,0,3,0,0.0,351.01,1053.03,29.49,38.68,0.0,0,0.0,0.0,3,3.6,4.57,0.0,0.0,0.0,3.7,835,66.46,stable_partner
+2030,Ragoo's,Bangalore,Jayanagar,Italian,premium,3,3,0,3,0,0.0,411.41,1234.22,35.08,38.82,0.0,0,0.0,0.0,3,3.8,4.33,0.0,0.0,0.0,3.9,234,66.44,stable_partner
+1738,29 Degrees North,Bangalore,Banaswadi,North Indian,low,3,3,0,3,0,0.0,139.32,417.96,42.05,54.16,33.33,0,0.0,0.0,2,4.7,4.6,0.0,0.0,0.0,3.9,287,66.44,stable_partner
+2555,Barbeque Delight,Bangalore,Electronic City,Arabian,premium,4,4,0,4,0,0.0,316.51,1266.05,34.4,39.77,0.0,0,0.0,0.0,2,3.85,4.4,0.0,0.0,0.0,3.4,173,66.43,stable_partner
+817,Fish & Fries Restaurant,Bangalore,HSR,Continental,premium,3,3,0,3,0,0.0,403.51,1210.54,37.94,41.51,0.0,0,0.0,0.0,3,4.03,4.23,0.0,0.0,0.0,4.0,649,66.43,stable_partner
+2664,Just Fresh Point,Bangalore,Electronic City,Street Food,low,5,5,0,5,0,0.0,159.71,798.55,30.07,36.38,0.0,0,0.0,0.0,1,3.4,4.8,0.0,0.0,0.0,4.0,162,66.37,stable_partner
+500,Kabab Magic,Bangalore,Jayanagar,North Indian,mid,3,3,0,3,0,0.0,319.71,959.14,35.03,40.36,0.0,0,0.0,0.0,2,3.9,4.15,0.0,0.0,0.0,3.9,984,66.36,stable_partner
+2282,Have More,Bangalore,Kammanahalli,North Indian,premium,6,6,0,5,1,20.0,374.51,2247.05,34.57,43.97,0.0,0,0.0,0.0,5,3.38,4.16,1.0,20.0,0.0,3.9,203,66.32,stable_partner
+1410,Al Khansah,Bangalore,Bellandur,Biryani,premium,3,3,0,3,0,0.0,393.2,1179.61,39.5,39.52,0.0,0,0.0,0.0,2,3.8,4.25,0.0,0.0,0.0,3.9,372,66.32,stable_partner
+5317,Biryani Miya,Bangalore,Koramangala 4th Block,Biryani,premium,3,3,0,2,1,50.0,392.24,1176.71,46.12,49.62,33.33,0,0.0,0.0,3,3.87,3.53,1.0,33.33,0.0,3.8,40,66.28,stable_partner
+2368,Calorie Express,Bangalore,BTM,Healthy Food,mid,3,3,0,3,0,0.0,313.08,939.23,39.65,43.85,0.0,0,0.0,0.0,1,4.1,4.1,0.0,0.0,0.0,3.6,193,66.28,stable_partner
+3139,WOW! Momo,Bangalore,Brigade Road,Chinese,mid,3,3,0,3,0,0.0,247.23,741.7,30.55,35.75,0.0,0,0.0,0.0,2,3.95,4.3,0.0,0.0,0.0,3.7,123,66.28,stable_partner
+10760,MRA,Bangalore,Electronic City,Bakery,low,3,3,0,3,0,0.0,127.18,381.54,33.13,41.54,0.0,0,0.0,0.0,1,4.4,4.1,0.0,0.0,0.0,0.0,0,66.27,stable_partner
+4159,Waffle Stories,Bangalore,BTM,Desserts,low,4,3,1,4,0,0.0,206.46,825.83,31.22,35.83,0.0,0,0.0,0.0,1,4.7,4.9,0.0,0.0,25.0,4.0,71,66.27,stable_partner
+6495,Calvin's,Bangalore,HSR,Desserts,premium,3,3,0,3,0,0.0,691.98,2075.95,40.52,46.82,0.0,0,0.0,0.0,2,3.5,4.9,0.0,0.0,0.0,3.8,22,66.26,stable_partner
+1394,Sikori,Bangalore,Kalyan Nagar,Street Food,mid,3,3,0,3,0,0.0,215.04,645.13,34.96,42.01,0.0,0,0.0,0.0,2,4.0,3.95,0.0,0.0,0.0,4.2,376,66.25,stable_partner
+2920,Thamboola,Bangalore,Banashankari,North Indian,premium,4,4,0,4,0,0.0,454.69,1818.74,37.11,44.61,0.0,0,0.0,0.0,3,3.7,4.4,0.0,0.0,0.0,3.8,139,66.22,stable_partner
+4055,Cream Chemistry,Bangalore,HSR,Ice Cream,mid,3,3,0,3,0,0.0,305.26,915.77,29.98,38.23,0.0,0,0.0,0.0,1,3.6,4.7,0.0,0.0,0.0,3.9,75,66.17,stable_partner
+1095,Naati Manae,Bangalore,Koramangala 5th Block,North Indian,premium,3,3,0,3,0,0.0,319.16,957.48,30.48,31.63,0.0,0,0.0,0.0,3,4.23,3.6,0.0,0.0,0.0,3.9,485,66.16,stable_partner
+2627,Swathi Spice n Ice,Bangalore,HSR,Andhra,premium,3,3,0,3,0,0.0,365.72,1097.17,33.45,44.93,0.0,0,0.0,0.0,3,3.93,4.23,0.0,0.0,0.0,3.5,166,66.14,stable_partner
+239,Nagarjuna,Bangalore,Residency Road,Andhra,premium,3,3,0,1,1,100.0,476.33,1428.98,37.01,45.25,33.33,1,33.33,113.81,2,4.0,3.7,0.0,0.0,0.0,4.3,1817,66.14,stable_partner
+1,Byg Brewski Brewing Company,Bangalore,Sarjapur Road,Continental,premium,3,3,0,3,0,0.0,904.95,2714.85,43.3,46.1,33.33,0,0.0,0.0,3,4.53,3.93,0.0,0.0,0.0,4.9,16832,66.14,stable_partner
+1975,Shaap,Bangalore,Indiranagar,Kerala,mid,5,5,0,5,0,0.0,283.2,1416.0,37.25,42.51,0.0,0,0.0,0.0,3,4.13,3.7,0.0,0.0,0.0,4.0,243,66.09,stable_partner
+97,Kapoor's Cafe,Bangalore,Whitefield,North Indian,premium,3,3,0,3,0,0.0,551.12,1653.36,38.55,41.82,0.0,0,0.0,0.0,2,3.65,4.4,0.0,0.0,0.0,4.2,3021,66.02,stable_partner
+3884,Haagen Dazs,Bangalore,Koramangala 7th Block,Ice Cream,premium,3,3,0,3,0,0.0,484.94,1454.82,37.37,46.79,0.0,0,0.0,0.0,2,4.15,3.8,0.0,0.0,0.0,3.9,82,65.99,stable_partner
+6526,Aadvik Nightfood,Bangalore,Frazer Town,Fast Food,mid,3,3,0,3,0,0.0,200.57,601.7,30.53,36.53,0.0,0,0.0,0.0,3,4.03,4.27,0.0,0.0,0.0,3.6,22,65.97,stable_partner
+2976,Dream a Dozen,Bangalore,JP Nagar,Bakery,low,3,3,0,3,0,0.0,164.53,493.59,29.49,34.91,0.0,0,0.0,0.0,2,3.85,4.1,0.0,0.0,0.0,4.3,134,65.96,stable_partner
+2244,Mavalli Tiffin Room (MTR),Bangalore,Kalyan Nagar,South Indian,low,3,3,0,3,0,0.0,156.36,469.07,39.06,46.67,0.0,0,0.0,0.0,1,3.9,4.4,0.0,0.0,0.0,4.1,208,65.95,stable_partner
+79,Sultans of Spice,Bangalore,Koramangala 5th Block,North Indian,premium,5,5,0,5,0,0.0,826.28,4131.39,40.39,47.83,40.0,0,0.0,0.0,3,4.83,3.87,0.0,0.0,0.0,4.5,3473,65.92,stable_partner
+4705,Tisano Cafe,Bangalore,Bannerghatta Road,Cafe,mid,4,4,0,3,1,33.33,259.93,1039.73,39.52,49.52,25.0,0,0.0,0.0,3,3.8,4.0,1.0,33.33,0.0,3.8,54,65.92,stable_partner
+864,Midnight Mania,Bangalore,Marathahalli,Pizza,premium,4,4,0,4,0,0.0,450.49,1801.96,32.28,39.39,0.0,0,0.0,0.0,3,3.63,4.27,0.0,0.0,0.0,3.8,604,65.91,stable_partner
+3998,All Shook Up!,Bangalore,Domlur,Desserts,low,3,3,0,3,0,0.0,131.4,394.2,36.84,40.57,0.0,0,0.0,0.0,2,4.05,4.0,0.0,0.0,0.0,3.9,77,65.88,stable_partner
+3342,Polar Bear,Bangalore,Marathahalli,Desserts,mid,3,3,0,3,0,0.0,148.18,444.55,27.23,31.82,0.0,0,0.0,0.0,2,3.85,4.2,0.0,0.0,0.0,4.0,111,65.88,stable_partner
+1539,Season - Adarsh Hamilton,Bangalore,Richmond Road,North Indian,premium,3,3,0,3,0,0.0,561.76,1685.27,48.13,56.59,33.33,0,0.0,0.0,2,4.8,4.35,0.0,0.0,0.0,4.3,334,65.87,stable_partner
+4638,Fine Dine Restaurant,Bangalore,HSR,North Indian,premium,3,3,0,3,0,0.0,577.0,1731.0,30.27,35.98,0.0,0,0.0,0.0,1,3.5,4.7,0.0,0.0,0.0,3.7,56,65.78,stable_partner
+2636,Manchow,Bangalore,Bellandur,Chinese,premium,4,4,0,4,0,0.0,283.06,1132.25,37.81,45.6,0.0,0,0.0,0.0,1,3.8,4.1,0.0,0.0,0.0,3.8,165,65.76,stable_partner
+1414,Shri Madhuram,Bangalore,HSR,South Indian,mid,3,3,0,3,0,0.0,218.92,656.77,35.26,43.03,0.0,0,0.0,0.0,3,3.97,4.27,0.0,0.0,0.0,3.9,371,65.76,stable_partner
+9703,Mumbai Kulfi,Bangalore,Marathahalli,Desserts,low,3,3,0,3,0,0.0,120.0,360.0,42.13,47.83,0.0,0,0.0,0.0,2,4.3,4.05,0.0,0.0,0.0,0.0,0,65.72,stable_partner
+6055,Shree Guru Sagar Fast Food,Bangalore,Rajajinagar,North Indian,low,4,4,0,4,0,0.0,158.69,634.76,31.26,35.62,0.0,0,0.0,0.0,3,3.9,4.27,0.0,0.0,0.0,3.6,28,65.71,stable_partner
+6428,Sri Rajalakshmi Sweets,Bangalore,Marathahalli,Mithai,low,4,4,0,4,0,0.0,141.59,566.35,33.24,37.11,0.0,0,0.0,0.0,3,3.7,4.5,0.0,0.0,0.0,3.7,23,65.66,stable_partner
+4043,Kusum Rolls,Bangalore,New BEL Road,Street Food,low,4,4,0,4,0,0.0,193.57,774.27,47.48,49.35,0.0,0,0.0,0.0,2,4.1,3.9,0.0,0.0,0.0,3.6,76,65.65,stable_partner
+3660,Bhavani Chats N Juice,Bangalore,Jayanagar,Beverages,low,3,3,0,3,0,0.0,151.07,453.2,36.5,39.02,0.0,0,0.0,0.0,3,3.7,4.37,0.0,0.0,0.0,3.9,93,65.64,stable_partner
+6330,Tiffin Inn's,Bangalore,Marathahalli,South Indian,low,3,3,0,3,0,0.0,157.28,471.84,34.22,37.69,0.0,0,0.0,0.0,3,3.87,4.3,0.0,0.0,0.0,3.7,24,65.55,stable_partner
+82,Meghana Foods Grand,Bangalore,Marathahalli,Biryani,premium,3,3,0,3,0,0.0,381.21,1143.64,37.76,45.81,0.0,0,0.0,0.0,2,3.75,3.75,0.0,0.0,0.0,4.2,3367,65.5,stable_partner
+3955,Just Shawarma,Bangalore,HSR,Arabian,low,6,6,0,6,0,0.0,166.75,1000.52,39.13,46.49,0.0,0,0.0,0.0,4,3.5,4.4,0.0,0.0,0.0,3.9,79,65.49,stable_partner
+9478,The Samosa Co,Bangalore,Jayanagar,Fast Food,low,4,4,0,4,0,0.0,135.65,542.61,40.95,45.8,0.0,0,0.0,0.0,4,4.13,4.13,0.0,0.0,0.0,0.0,0,65.48,stable_partner
+7389,Up Shawarma,Bangalore,Bellandur,Arabian,low,4,4,0,4,0,0.0,120.72,482.88,42.37,46.47,0.0,0,0.0,0.0,3,3.7,4.57,0.0,0.0,0.0,3.4,14,65.43,stable_partner
+3172,The Higher Taste Stores,Bangalore,Malleshwaram,Fast Food,low,3,3,0,3,0,0.0,196.41,589.24,35.72,39.16,0.0,0,0.0,0.0,1,4.0,3.9,0.0,0.0,0.0,3.8,121,65.38,stable_partner
+12284,Orbis Market Kitchen,Bangalore,Whitefield,Arabian,premium,3,3,0,3,0,0.0,328.18,984.55,34.39,45.87,0.0,0,0.0,0.0,2,3.9,4.7,0.0,0.0,0.0,0.0,0,65.37,stable_partner
+472,The Coastal Crew by Fujian on 24th,Bangalore,JP Nagar,Chinese,premium,3,3,0,3,0,0.0,690.54,2071.63,40.35,45.71,33.33,0,0.0,0.0,1,4.1,4.9,0.0,0.0,0.0,0.0,1037,65.34,stable_partner
+523,Maa Reddy's Hyderabadi Biryani House,Bangalore,Electronic City,Biryani,mid,3,3,0,3,0,0.0,268.79,806.38,35.46,41.79,33.33,0,0.0,0.0,1,4.1,5.0,0.0,0.0,0.0,3.7,945,65.32,stable_partner
+4111,Lassi Shop,Bangalore,Whitefield,Beverages,low,6,6,0,6,0,0.0,123.48,740.9,32.31,37.37,0.0,0,0.0,0.0,1,3.3,4.6,0.0,0.0,0.0,3.9,73,65.27,stable_partner
+2354,Apsara Ice Cream,Bangalore,HSR,Ice Cream,low,4,4,0,4,0,0.0,136.79,547.17,44.53,51.67,25.0,0,0.0,0.0,3,4.53,4.17,0.0,0.0,0.0,4.5,194,65.27,stable_partner
+8305,Aata's Kitchen,Bangalore,Koramangala 1st Block,South Indian,low,4,4,0,4,0,0.0,172.2,688.81,42.5,46.02,0.0,0,0.0,0.0,4,3.9,4.33,0.0,0.0,0.0,3.3,8,65.27,stable_partner
+1075,Sichuan,Bangalore,HSR,Chinese,premium,5,5,0,5,0,0.0,596.3,2981.48,28.15,34.63,0.0,0,0.0,0.0,2,3.8,3.7,0.0,0.0,0.0,4.0,494,65.25,stable_partner
+6307,Cafe Fattoush,Bangalore,BTM,Cafe,premium,6,6,0,4,2,50.0,409.54,2457.24,44.3,52.27,33.33,1,16.67,221.36,3,3.63,3.9,0.0,0.0,0.0,3.8,24,65.24,stable_partner
+344,Zero Mile Punjab,Bangalore,HSR,North Indian,premium,3,3,0,3,0,0.0,323.14,969.41,34.65,36.02,0.0,0,0.0,0.0,2,3.65,3.9,0.0,0.0,0.0,4.1,1342,65.21,stable_partner
+5622,RCS Kitchen,Bangalore,BTM,Continental,mid,3,3,0,3,0,0.0,331.99,995.97,41.06,44.36,0.0,0,0.0,0.0,2,3.35,4.95,0.0,0.0,0.0,3.4,35,65.19,stable_partner
+6538,Black Rock Cafe,Bangalore,Marathahalli,Cafe,mid,3,3,0,3,0,0.0,284.41,853.23,25.74,27.35,0.0,0,0.0,0.0,2,3.65,4.55,0.0,0.0,0.0,3.5,22,65.18,stable_partner
+4902,Crown Gold,Bangalore,Koramangala 4th Block,South Indian,mid,9,8,1,5,3,60.0,207.12,1864.11,37.18,44.45,0.0,1,12.5,31.94,4,3.75,4.65,1.0,25.0,11.11,3.9,49,65.16,stable_partner
+3962,Masala Oota,Bangalore,Residency Road,South Indian,mid,6,6,0,6,0,0.0,281.99,1691.92,35.22,42.49,0.0,0,0.0,0.0,2,3.65,4.2,0.0,0.0,0.0,3.6,79,65.16,stable_partner
+1481,Hello Resto-Pub,Bangalore,Old Airport Road,Continental,premium,3,3,0,2,1,50.0,554.19,1662.56,43.45,54.54,33.33,0,0.0,0.0,2,3.7,3.65,1.0,50.0,0.0,4.1,348,65.16,stable_partner
+5660,Reddy's Restaurant,Bangalore,Sarjapur Road,Andhra,mid,3,3,0,3,0,0.0,348.8,1046.39,39.02,42.33,0.0,0,0.0,0.0,1,3.9,4.1,0.0,0.0,0.0,3.7,34,65.16,stable_partner
+107,Onesta,Bangalore,Marathahalli,Pizza,premium,3,2,1,3,0,0.0,387.12,1161.36,28.53,31.47,0.0,0,0.0,0.0,1,4.9,3.7,0.0,0.0,33.33,4.6,2906,65.15,stable_partner
+10714,Stories - The Brew Chapter,Bangalore,BTM,Continental,premium,6,6,0,5,1,20.0,736.71,4420.26,42.23,51.46,33.33,0,0.0,0.0,5,3.52,3.82,0.0,0.0,0.0,0.0,0,65.14,stable_partner
+8245,Chats Point,Bangalore,Basavanagudi,Fast Food,low,3,3,0,3,0,0.0,120.0,360.0,25.63,27.05,0.0,0,0.0,0.0,2,4.05,4.1,0.0,0.0,0.0,3.4,8,65.09,stable_partner
+1468,Cafe Happytizing,Bangalore,Electronic City,Cafe,premium,3,3,0,3,0,0.0,352.03,1056.09,36.66,40.17,0.0,0,0.0,0.0,1,3.7,3.9,0.0,0.0,0.0,4.1,354,65.08,stable_partner
+10198,Biryani Bar,Bangalore,Whitefield,Biryani,low,3,3,0,3,0,0.0,199.61,598.82,43.76,45.4,0.0,0,0.0,0.0,3,3.8,4.5,0.0,0.0,0.0,0.0,0,65.07,stable_partner
+2515,Lobby Cafe - Radha Regent,Bangalore,Electronic City,Continental,premium,3,3,0,3,0,0.0,538.3,1614.9,41.55,44.47,0.0,0,0.0,0.0,3,3.77,4.33,0.0,0.0,0.0,3.7,177,65.04,stable_partner
+3718,Apsara Ice Cream,Bangalore,Bellandur,Ice Cream,low,3,2,1,3,0,0.0,129.17,387.5,31.96,34.86,0.0,0,0.0,0.0,1,4.8,4.7,0.0,0.0,33.33,4.1,90,65.04,stable_partner
+8038,Dabba Gosht,Bangalore,JP Nagar,Arabian,mid,3,3,0,3,0,0.0,228.92,686.77,41.02,46.99,0.0,0,0.0,0.0,1,4.3,3.7,0.0,0.0,0.0,3.5,9,65.03,stable_partner
+4635,Amma's Pastries,Bangalore,Rajajinagar,Bakery,mid,3,3,0,3,0,0.0,233.32,699.95,33.14,37.28,0.0,0,0.0,0.0,1,4.2,3.9,0.0,0.0,0.0,3.8,56,64.99,stable_partner
+7428,Kulfi House,Bangalore,Electronic City,Ice Cream,low,3,3,0,3,0,0.0,139.93,419.78,27.15,31.88,0.0,0,0.0,0.0,2,3.9,4.45,0.0,0.0,0.0,3.7,13,64.98,stable_partner
+9772,Mumbai Kulfi,Bangalore,JP Nagar,Desserts,low,3,3,0,3,0,0.0,130.95,392.85,27.33,32.28,0.0,0,0.0,0.0,3,3.9,4.33,0.0,0.0,0.0,0.0,0,64.96,stable_partner
+6398,MRA,Bangalore,BTM,Bakery,low,3,3,0,3,0,0.0,125.0,375.0,39.4,51.32,33.33,0,0.0,0.0,1,4.3,4.8,0.0,0.0,0.0,4.0,23,64.93,stable_partner
+1334,Natural Ice Cream,Bangalore,Sarjapur Road,Ice Cream,low,3,3,0,3,0,0.0,137.61,412.82,33.56,37.96,0.0,0,0.0,0.0,2,4.0,3.8,0.0,0.0,0.0,4.3,393,64.92,stable_partner
+6946,The Cake Ville,Bangalore,JP Nagar,Bakery,low,3,3,0,3,0,0.0,176.47,529.4,29.11,39.25,0.0,0,0.0,0.0,1,3.3,5.0,0.0,0.0,0.0,3.2,18,64.76,stable_partner
+1372,The Shawarma Shop,Bangalore,BTM,Arabian,low,4,4,0,4,0,0.0,158.01,632.05,39.22,48.9,25.0,0,0.0,0.0,4,4.13,4.25,0.0,0.0,0.0,4.1,382,64.64,stable_partner
+5158,Street Foods by Punjab Grill,Bangalore,Malleshwaram,North Indian,premium,3,3,0,3,0,0.0,492.77,1478.3,37.79,44.59,0.0,0,0.0,0.0,2,3.8,3.9,0.0,0.0,0.0,3.8,43,64.63,stable_partner
+3794,Momo Junction,Bangalore,Bannerghatta Road,Fast Food,low,3,3,0,3,0,0.0,120.0,360.0,33.05,44.83,0.0,0,0.0,0.0,2,3.75,4.0,0.0,0.0,0.0,3.8,87,64.6,stable_partner
+1807,Pizza Republic,Bangalore,Electronic City,Pizza,mid,4,4,0,4,0,0.0,264.43,1057.73,44.57,46.97,0.0,0,0.0,0.0,2,3.55,4.1,0.0,0.0,0.0,3.8,270,64.58,stable_partner
+5531,Hotboxit,Bangalore,Banashankari,North Indian,mid,3,3,0,3,0,0.0,234.09,702.28,35.34,41.02,0.0,0,0.0,0.0,2,3.9,4.2,0.0,0.0,0.0,3.8,36,64.58,stable_partner
+5850,Hunger Meals,Bangalore,Koramangala 4th Block,South Indian,mid,4,4,0,4,0,0.0,177.54,710.16,29.44,35.92,0.0,0,0.0,0.0,3,3.73,4.33,0.0,0.0,0.0,3.8,31,64.46,stable_partner
+1783,Pure Punjabi,Bangalore,Electronic City,Chinese,mid,3,2,1,3,0,0.0,316.58,949.75,33.56,40.46,0.0,0,0.0,0.0,1,4.6,4.6,0.0,0.0,33.33,3.4,275,64.45,stable_partner
+3239,Amanthrana Gardenia,Bangalore,Brookefield,North Indian,premium,3,3,0,3,0,0.0,440.36,1321.09,36.69,43.75,0.0,0,0.0,0.0,2,3.35,4.3,0.0,0.0,0.0,3.9,117,64.38,stable_partner
+5205,Asha Sweets Centre,Bangalore,JP Nagar,Fast Food,low,3,3,0,3,0,0.0,175.36,526.07,34.42,41.98,0.0,0,0.0,0.0,2,3.9,3.75,0.0,0.0,0.0,3.9,42,64.38,stable_partner
+86,Empire Restaurant,Bangalore,Kammanahalli,North Indian,premium,4,4,0,4,0,0.0,579.67,2318.66,46.54,53.06,25.0,0,0.0,0.0,2,4.4,3.5,0.0,0.0,0.0,4.1,3248,64.31,stable_partner
+8219,Baker's Cafe,Bangalore,Marathahalli,Bakery,low,3,3,0,3,0,0.0,125.77,377.31,33.17,40.88,0.0,0,0.0,0.0,2,3.75,4.2,0.0,0.0,0.0,3.5,8,64.3,stable_partner
+473,Punjabi Nawabi,Bangalore,HSR,North Indian,mid,3,3,0,3,0,0.0,308.07,924.22,47.89,58.05,33.33,0,0.0,0.0,3,4.4,4.1,0.0,0.0,0.0,4.1,1036,64.28,stable_partner
+3799,Chetty's Coffee,Bangalore,Kalyan Nagar,South Indian,low,3,3,0,3,0,0.0,120.0,360.0,36.31,46.62,0.0,0,0.0,0.0,1,4.0,4.0,0.0,0.0,0.0,3.5,87,64.27,stable_partner
+2691,Nandhini Deluxe,Bangalore,Basavanagudi,Andhra,premium,3,3,0,3,0,0.0,319.78,959.35,31.93,36.13,0.0,0,0.0,0.0,3,3.7,4.2,0.0,0.0,0.0,3.6,160,64.23,stable_partner
+4101,Meat And Eat,Bangalore,Domlur,Fast Food,mid,3,3,0,2,1,50.0,250.14,750.42,33.1,36.52,0.0,0,0.0,0.0,2,2.75,3.8,2.0,100.0,0.0,3.1,74,64.19,stable_partner
+9533,Artinci Artisanal Ice Cream,Bangalore,JP Nagar,Desserts,low,3,3,0,3,0,0.0,188.09,564.28,33.58,41.08,0.0,0,0.0,0.0,2,3.5,4.6,0.0,0.0,0.0,0.0,0,64.17,stable_partner
+9879,The Chocolate Heaven - Cakes,Bangalore,Bellandur,Desserts,premium,3,3,0,3,0,0.0,401.82,1205.47,37.09,43.71,0.0,0,0.0,0.0,3,3.7,4.23,0.0,0.0,0.0,0.0,0,64.16,stable_partner
+967,Chef Baker's,Bangalore,Brookefield,Bakery,mid,3,3,0,3,0,0.0,219.03,657.08,31.24,38.71,0.0,0,0.0,0.0,3,3.67,3.73,0.0,0.0,0.0,4.0,544,64.15,stable_partner
+3864,Barbeque Delight,Bangalore,Bommanahalli,Arabian,premium,4,4,0,4,0,0.0,372.28,1489.11,42.74,53.29,25.0,0,0.0,0.0,3,3.87,4.6,0.0,0.0,0.0,3.7,83,64.13,stable_partner
+7122,Kanti Sweets,Bangalore,Electronic City,Mithai,mid,3,3,0,3,0,0.0,252.62,757.86,37.7,44.61,0.0,0,0.0,0.0,2,3.6,4.25,0.0,0.0,0.0,3.6,16,64.12,stable_partner
+3446,Sandwichwallas,Bangalore,Jayanagar,Fast Food,low,3,3,0,3,0,0.0,130.68,392.04,32.28,33.99,0.0,0,0.0,0.0,2,3.55,4.05,0.0,0.0,0.0,3.9,105,64.11,stable_partner
+8894,Nutri Fit,Bangalore,HSR,Healthy Food,low,3,3,0,3,0,0.0,192.1,576.31,36.79,44.85,0.0,0,0.0,0.0,2,3.45,4.6,0.0,0.0,0.0,3.4,5,64.09,stable_partner
+6786,AutoExpress - Hot Dogs,Bangalore,Indiranagar,Fast Food,low,3,3,0,3,0,0.0,185.69,557.06,42.26,51.37,33.33,0,0.0,0.0,1,4.4,4.5,0.0,0.0,0.0,3.7,19,64.05,stable_partner
+2757,Just Bake,Bangalore,HSR,Bakery,mid,6,6,0,6,0,0.0,228.89,1373.33,34.66,40.82,0.0,0,0.0,0.0,3,3.53,3.93,0.0,0.0,0.0,3.6,154,64.03,stable_partner
+846,The Filter Coffee,Bangalore,Kalyan Nagar,South Indian,low,5,5,0,5,0,0.0,122.4,611.99,40.21,50.8,20.0,0,0.0,0.0,3,4.0,3.9,0.0,0.0,0.0,4.1,620,64.02,stable_partner
+5078,Lassi Cafe,Bangalore,HSR,Beverages,low,4,4,0,4,0,0.0,189.47,757.89,37.39,41.68,0.0,0,0.0,0.0,3,3.53,4.07,0.0,0.0,0.0,3.8,45,63.97,stable_partner
+9892,Mirapakaya,Bangalore,Bellandur,South Indian,low,3,3,0,3,0,0.0,197.06,591.17,33.09,40.93,0.0,0,0.0,0.0,2,4.0,3.85,0.0,0.0,0.0,0.0,0,63.92,stable_partner
+7085,99 Variety Dosa & Pav Bhaji,Bangalore,Koramangala 6th Block,South Indian,low,3,3,0,3,0,0.0,134.35,403.04,36.84,41.37,0.0,0,0.0,0.0,2,3.75,3.9,0.0,0.0,0.0,3.8,16,63.89,stable_partner
+758,Zaica Dine & Wine,Bangalore,Nagawara,North Indian,premium,3,3,0,3,0,0.0,810.14,2430.43,45.84,55.63,33.33,0,0.0,0.0,1,3.9,4.6,0.0,0.0,0.0,4.0,694,63.87,stable_partner
+5080,Chai Point,Bangalore,Whitefield,Beverages,low,4,4,0,4,0,0.0,120.0,480.0,32.41,43.12,0.0,0,0.0,0.0,2,3.6,4.25,0.0,0.0,0.0,3.8,45,63.79,stable_partner
+6792,Chaat Junction,Bangalore,Whitefield,Street Food,low,4,4,0,3,1,33.33,129.16,516.64,40.68,51.35,25.0,0,0.0,0.0,2,4.05,3.95,1.0,50.0,0.0,3.7,19,63.74,stable_partner
+5855,Joon Restaurant,Bangalore,BTM,Arabian,mid,4,4,0,4,0,0.0,297.73,1190.92,36.18,44.21,0.0,0,0.0,0.0,2,3.5,4.1,0.0,0.0,0.0,3.7,31,63.74,stable_partner
+4426,Jayanagara Donne Biryani,Bangalore,Jayanagar,Biryani,mid,3,3,0,2,1,50.0,208.38,625.15,37.6,47.11,33.33,0,0.0,0.0,2,3.1,4.4,1.0,50.0,0.0,3.6,62,63.73,stable_partner
+6212,Rampyari Chaiwala Netaji Bhajiawala,Bangalore,Sarjapur Road,Street Food,low,3,3,0,1,1,100.0,120.0,360.0,37.83,44.63,0.0,0,0.0,0.0,2,2.4,4.2,2.0,100.0,0.0,3.1,26,63.73,stable_partner
+3448,Kevins Kitchen,Bangalore,Koramangala 6th Block,North Indian,mid,5,4,1,5,0,0.0,314.3,1571.48,34.16,41.32,0.0,0,0.0,0.0,2,4.75,3.95,0.0,0.0,20.0,3.8,105,63.7,stable_partner
+11445,Cafe 7,Bangalore,Kalyan Nagar,Street Food,low,3,3,0,3,0,0.0,120.0,360.0,32.77,41.28,0.0,0,0.0,0.0,2,3.6,4.3,0.0,0.0,0.0,0.0,0,63.67,stable_partner
+3646,Kwality Cakes N Bakes,Bangalore,HSR,Bakery,mid,3,3,0,3,0,0.0,207.22,621.67,29.59,42.71,0.0,0,0.0,0.0,2,3.3,4.3,0.0,0.0,0.0,3.7,94,63.61,stable_partner
+3176,Eshmeet Da Dhaba,Bangalore,Koramangala 6th Block,North Indian,mid,3,3,0,3,0,0.0,298.72,896.17,41.68,44.71,0.0,0,0.0,0.0,1,3.3,4.5,0.0,0.0,0.0,3.1,121,63.61,stable_partner
+531,Chowpatty,Bangalore,Indiranagar,North Indian,low,4,4,0,4,0,0.0,183.7,734.78,42.07,52.27,25.0,0,0.0,0.0,2,3.9,4.2,0.0,0.0,0.0,3.9,929,63.57,stable_partner
+9771,The Good Bowl,Bangalore,Basavanagudi,North Indian,mid,3,3,0,3,0,0.0,314.77,944.32,31.38,34.81,0.0,0,0.0,0.0,2,3.95,3.8,0.0,0.0,0.0,0.0,0,63.57,stable_partner
+1126,Hatch,Bangalore,Malleshwaram,North Indian,premium,5,3,2,5,0,0.0,672.7,3363.49,38.22,44.4,0.0,0,0.0,0.0,1,4.3,4.2,0.0,0.0,40.0,4.2,471,63.56,stable_partner
+9048,Namak,Bangalore,Nagawara,North Indian,premium,4,4,0,3,1,33.33,348.19,1392.78,40.78,52.68,50.0,0,0.0,0.0,4,3.5,3.88,1.0,25.0,0.0,3.1,5,63.55,stable_partner
+2070,Sethji Home Made Food,Bangalore,Indiranagar,North Indian,mid,4,4,0,4,0,0.0,204.93,819.71,34.27,41.98,0.0,0,0.0,0.0,2,3.45,4.0,0.0,0.0,0.0,3.5,229,63.51,stable_partner
+7110,Grow Fit,Bangalore,JP Nagar,Healthy Food,mid,3,3,0,3,0,0.0,185.61,556.82,42.2,46.14,0.0,0,0.0,0.0,2,3.55,4.1,0.0,0.0,0.0,3.6,16,63.47,stable_partner
+632,Chianti,Bangalore,Bannerghatta Road,Italian,premium,3,3,0,3,0,0.0,641.32,1923.97,50.02,53.58,33.33,0,0.0,0.0,1,4.8,3.4,0.0,0.0,0.0,4.5,800,63.46,stable_partner
+4837,Swad 'E' Punjab,Bangalore,HSR,North Indian,mid,3,2,1,3,0,0.0,252.76,758.28,32.44,33.77,0.0,0,0.0,0.0,1,4.1,5.0,0.0,0.0,33.33,3.6,51,63.45,stable_partner
+1797,NY Pizza & Waffles,Bangalore,Electronic City,Pizza,mid,4,3,1,4,0,0.0,180.38,721.5,36.07,37.52,0.0,0,0.0,0.0,1,4.3,4.7,0.0,0.0,25.0,3.1,273,63.41,stable_partner
+8728,New Rajalakshmi Sweets,Bangalore,Whitefield,Mithai,low,3,3,0,3,0,0.0,191.16,573.49,39.02,42.47,0.0,0,0.0,0.0,3,3.67,4.1,0.0,0.0,0.0,3.3,6,63.4,stable_partner
+977,Momo Jojo,Bangalore,JP Nagar,Chinese,low,3,3,0,3,0,0.0,193.88,581.63,37.22,48.21,33.33,0,0.0,0.0,2,4.35,3.85,0.0,0.0,0.0,4.3,539,63.39,stable_partner
+10742,The Platonic Cafe,Bangalore,Electronic City,Cafe,mid,3,3,0,3,0,0.0,325.15,975.46,31.39,34.37,0.0,0,0.0,0.0,1,3.6,4.2,0.0,0.0,0.0,0.0,0,63.37,stable_partner
+5377,Pulla Reddy Sweets,Bangalore,Marathahalli,Mithai,low,3,3,0,3,0,0.0,158.75,476.25,39.76,47.02,0.0,0,0.0,0.0,2,3.6,4.3,0.0,0.0,0.0,3.5,39,63.37,stable_partner
+896,The Yellow Chilli,Bangalore,Jayanagar,North Indian,premium,3,3,0,3,0,0.0,499.3,1497.89,41.5,44.16,0.0,0,0.0,0.0,1,3.1,4.2,0.0,0.0,0.0,3.8,584,63.37,stable_partner
+8884,Zaitoon Lassi Cafe,Bangalore,BTM,Cafe,low,3,3,0,3,0,0.0,120.0,360.0,34.24,40.57,0.0,0,0.0,0.0,2,3.65,4.05,0.0,0.0,0.0,3.5,5,63.35,stable_partner
+3432,Biggies Burger 'n' More,Bangalore,Whitefield,Cafe,mid,4,4,0,3,1,33.33,291.95,1167.79,35.11,39.09,0.0,0,0.0,0.0,2,2.85,3.9,1.0,50.0,0.0,3.7,106,63.34,stable_partner
+7293,FRYBIES,Bangalore,Bannerghatta Road,Fast Food,mid,3,3,0,3,0,0.0,206.93,620.79,39.48,46.13,0.0,0,0.0,0.0,2,3.75,3.9,0.0,0.0,0.0,3.3,15,63.32,stable_partner
+2830,Frozen Bottle,Bangalore,Banashankari,Beverages,mid,4,3,1,4,0,0.0,206.77,827.09,25.89,32.38,0.0,0,0.0,0.0,3,4.33,4.27,0.0,0.0,25.0,4.2,147,63.3,stable_partner
+2707,Oregano Soul Food,Bangalore,Whitefield,Cafe,premium,4,4,0,4,0,0.0,437.6,1750.4,43.86,50.25,25.0,0,0.0,0.0,3,4.23,3.67,0.0,0.0,0.0,4.0,158,63.27,stable_partner
+5221,The Lassi Bar,Bangalore,BTM,Beverages,low,3,3,0,3,0,0.0,147.28,441.85,39.41,45.86,0.0,0,0.0,0.0,2,3.55,4.25,0.0,0.0,0.0,3.7,42,63.26,stable_partner
+2896,Reddy's Restaurant,Bangalore,HSR,Andhra,mid,3,3,0,3,0,0.0,294.74,884.23,39.26,48.15,0.0,0,0.0,0.0,2,3.55,3.8,0.0,0.0,0.0,3.7,141,63.21,stable_partner
+7964,Al-Taj Restaurant,Bangalore,Rajajinagar,South Indian,premium,3,3,0,3,0,0.0,283.76,851.28,25.92,28.45,0.0,0,0.0,0.0,2,3.7,3.8,0.0,0.0,0.0,3.3,10,63.03,stable_partner
+5592,The French Loaf,Bangalore,Koramangala 5th Block,Bakery,mid,3,3,0,3,0,0.0,195.22,585.66,41.99,44.94,0.0,0,0.0,0.0,2,3.7,3.95,0.0,0.0,0.0,3.8,35,63.03,stable_partner
+4278,Sagar Fast Food,Bangalore,BTM,South Indian,low,3,2,1,3,0,0.0,170.87,512.62,43.93,44.79,0.0,0,0.0,0.0,1,4.1,4.8,0.0,0.0,33.33,3.7,67,63.02,stable_partner
+4448,Eatzgreen,Bangalore,Marathahalli,Healthy Food,mid,3,3,0,3,0,0.0,348.96,1046.88,35.88,38.96,0.0,0,0.0,0.0,1,3.9,3.3,0.0,0.0,0.0,3.8,61,63.01,stable_partner
+4486,Kolkata Famous Kati Rolls,Bangalore,Marathahalli,Fast Food,low,3,3,0,3,0,0.0,120.0,360.0,30.77,39.46,0.0,0,0.0,0.0,3,3.57,4.07,0.0,0.0,0.0,3.8,60,63.0,stable_partner
+5112,Sri Krishna Sagar,Bangalore,Koramangala 6th Block,South Indian,low,3,3,0,3,0,0.0,191.4,574.19,46.58,51.44,33.33,0,0.0,0.0,2,4.4,4.0,0.0,0.0,0.0,3.9,44,62.98,stable_partner
+8955,Gruhalakshmi Home Foods,Bangalore,Bommanahalli,Mithai,low,4,4,0,4,0,0.0,147.83,591.32,30.12,37.98,0.0,0,0.0,0.0,3,3.37,4.3,0.0,0.0,0.0,3.3,5,62.96,stable_partner
+2598,Puran da Dhaba - The Pride Hotel,Bangalore,Richmond Road,North Indian,premium,4,4,0,4,0,0.0,1138.95,4555.81,42.75,50.88,25.0,0,0.0,0.0,2,4.15,3.7,0.0,0.0,0.0,3.9,169,62.95,stable_partner
+731,Cafe Thulp,Bangalore,Kammanahalli,Cafe,premium,3,3,0,3,0,0.0,530.01,1590.03,24.52,26.96,0.0,0,0.0,0.0,1,3.6,3.3,0.0,0.0,0.0,4.0,722,62.95,stable_partner
+4202,SGS Non Veg - Gundu Pulav,Bangalore,Jayanagar,Biryani,mid,5,5,0,5,0,0.0,251.58,1257.89,41.99,49.96,20.0,0,0.0,0.0,3,3.47,4.6,0.0,0.0,0.0,3.6,70,62.91,stable_partner
+6725,Cakeport,Bangalore,Jayanagar,Bakery,mid,3,3,0,3,0,0.0,244.28,732.84,41.63,47.24,0.0,0,0.0,0.0,1,3.3,4.3,0.0,0.0,0.0,3.4,20,62.9,stable_partner
+8198,Nandhanam Restaurant,Bangalore,HSR,South Indian,low,3,3,0,3,0,0.0,173.61,520.84,38.31,42.57,0.0,0,0.0,0.0,3,3.37,4.13,0.0,0.0,0.0,3.8,8,62.9,stable_partner
+4530,RSS Donne Biryani,Bangalore,BTM,Biryani,low,3,3,0,3,0,0.0,136.07,408.22,35.44,46.06,0.0,0,0.0,0.0,2,3.45,4.05,0.0,0.0,0.0,3.3,59,62.9,stable_partner
+4431,Vi Ra's Bar and Restaurant,Bangalore,Banashankari,South Indian,premium,3,3,0,3,0,0.0,383.21,1149.64,37.22,39.08,0.0,0,0.0,0.0,2,3.65,4.0,0.0,0.0,0.0,3.3,62,62.87,stable_partner
+449,Eshanya,Bangalore,Jayanagar,North Indian,premium,3,3,0,3,0,0.0,536.61,1609.82,36.88,45.67,33.33,0,0.0,0.0,2,3.7,4.45,0.0,0.0,0.0,4.1,1082,62.84,stable_partner
+8492,Cupcake Bliss,Bangalore,Brookefield,Bakery,low,3,3,0,3,0,0.0,165.97,497.92,38.07,42.94,0.0,0,0.0,0.0,3,3.57,4.03,0.0,0.0,0.0,3.3,7,62.82,stable_partner
+9527,Hotel Brundavan,Bangalore,Bannerghatta Road,South Indian,low,3,3,0,3,0,0.0,135.0,404.99,35.51,46.91,0.0,0,0.0,0.0,2,3.65,3.95,0.0,0.0,0.0,0.0,0,62.82,stable_partner
+2911,Bawarchi Inn,Bangalore,BTM,North Indian,premium,3,3,0,3,0,0.0,338.27,1014.82,39.66,47.81,33.33,0,0.0,0.0,1,3.8,4.8,0.0,0.0,0.0,3.1,140,62.68,stable_partner
+4896,Chinese Square,Bangalore,Basavanagudi,Chinese,low,3,3,0,1,1,100.0,120.0,360.0,44.84,52.31,33.33,0,0.0,0.0,2,3.5,3.4,1.0,50.0,0.0,3.9,49,62.6,stable_partner
+761,Jade,Bangalore,Brookefield,Chinese,premium,3,3,0,3,0,0.0,380.55,1141.66,40.73,57.11,33.33,0,0.0,0.0,2,4.0,4.15,0.0,0.0,0.0,3.7,692,62.59,stable_partner
+3969,Keventers,Bangalore,Whitefield,Beverages,mid,3,3,0,3,0,0.0,212.69,638.07,33.71,43.95,0.0,0,0.0,0.0,2,3.3,4.25,0.0,0.0,0.0,2.9,79,62.54,stable_partner
+2783,The Lounge - Eden Park Restaurants,Bangalore,Jayanagar,North Indian,premium,4,4,0,4,0,0.0,713.06,2852.25,35.77,46.79,25.0,0,0.0,0.0,1,3.8,4.4,0.0,0.0,0.0,3.8,152,62.51,stable_partner
+5936,Green Chilly,Bangalore,Rajajinagar,North Indian,mid,3,3,0,3,0,0.0,176.01,528.03,39.56,47.49,0.0,0,0.0,0.0,2,3.45,3.85,0.0,0.0,0.0,3.6,30,62.47,stable_partner
+647,Shanmukha,Bangalore,Koramangala 5th Block,Biryani,premium,5,5,0,5,0,0.0,582.96,2914.8,46.55,52.6,40.0,0,0.0,0.0,5,4.28,3.72,0.0,0.0,0.0,4.1,790,62.46,stable_partner
+6165,Dhadoom,Bangalore,Kalyan Nagar,Fast Food,mid,4,4,0,4,0,0.0,199.6,798.38,37.15,40.53,0.0,0,0.0,0.0,2,3.05,4.25,0.0,0.0,0.0,3.8,26,62.45,stable_partner
+6923,Bhavya Military Hotel,Bangalore,Bannerghatta Road,South Indian,low,3,3,0,2,1,50.0,134.42,403.27,40.86,46.8,0.0,0,0.0,0.0,2,2.5,3.85,2.0,100.0,0.0,3.5,18,62.44,stable_partner
+7311,Swathi Restaurant,Bangalore,JP Nagar,Andhra,mid,3,3,0,3,0,0.0,183.76,551.27,38.09,51.72,33.33,0,0.0,0.0,1,3.8,4.7,0.0,0.0,0.0,3.9,14,62.4,stable_partner
+1513,Chatpatlal Sweets & Snacks,Bangalore,Marathahalli,Street Food,low,4,4,0,4,0,0.0,122.11,488.44,43.21,47.66,25.0,0,0.0,0.0,2,3.5,4.35,0.0,0.0,0.0,4.1,342,62.39,stable_partner
+3199,Kadal Da Meen,Bangalore,HSR,Biryani,premium,3,3,0,3,0,0.0,563.15,1689.45,43.44,51.56,33.33,0,0.0,0.0,2,4.0,4.15,0.0,0.0,0.0,3.9,119,62.37,stable_partner
+6846,Chaat Chatore,Bangalore,Bannerghatta Road,Fast Food,low,4,4,0,4,0,0.0,134.05,536.2,35.46,48.36,0.0,0,0.0,0.0,1,3.2,4.3,0.0,0.0,0.0,3.1,19,62.36,stable_partner
+5609,Chaat Bazaar,Bangalore,Whitefield,Street Food,low,4,4,0,4,0,0.0,181.83,727.31,43.85,60.06,25.0,0,0.0,0.0,3,4.17,3.77,0.0,0.0,0.0,3.7,35,62.33,stable_partner
+11016,Bisi Thindi,Bangalore,Kammanahalli,South Indian,low,3,3,0,2,1,50.0,120.0,360.0,41.63,44.72,0.0,1,33.33,25.96,3,3.7,4.83,1.0,33.33,0.0,0.0,0,62.33,stable_partner
+2278,Mojo Pizza - 2X Toppings,Bangalore,Indiranagar,Pizza,premium,3,3,0,3,0,0.0,292.31,876.94,43.65,51.43,33.33,0,0.0,0.0,3,4.03,3.9,0.0,0.0,0.0,4.3,203,62.31,stable_partner
+5239,Krishna Vaibhava,Bangalore,BTM,North Indian,mid,3,3,0,3,0,0.0,249.24,747.73,42.62,51.9,33.33,0,0.0,0.0,1,3.7,4.8,0.0,0.0,0.0,3.6,42,62.23,stable_partner
+10369,Raj Sweets,Bangalore,Whitefield,Mithai,low,3,3,0,3,0,0.0,138.61,415.82,37.1,45.81,0.0,0,0.0,0.0,2,3.15,4.75,0.0,0.0,0.0,0.0,0,62.22,stable_partner
+642,Just Shawarma,Bangalore,Jayanagar,Arabian,low,4,3,1,4,0,0.0,183.89,735.55,36.76,40.08,0.0,0,0.0,0.0,2,4.05,4.1,0.0,0.0,25.0,4.3,794,62.2,stable_partner
+8491,Tayabbs,Bangalore,Whitefield,Fast Food,mid,4,4,0,3,1,33.33,146.97,587.88,40.41,49.7,25.0,0,0.0,0.0,2,3.35,4.25,1.0,50.0,0.0,3.3,7,62.17,stable_partner
+9465,SSV Upahar,Bangalore,Jayanagar,South Indian,low,3,2,1,3,0,0.0,173.55,520.65,36.74,37.36,0.0,0,0.0,0.0,1,4.0,5.0,0.0,0.0,33.33,0.0,0,62.17,stable_partner
+1186,Salut,Bangalore,Jayanagar,Continental,premium,4,4,0,4,0,0.0,726.74,2906.95,48.33,54.34,50.0,0,0.0,0.0,2,4.3,3.7,0.0,0.0,0.0,4.1,447,62.14,stable_partner
+553,The Krishna Grand,Bangalore,Banashankari,North Indian,premium,3,3,0,3,0,0.0,497.74,1493.22,43.52,57.56,33.33,0,0.0,0.0,3,3.77,4.17,0.0,0.0,0.0,3.9,893,62.01,stable_partner
+6401,The Good Bowl,Bangalore,Electronic City,Italian,mid,7,7,0,7,0,0.0,251.1,1757.68,45.66,54.54,42.86,0,0.0,0.0,5,4.3,3.84,0.0,0.0,0.0,3.9,23,61.9,stable_partner
+3558,Tandoori Chowk,Bangalore,Marathahalli,North Indian,mid,4,4,0,4,0,0.0,166.44,665.76,39.42,44.65,25.0,0,0.0,0.0,3,4.03,3.8,0.0,0.0,0.0,3.5,98,61.89,stable_partner
+5037,Anand Donne Biriyani,Bangalore,Jayanagar,Biryani,low,4,4,0,4,0,0.0,143.33,573.31,42.8,51.55,50.0,0,0.0,0.0,3,4.1,4.3,0.0,0.0,0.0,3.7,46,61.83,stable_partner
+2977,Dhaba Bytes,Bangalore,HSR,North Indian,premium,3,3,0,3,0,0.0,428.05,1284.16,46.66,54.19,33.33,0,0.0,0.0,2,3.8,4.15,0.0,0.0,0.0,4.1,134,61.82,stable_partner
+6776,Shiv Shankar Chaats,Bangalore,Frazer Town,Street Food,low,3,3,0,3,0,0.0,129.72,389.15,33.83,36.07,0.0,0,0.0,0.0,1,3.5,3.9,0.0,0.0,0.0,3.7,19,61.82,stable_partner
+4984,Sri Jayadurga Biryani,Bangalore,Marathahalli,Biryani,low,4,4,0,4,0,0.0,217.79,871.17,38.59,46.57,25.0,0,0.0,0.0,4,3.98,3.78,0.0,0.0,0.0,3.8,47,61.78,stable_partner
+448,Nandhana Palace,Bangalore,JP Nagar,Andhra,premium,3,3,0,3,0,0.0,504.05,1512.16,41.39,50.96,66.67,0,0.0,0.0,3,4.37,3.73,0.0,0.0,0.0,4.3,1083,61.75,stable_partner
+5787,Thanco's Natural Ice Cream,Bangalore,BTM,Ice Cream,mid,4,4,0,4,0,0.0,274.5,1097.99,38.26,52.9,25.0,0,0.0,0.0,4,3.7,4.15,0.0,0.0,0.0,3.8,32,61.68,stable_partner
+6744,Cafe Coffee Day,Bangalore,Rajajinagar,Cafe,premium,3,3,0,3,0,0.0,628.83,1886.48,37.02,44.83,0.0,0,0.0,0.0,1,3.1,4.2,0.0,0.0,0.0,3.0,20,61.66,stable_partner
+580,Onesta,Bangalore,Electronic City,Pizza,premium,5,5,0,5,0,0.0,361.34,1806.72,40.11,48.01,20.0,0,0.0,0.0,3,4.93,4.37,1.0,33.33,0.0,4.5,863,61.64,stable_partner
+2064,Behrouz Biryani,Bangalore,Banashankari,Biryani,premium,4,4,0,4,0,0.0,517.46,2069.85,44.5,54.83,50.0,0,0.0,0.0,4,3.98,4.08,0.0,0.0,0.0,3.9,230,61.61,stable_partner
+9221,Delite Chaat House,Bangalore,Marathahalli,Street Food,low,3,3,0,3,0,0.0,181.65,544.96,42.92,47.29,0.0,0,0.0,0.0,2,3.5,3.75,0.0,0.0,0.0,3.3,4,61.58,stable_partner
+3719,Bozo's Yum Yums,Bangalore,Frazer Town,Fast Food,premium,3,2,1,3,0,0.0,349.67,1049.0,36.33,39.28,0.0,0,0.0,0.0,2,4.35,3.75,0.0,0.0,33.33,4.0,90,61.58,stable_partner
+2848,Polar Bear,Bangalore,Electronic City,Ice Cream,mid,6,5,1,5,1,20.0,276.66,1659.96,41.89,50.4,20.0,0,0.0,0.0,4,4.1,4.08,1.0,25.0,16.67,4.0,145,61.57,stable_partner
+312,Dr. Sheesha,Bangalore,JP Nagar,Cafe,premium,3,3,0,3,0,0.0,397.3,1191.91,43.47,55.62,33.33,0,0.0,0.0,3,3.87,4.07,0.0,0.0,0.0,4.2,1466,61.57,stable_partner
+4173,Tandoor Garden,Bangalore,BTM,North Indian,mid,3,3,0,3,0,0.0,145.17,435.51,37.47,39.79,0.0,0,0.0,0.0,1,3.2,3.8,0.0,0.0,0.0,3.6,71,61.53,stable_partner
+4264,Apsara Ice Cream,Bangalore,Electronic City,Ice Cream,low,5,5,0,4,1,25.0,141.69,708.45,43.43,52.06,40.0,0,0.0,0.0,3,4.0,4.07,1.0,33.33,0.0,4.0,67,61.41,stable_partner
+560,Jalpaan,Bangalore,Jayanagar,North Indian,premium,3,3,0,3,0,0.0,532.21,1596.64,46.48,55.83,66.67,0,0.0,0.0,3,4.1,3.77,0.0,0.0,0.0,4.0,884,61.41,stable_partner
+914,Grilliez,Bangalore,HSR,Cafe,premium,3,3,0,3,0,0.0,344.25,1032.76,44.03,52.24,33.33,0,0.0,0.0,2,3.7,4.0,0.0,0.0,0.0,4.1,573,61.33,stable_partner
+5339,Gelato Italiano,Bangalore,Brigade Road,Ice Cream,low,4,4,0,2,1,50.0,135.54,542.14,43.3,52.17,25.0,0,0.0,0.0,3,2.73,3.9,3.0,100.0,0.0,3.0,40,61.22,stable_partner
+8423,RP Sweets,Bangalore,Bellandur,Mithai,low,3,3,0,3,0,0.0,187.64,562.92,36.24,39.41,0.0,0,0.0,0.0,2,3.2,3.95,0.0,0.0,0.0,3.4,7,61.21,stable_partner
+10557,Snack Souq,Bangalore,BTM,Chinese,low,4,4,0,4,0,0.0,127.29,509.14,43.31,56.77,25.0,0,0.0,0.0,2,3.75,4.25,0.0,0.0,0.0,0.0,0,61.2,stable_partner
+5871,Bunny Bakers,Bangalore,Jayanagar,Bakery,low,3,3,0,3,0,0.0,144.55,433.64,29.27,38.63,0.0,0,0.0,0.0,2,3.45,3.7,0.0,0.0,0.0,3.6,31,61.03,stable_partner
+2183,LIT Gastro Pub,Bangalore,Jayanagar,Chinese,premium,3,3,0,3,0,0.0,550.43,1651.3,37.83,48.3,33.33,0,0.0,0.0,1,3.5,4.5,0.0,0.0,0.0,3.4,215,61.02,stable_partner
+979,Chung Wah,Bangalore,New BEL Road,Chinese,premium,3,3,0,3,0,0.0,286.83,860.48,39.14,51.25,33.33,0,0.0,0.0,1,3.2,4.6,0.0,0.0,0.0,4.0,539,61.01,stable_partner
+7113,Bhandary's Kitchen,Bangalore,Koramangala 7th Block,North Indian,low,3,3,0,3,0,0.0,178.31,534.92,36.95,47.68,33.33,0,0.0,0.0,1,4.2,3.8,0.0,0.0,0.0,3.6,16,61.0,stable_partner
+3923,Darjeeling Momo Adda,Bangalore,Bannerghatta Road,Chinese,low,4,4,0,4,0,0.0,133.35,533.38,42.43,52.08,25.0,0,0.0,0.0,1,4.0,3.7,0.0,0.0,0.0,3.1,81,60.99,stable_partner
+3783,Hot Attack,Bangalore,Electronic City,North Indian,mid,3,3,0,3,0,0.0,170.4,511.21,43.16,57.19,33.33,0,0.0,0.0,3,3.83,4.13,0.0,0.0,0.0,3.6,88,60.93,stable_partner
+812,Baar Union,Bangalore,HSR,Continental,premium,3,3,0,3,0,0.0,616.21,1848.62,39.4,49.9,66.67,0,0.0,0.0,2,3.95,3.95,0.0,0.0,0.0,4.6,653,60.93,stable_partner
+908,Sherlock's Pub,Bangalore,Frazer Town,Continental,premium,4,3,1,4,0,0.0,833.47,3333.88,43.93,47.84,0.0,0,0.0,0.0,3,4.2,3.83,0.0,0.0,25.0,4.0,580,60.88,stable_partner
+3744,Saahib,Bangalore,HSR,Fast Food,low,4,3,1,4,0,0.0,164.98,659.9,34.24,36.13,0.0,0,0.0,0.0,2,3.85,4.55,0.0,0.0,25.0,3.9,89,60.76,stable_partner
+9275,Gelato Italiano,Bangalore,Kammanahalli,Ice Cream,low,3,3,0,3,0,0.0,144.81,434.43,47.47,49.51,0.0,0,0.0,0.0,2,3.2,3.9,0.0,0.0,0.0,3.2,4,60.72,stable_partner
+1972,A2B - Adyar Ananda Bhavan,Bangalore,Kalyan Nagar,South Indian,mid,5,4,1,5,0,0.0,177.31,886.55,36.47,40.1,0.0,0,0.0,0.0,1,3.2,5.0,0.0,0.0,20.0,3.6,244,60.64,stable_partner
+6995,Cravingz,Bangalore,Whitefield,Fast Food,mid,4,3,1,4,0,0.0,278.92,1115.7,42.88,48.51,0.0,0,0.0,0.0,3,3.9,4.3,0.0,0.0,25.0,3.7,17,60.59,stable_partner
+5237,Bakers Town,Bangalore,BTM,Cafe,premium,3,3,0,3,0,0.0,365.06,1095.17,35.35,44.96,0.0,1,33.33,243.41,1,4.5,5.0,0.0,0.0,0.0,3.6,42,60.5,stable_partner
+1436,Sulemani Chichas,Bangalore,Koramangala 5th Block,Biryani,mid,3,2,1,2,0,0.0,225.1,675.29,44.93,47.14,0.0,0,0.0,0.0,2,3.4,4.6,0.0,0.0,33.33,4.1,363,60.48,stable_partner
+2246,Pizza Hut,Bangalore,Whitefield,Pizza,premium,9,9,0,9,0,0.0,489.36,4404.21,41.81,49.92,22.22,0,0.0,0.0,5,3.98,4.26,1.0,20.0,0.0,4.0,208,60.46,stable_partner
+1253,Kaifu,Bangalore,New BEL Road,Chinese,premium,4,3,1,3,0,0.0,266.21,1064.85,39.51,43.23,0.0,0,0.0,0.0,3,3.63,4.07,0.0,0.0,25.0,4.2,421,60.46,stable_partner
+8408,Southease,Bangalore,Jeevan Bhima Nagar,South Indian,mid,3,3,0,2,1,50.0,298.99,896.96,39.05,49.16,33.33,0,0.0,0.0,2,2.65,4.1,2.0,100.0,0.0,3.5,7,60.4,stable_partner
+4712,Fanoos Xprss,Bangalore,Jayanagar,Arabian,mid,4,3,1,4,0,0.0,224.64,898.56,36.02,46.0,0.0,0,0.0,0.0,1,4.3,3.6,0.0,0.0,25.0,3.7,54,60.37,stable_partner
+3146,Sangam Sweets,Bangalore,Majestic,Mithai,low,4,4,0,4,0,0.0,131.69,526.75,37.9,47.11,50.0,0,0.0,0.0,4,3.83,3.98,0.0,0.0,0.0,4.0,122,60.36,stable_partner
+5169,Mangalore Lunch Home,Bangalore,BTM,North Indian,low,3,3,0,3,0,0.0,135.31,405.94,42.87,53.05,33.33,0,0.0,0.0,3,3.93,3.8,0.0,0.0,0.0,3.7,43,60.27,stable_partner
+6534,Keventers,Bangalore,Bellandur,Beverages,mid,3,2,1,3,0,0.0,224.82,674.47,32.82,43.04,0.0,0,0.0,0.0,1,3.8,4.4,0.0,0.0,33.33,3.6,22,60.24,stable_partner
+2547,As On Fire,Bangalore,HSR,Pizza,mid,3,3,0,3,0,0.0,181.05,543.14,49.71,55.09,66.67,0,0.0,0.0,2,3.75,4.15,0.0,0.0,0.0,3.8,174,60.22,stable_partner
+9123,Allana Kabab,Bangalore,Richmond Road,North Indian,low,3,3,0,3,0,0.0,120.0,360.0,38.95,48.19,33.33,0,0.0,0.0,3,3.73,4.37,0.0,0.0,0.0,3.3,4,60.2,stable_partner
+11235,Milkacium,Bangalore,Indiranagar,Beverages,mid,3,3,0,3,0,0.0,210.39,631.16,38.85,45.97,0.0,0,0.0,0.0,1,3.1,3.8,0.0,0.0,0.0,0.0,0,60.17,stable_partner
+1970,Udupi Ruchi,Bangalore,Bellandur,South Indian,low,6,6,0,6,0,0.0,141.44,848.65,37.7,47.1,0.0,0,0.0,0.0,4,3.8,4.25,1.0,25.0,0.0,3.8,244,60.16,stable_partner
+4172,New Sagar Fast Food,Bangalore,Banashankari,North Indian,low,3,3,0,3,0,0.0,130.48,391.44,41.53,50.83,33.33,0,0.0,0.0,2,3.7,4.4,0.0,0.0,0.0,3.6,71,60.16,stable_partner
+4428,Oregano Pizzeria,Bangalore,Frazer Town,Italian,low,3,3,0,3,0,0.0,172.62,517.85,48.99,49.62,33.33,0,0.0,0.0,2,3.65,4.15,0.0,0.0,0.0,3.5,62,60.07,stable_partner
+8432,Kitchen Aroma,Bangalore,Whitefield,Desserts,mid,3,3,0,3,0,0.0,224.54,673.61,40.34,45.64,0.0,0,0.0,0.0,1,3.2,3.9,0.0,0.0,0.0,3.4,7,60.06,stable_partner
+5379,Sober Turtle,Bangalore,Koramangala 4th Block,Street Food,low,3,3,0,2,1,50.0,196.12,588.37,33.42,47.26,33.33,0,0.0,0.0,3,2.9,3.87,2.0,66.67,0.0,3.4,39,60.01,stable_partner
+574,Gustoes Beer House,Bangalore,Banashankari,Continental,premium,4,4,0,4,0,0.0,725.41,2901.62,47.7,56.03,50.0,0,0.0,0.0,4,3.83,3.88,0.0,0.0,0.0,4.1,868,59.96,needs_monitoring
+9388,Y Not Restaurant,Bangalore,JP Nagar,Fast Food,low,3,2,1,3,0,0.0,170.06,510.17,40.94,45.25,0.0,0,0.0,0.0,1,3.5,5.0,0.0,0.0,33.33,3.1,4,59.91,needs_monitoring
+4920,Mesa Lounge Bar - Svenska Design Hotel,Bangalore,Electronic City,North Indian,premium,3,2,1,3,0,0.0,687.57,2062.71,39.51,45.35,0.0,0,0.0,0.0,1,3.4,5.0,0.0,0.0,33.33,3.5,49,59.83,needs_monitoring
+4524,Mynutrikitchen,Bangalore,HSR,North Indian,low,3,2,1,3,0,0.0,139.29,417.86,35.31,36.37,0.0,0,0.0,0.0,2,3.75,4.25,0.0,0.0,33.33,3.6,59,59.83,needs_monitoring
+783,Biriyani Zone,Bangalore,Electronic City,Biryani,premium,3,3,0,3,0,0.0,413.89,1241.67,42.91,55.56,33.33,0,0.0,0.0,1,3.7,3.5,0.0,0.0,0.0,3.9,678,59.65,needs_monitoring
+1282,Funky Punjab,Bangalore,JP Nagar,North Indian,mid,3,3,0,3,0,0.0,291.11,873.34,47.26,64.65,66.67,0,0.0,0.0,3,3.73,3.87,0.0,0.0,0.0,3.9,410,59.62,needs_monitoring
+7163,Sbarro,Bangalore,Domlur,Pizza,mid,3,3,0,2,1,50.0,333.01,999.02,40.32,48.78,33.33,0,0.0,0.0,3,2.47,4.37,3.0,100.0,0.0,3.4,16,59.57,needs_monitoring
+121,Dadi's Dum Biryani,Bangalore,BTM,Biryani,premium,4,3,1,4,0,0.0,444.84,1779.37,44.88,53.54,33.33,0,0.0,0.0,3,4.2,4.23,0.0,0.0,25.0,4.1,2732,59.41,needs_monitoring
+536,Kapoor's Cafe,Bangalore,HSR,North Indian,premium,3,3,0,3,0,0.0,527.83,1583.48,39.72,50.44,33.33,0,0.0,0.0,2,3.6,3.8,0.0,0.0,0.0,4.0,917,59.34,needs_monitoring
+3747,Berrylicious,Bangalore,JP Nagar,Ice Cream,mid,3,3,0,3,0,0.0,242.73,728.18,44.35,48.94,33.33,0,0.0,0.0,1,3.6,3.8,0.0,0.0,0.0,3.8,89,59.24,needs_monitoring
+5212,Udupi Nalapaka,Bangalore,Bellandur,South Indian,mid,3,3,0,3,0,0.0,183.21,549.62,38.33,44.62,33.33,0,0.0,0.0,2,3.65,3.75,0.0,0.0,0.0,3.9,42,59.21,needs_monitoring
+1417,Eat Eroo - South China,Bangalore,Marathahalli,South Indian,mid,3,3,0,3,0,0.0,231.52,694.57,40.66,50.66,33.33,0,0.0,0.0,2,3.6,3.65,0.0,0.0,0.0,3.8,370,59.14,needs_monitoring
+2745,Nammura Donne Biriyani,Bangalore,Basavanagudi,Biryani,mid,3,2,1,3,0,0.0,150.96,452.87,37.41,46.97,0.0,0,0.0,0.0,1,4.1,3.5,0.0,0.0,33.33,3.5,155,59.11,needs_monitoring
+3274,Melt,Bangalore,BTM,Continental,premium,4,3,1,4,0,0.0,692.92,2771.67,41.53,51.23,33.33,0,0.0,0.0,1,4.6,4.2,0.0,0.0,25.0,4.0,115,59.02,needs_monitoring
+4265,Faasos,Bangalore,Koramangala 1st Block,North Indian,mid,3,3,0,3,0,0.0,388.72,1166.16,42.72,52.43,33.33,0,0.0,0.0,1,3.2,4.2,0.0,0.0,0.0,4.0,67,58.99,needs_monitoring
+7586,Kia's Kitchen,Bangalore,HSR,North Indian,premium,3,3,0,3,0,0.0,369.83,1109.48,40.84,49.62,33.33,0,0.0,0.0,3,3.27,4.33,0.0,0.0,0.0,3.5,12,58.99,needs_monitoring
+9485,My Tea House,Bangalore,Banashankari,Continental,mid,3,3,0,3,0,0.0,322.52,967.57,47.2,55.07,66.67,0,0.0,0.0,2,4.05,3.8,0.0,0.0,0.0,0.0,0,58.97,needs_monitoring
+1680,Maa Bhook Lagi,Bangalore,Koramangala 4th Block,North Indian,mid,3,2,1,3,0,0.0,204.67,614.01,38.17,47.15,0.0,0,0.0,0.0,2,3.5,4.0,0.0,0.0,33.33,3.9,297,58.81,needs_monitoring
+2863,Empire Restaurant,Bangalore,Koramangala 7th Block,Biryani,premium,3,3,0,3,0,0.0,312.27,936.82,34.68,39.61,0.0,0,0.0,0.0,3,4.07,4.47,1.0,33.33,0.0,3.9,144,58.49,needs_monitoring
+3598,Kanti Sweets,Bangalore,Banaswadi,Mithai,mid,3,2,1,3,0,0.0,230.3,690.89,30.79,31.81,0.0,0,0.0,0.0,2,3.5,4.0,0.0,0.0,33.33,3.8,96,58.42,needs_monitoring
+5725,Hatti Kaapi,Bangalore,Ulsoor,South Indian,low,4,3,1,4,0,0.0,120.0,480.0,29.89,40.75,0.0,0,0.0,0.0,1,3.3,4.2,0.0,0.0,25.0,3.8,33,58.16,needs_monitoring
+5847,Waffle Stories,Bangalore,Banaswadi,Desserts,low,3,2,1,3,0,0.0,247.61,742.83,34.92,35.58,0.0,0,0.0,0.0,1,3.4,4.1,0.0,0.0,33.33,3.8,31,58.05,needs_monitoring
+4865,Desi Vdesi,Bangalore,BTM,Fast Food,low,3,2,1,3,0,0.0,171.23,513.7,42.6,45.39,0.0,0,0.0,0.0,1,3.8,3.5,0.0,0.0,33.33,3.8,50,57.96,needs_monitoring
+6040,The Kitchen,Bangalore,Electronic City,North Indian,low,3,3,0,3,0,0.0,145.25,435.74,42.01,46.37,33.33,0,0.0,0.0,2,3.6,3.5,0.0,0.0,0.0,3.7,28,57.95,needs_monitoring
+2427,Flavours Radha Hometel,Bangalore,Whitefield,North Indian,premium,3,2,1,3,0,0.0,379.9,1139.69,38.5,43.41,0.0,0,0.0,0.0,2,3.5,4.1,0.0,0.0,33.33,3.5,185,57.86,needs_monitoring
+2885,Pizza Hut,Bangalore,Basavanagudi,Pizza,premium,3,3,0,2,1,50.0,563.1,1689.3,29.77,41.44,0.0,1,33.33,285.69,2,3.15,4.4,1.0,50.0,0.0,2.9,142,57.83,needs_monitoring
+3390,Baskin Robbins,Bangalore,Electronic City,Ice Cream,low,7,7,0,6,1,16.67,172.18,1205.23,41.66,51.45,14.29,0,0.0,0.0,2,3.25,3.95,1.0,50.0,0.0,3.8,108,57.77,needs_monitoring
+2769,InnerChef,Bangalore,Koramangala 7th Block,North Indian,mid,3,3,0,3,0,0.0,315.67,947.02,36.5,43.5,0.0,0,0.0,0.0,3,3.73,4.47,1.0,33.33,0.0,3.8,153,57.74,needs_monitoring
+5066,Samosa Party,Bangalore,Koramangala 5th Block,Street Food,low,5,4,1,5,0,0.0,122.87,614.34,35.43,47.41,25.0,0,0.0,0.0,3,3.97,4.3,0.0,0.0,20.0,4.1,45,57.62,needs_monitoring
+4619,XO Belgian Waffle,Bangalore,Basavanagudi,Desserts,mid,3,3,0,3,0,0.0,197.99,593.98,30.86,34.52,0.0,1,33.33,79.57,3,4.2,4.4,0.0,0.0,0.0,3.9,56,57.6,needs_monitoring
+988,KFC,Bangalore,Marathahalli,Burger,mid,10,9,1,10,0,0.0,237.95,2379.5,37.6,47.5,11.11,1,11.11,154.54,4,3.9,4.63,0.0,0.0,10.0,3.9,536,57.56,needs_monitoring
+6514,The Good Bowl,Bangalore,Marathahalli,Italian,mid,5,5,0,5,0,0.0,208.08,1040.39,39.05,44.34,0.0,0,0.0,0.0,3,3.83,4.33,1.0,33.33,0.0,3.7,22,57.53,needs_monitoring
+736,Grigliato,Bangalore,HSR,Italian,premium,3,3,0,3,0,0.0,640.23,1920.69,42.14,43.63,0.0,0,0.0,0.0,3,3.6,4.3,1.0,33.33,0.0,3.9,717,57.5,needs_monitoring
+593,Shree Muthahalli Veg,Bangalore,HSR,South Indian,low,4,4,0,4,0,0.0,222.62,890.49,40.61,49.98,25.0,0,0.0,0.0,3,4.53,4.0,1.0,33.33,0.0,4.2,850,57.47,needs_monitoring
+10953,Anmol Sweets And Snacks,Bangalore,Electronic City,Mithai,low,3,3,0,3,0,0.0,123.6,370.79,32.86,47.83,33.33,0,0.0,0.0,2,3.4,4.2,0.0,0.0,0.0,0.0,0,57.4,needs_monitoring
+2018,eat.fit,Bangalore,Rajajinagar,Healthy Food,mid,3,3,0,3,0,0.0,230.55,691.65,44.73,50.25,33.33,0,0.0,0.0,2,4.9,4.45,1.0,50.0,0.0,4.5,236,57.4,needs_monitoring
+4303,Just Shawarma,Bangalore,Banashankari,Arabian,low,5,5,0,4,1,25.0,151.36,756.78,37.97,47.37,20.0,1,20.0,50.96,4,4.0,4.18,1.0,25.0,0.0,3.8,66,57.1,needs_monitoring
+5466,The Coffee Bean & Tea Leaf,Bangalore,Whitefield,Cafe,premium,3,3,0,3,0,0.0,360.86,1082.57,44.98,51.7,33.33,0,0.0,0.0,1,3.7,3.2,0.0,0.0,0.0,3.0,38,57.05,needs_monitoring
+9473,Healthy Bakes 'n' Brew,Bangalore,Jayanagar,Bakery,low,3,2,1,3,0,0.0,120.0,360.0,41.47,42.39,0.0,0,0.0,0.0,2,3.5,3.95,0.0,0.0,33.33,0.0,0,57.02,needs_monitoring
+2230,Kidilum,Bangalore,Whitefield,Kerala,mid,6,5,1,6,0,0.0,188.79,1132.74,43.22,51.06,40.0,0,0.0,0.0,4,4.13,3.8,0.0,0.0,16.67,3.8,210,56.97,needs_monitoring
+1147,Domino's Pizza,Bangalore,Indiranagar,Pizza,premium,6,6,0,5,1,20.0,545.84,3275.04,34.92,41.13,0.0,0,0.0,0.0,2,2.05,4.4,2.0,100.0,0.0,3.0,464,56.94,needs_monitoring
+1251,Shanghai Court,Bangalore,Bannerghatta Road,Chinese,premium,4,4,0,4,0,0.0,489.17,1956.67,39.7,49.57,25.0,0,0.0,0.0,3,4.53,3.77,1.0,33.33,0.0,4.2,421,56.9,needs_monitoring
+1791,Sichuan,Bangalore,Bellandur,Chinese,premium,4,4,0,4,0,0.0,399.23,1596.91,35.3,46.04,25.0,0,0.0,0.0,3,4.5,3.83,1.0,33.33,0.0,4.1,273,56.75,needs_monitoring
+1796,Sherlock's Pub,Bangalore,Brookefield,Continental,premium,5,5,0,3,1,33.33,1080.83,5404.13,34.65,43.85,0.0,1,20.0,215.36,3,2.8,4.43,1.0,33.33,0.0,3.3,273,56.69,needs_monitoring
+5005,Chaatimes,Bangalore,BTM,Street Food,low,4,4,0,4,0,0.0,120.52,482.07,31.18,38.35,0.0,0,0.0,0.0,3,3.37,4.77,1.0,33.33,0.0,3.4,47,56.67,needs_monitoring
+1144,BOX8- Desi Meals,Bangalore,Old Airport Road,North Indian,mid,3,3,0,3,0,0.0,380.66,1141.97,34.4,43.8,0.0,0,0.0,0.0,3,3.53,4.1,1.0,33.33,0.0,4.3,464,56.65,needs_monitoring
+6113,Madurai Meenakshi Vilas,Bangalore,Bellandur,South Indian,low,4,4,0,4,0,0.0,166.74,666.97,37.61,50.86,25.0,0,0.0,0.0,1,3.2,3.2,0.0,0.0,0.0,3.6,27,56.57,needs_monitoring
+4366,Rags on Fire,Bangalore,Electronic City,Cafe,premium,4,4,0,4,0,0.0,264.02,1056.08,38.67,44.7,0.0,0,0.0,0.0,4,3.1,4.38,1.0,25.0,0.0,3.1,64,56.54,needs_monitoring
+2633,Shake It Off,Bangalore,Indiranagar,Beverages,premium,3,3,0,3,0,0.0,276.7,830.1,35.84,43.4,0.0,1,33.33,162.65,1,4.0,4.0,0.0,0.0,0.0,4.2,165,56.5,needs_monitoring
+2834,D'7 Feast Resto Cafe,Bangalore,New BEL Road,Burger,premium,3,3,0,3,0,0.0,285.3,855.91,37.72,50.85,33.33,0,0.0,0.0,1,3.5,3.1,0.0,0.0,0.0,4.1,147,56.49,needs_monitoring
+1780,Dot.yum - Aloft Hotel,Bangalore,Whitefield,Italian,premium,5,5,0,3,1,33.33,1323.92,6619.6,46.05,52.65,40.0,1,20.0,333.85,4,4.2,3.58,1.0,25.0,0.0,3.9,276,56.48,needs_monitoring
+1118,Sukh Sagar,Bangalore,Koramangala 5th Block,South Indian,mid,4,3,1,4,0,0.0,285.99,1143.96,46.15,53.53,33.33,0,0.0,0.0,1,3.7,4.2,0.0,0.0,25.0,3.8,474,56.25,needs_monitoring
+4490,Tandoori Bytes,Bangalore,Kumaraswamy Layout,North Indian,premium,3,3,0,3,0,0.0,333.8,1001.41,40.12,44.69,0.0,1,33.33,202.51,2,3.75,4.55,0.0,0.0,0.0,3.6,60,56.24,needs_monitoring
+4337,Bawarchi Biryani,Bangalore,Koramangala 6th Block,Biryani,mid,5,5,0,5,0,0.0,194.22,971.08,39.81,48.36,0.0,0,0.0,0.0,3,3.47,4.3,1.0,33.33,0.0,3.4,65,55.93,needs_monitoring
+4891,Mojo Pizza - 2X Toppings,Bangalore,Marathahalli,Pizza,premium,3,3,0,3,0,0.0,300.09,900.27,48.41,53.11,33.33,1,33.33,178.67,2,4.4,4.75,0.0,0.0,0.0,4.2,49,55.88,needs_monitoring
+2594,The Paratha Company,Bangalore,HSR,North Indian,mid,3,3,0,3,0,0.0,259.88,779.64,48.73,53.0,33.33,0,0.0,0.0,3,4.17,4.4,1.0,33.33,0.0,4.3,169,55.7,needs_monitoring
+3552,Wahab,Bangalore,Jayanagar,North Indian,mid,3,3,0,3,0,0.0,189.37,568.1,27.86,31.86,0.0,1,33.33,28.72,2,3.8,4.3,0.0,0.0,0.0,3.7,98,55.62,needs_monitoring
+5302,Upahara Darshini,Bangalore,Basavanagudi,North Indian,premium,3,3,0,3,0,0.0,303.68,911.03,34.87,41.59,0.0,0,0.0,0.0,2,3.5,4.55,1.0,50.0,0.0,4.0,40,55.58,needs_monitoring
+1175,Pizza Hut,Bangalore,HSR,Pizza,premium,3,3,0,3,0,0.0,497.1,1491.3,35.05,35.55,0.0,0,0.0,0.0,3,3.03,4.6,1.0,33.33,0.0,3.1,452,55.13,needs_monitoring
+7463,Kanti Sweets,Bangalore,Bannerghatta Road,Mithai,mid,3,3,0,3,0,0.0,207.09,621.26,41.59,44.43,0.0,0,0.0,0.0,3,3.37,4.37,1.0,33.33,0.0,3.5,13,55.07,needs_monitoring
+813,Delicacy,Bangalore,Jeevan Bhima Nagar,Chinese,mid,3,3,0,3,0,0.0,241.87,725.62,36.52,40.3,0.0,0,0.0,0.0,2,3.4,4.4,1.0,50.0,0.0,3.9,652,55.01,needs_monitoring
+662,Sri Udupi Park,Bangalore,Indiranagar,South Indian,low,6,6,0,6,0,0.0,203.91,1223.46,38.62,47.86,16.67,1,16.67,69.54,5,3.92,4.06,0.0,0.0,0.0,4.2,781,54.96,needs_monitoring
+4634,Frozen Bottle,Bangalore,New BEL Road,Beverages,mid,3,3,0,3,0,0.0,195.64,586.93,40.01,47.4,0.0,0,0.0,0.0,3,3.47,3.97,1.0,33.33,0.0,3.8,56,54.95,needs_monitoring
+4412,Chai Point,Bangalore,Bellandur,Fast Food,low,3,3,0,3,0,0.0,139.75,419.24,35.23,42.22,0.0,1,33.33,52.8,1,3.6,4.3,0.0,0.0,0.0,3.9,62,54.93,needs_monitoring
+10298,Pindi Bangalore,Bangalore,Whitefield,North Indian,premium,3,2,1,3,0,0.0,572.61,1717.84,41.32,56.65,50.0,0,0.0,0.0,2,4.0,4.4,0.0,0.0,33.33,0.0,0,54.67,needs_monitoring
+4766,Srinidhi Sagar,Bangalore,Whitefield,South Indian,low,3,3,0,3,0,0.0,197.92,593.75,34.97,37.48,0.0,0,0.0,0.0,3,3.3,4.47,1.0,33.33,0.0,3.7,53,54.64,needs_monitoring
+2518,New Punjabi Tasty Khana,Bangalore,Whitefield,North Indian,mid,3,3,0,3,0,0.0,243.58,730.75,44.02,49.64,66.67,0,0.0,0.0,1,3.2,3.3,0.0,0.0,0.0,3.0,177,54.6,needs_monitoring
+10279,PR Kitchen,Bangalore,Whitefield,South Indian,mid,3,2,1,3,0,0.0,198.31,594.94,29.6,32.94,0.0,0,0.0,0.0,1,3.7,3.2,0.0,0.0,33.33,0.0,0,54.57,needs_monitoring
+7732,Cupcake Bliss,Bangalore,BTM,Bakery,low,3,3,0,3,0,0.0,121.04,363.11,30.06,33.39,0.0,0,0.0,0.0,3,3.6,3.9,1.0,33.33,0.0,3.5,11,54.54,needs_monitoring
+6518,Raams Chicken,Bangalore,Banashankari,Andhra,low,4,4,0,4,0,0.0,145.65,582.6,38.5,53.4,50.0,0,0.0,0.0,3,3.1,3.63,0.0,0.0,0.0,3.6,22,54.53,needs_monitoring
+300,Eat Street,Bangalore,Koramangala 6th Block,North Indian,premium,3,3,0,3,0,0.0,406.15,1218.45,41.29,44.32,33.33,0,0.0,0.0,3,4.07,4.23,1.0,33.33,0.0,4.2,1536,54.53,needs_monitoring
+4329,Chatori Tongue,Bangalore,Sarjapur Road,Street Food,low,4,4,0,4,0,0.0,120.0,480.0,32.63,47.5,25.0,1,25.0,76.88,1,3.9,4.7,0.0,0.0,0.0,3.9,65,54.41,needs_monitoring
+8262,Karachi Bakery,Bangalore,Koramangala 5th Block,Bakery,mid,5,4,1,5,0,0.0,212.32,1061.58,35.0,41.27,0.0,0,0.0,0.0,1,3.1,3.4,0.0,0.0,20.0,3.4,8,54.39,needs_monitoring
+8949,Mandya Gowdru Hotel,Bangalore,Brookefield,South Indian,low,3,2,1,3,0,0.0,120.0,360.0,38.49,45.42,0.0,0,0.0,0.0,1,3.2,3.8,0.0,0.0,33.33,3.3,5,54.38,needs_monitoring
+5062,Tandoori Delight,Bangalore,New BEL Road,North Indian,low,4,4,0,4,0,0.0,166.36,665.42,39.68,43.34,0.0,0,0.0,0.0,3,2.9,4.77,1.0,33.33,0.0,3.0,46,54.34,needs_monitoring
+1571,Kaaram,Bangalore,Koramangala 6th Block,Andhra,mid,6,4,2,4,0,0.0,205.56,1233.34,33.68,40.87,0.0,0,0.0,0.0,4,3.73,4.13,1.0,25.0,33.33,3.9,327,54.3,needs_monitoring
+3635,Ibaco,Bangalore,Brigade Road,Desserts,low,3,3,0,3,0,0.0,211.84,635.52,34.86,46.07,33.33,1,33.33,189.14,3,4.63,4.03,0.0,0.0,0.0,4.0,94,54.28,needs_monitoring
+4571,Cafe Coffee Day,Bangalore,New BEL Road,Cafe,premium,3,3,0,3,0,0.0,498.3,1494.91,37.56,39.23,0.0,0,0.0,0.0,3,3.2,4.2,1.0,33.33,0.0,3.2,58,54.21,needs_monitoring
+3085,Rasoi,Bangalore,Banashankari,North Indian,low,3,3,0,3,0,0.0,174.48,523.44,39.91,47.46,0.0,0,0.0,0.0,3,3.2,4.2,1.0,33.33,0.0,3.3,128,54.21,needs_monitoring
+2682,Faasos,Bangalore,Kammanahalli,North Indian,mid,3,2,1,3,0,0.0,276.28,828.83,43.63,55.34,50.0,0,0.0,0.0,2,3.7,3.8,0.0,0.0,33.33,4.0,160,53.97,needs_monitoring
+1900,Dande's Hyderabad Biryani,Bangalore,Bommanahalli,Biryani,premium,3,3,0,3,0,0.0,196.88,590.65,39.79,44.66,0.0,0,0.0,0.0,2,3.2,4.6,1.0,50.0,0.0,3.0,255,53.89,needs_monitoring
+575,Peppermill Bistro,Bangalore,New BEL Road,Continental,premium,3,3,0,1,1,100.0,619.18,1857.53,36.62,45.88,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,4.0,868,53.69,needs_monitoring
+3426,Sri Udupi Park,Bangalore,Residency Road,South Indian,low,4,3,1,4,0,0.0,132.75,530.98,40.28,49.8,33.33,0,0.0,0.0,1,3.3,4.0,0.0,0.0,25.0,3.8,106,53.68,needs_monitoring
+1743,Chowmein,Bangalore,Basaveshwara Nagar,Chinese,premium,6,5,1,5,1,20.0,489.88,2939.3,38.65,45.17,20.0,0,0.0,0.0,3,3.23,3.77,2.0,66.67,16.67,3.8,285,53.66,needs_monitoring
+5378,Green G Juice Bar,Bangalore,Indiranagar,Ice Cream,low,3,3,0,3,0,0.0,123.73,371.2,45.4,47.73,0.0,0,0.0,0.0,2,3.3,4.45,1.0,50.0,0.0,3.5,39,53.62,needs_monitoring
+43,Meghana Foods,Bangalore,Jayanagar,Biryani,premium,4,4,0,4,0,0.0,260.1,1040.41,47.08,53.73,50.0,0,0.0,0.0,3,4.43,3.67,2.0,66.67,0.0,4.5,4569,53.59,needs_monitoring
+8105,Tasty Point,Bangalore,Bannerghatta Road,Burger,low,3,3,0,3,0,0.0,171.71,515.14,33.09,38.45,0.0,1,33.33,121.17,2,3.5,4.35,0.0,0.0,0.0,3.3,9,53.56,needs_monitoring
+1136,Madurai Idly Shop,Bangalore,Koramangala 6th Block,South Indian,low,3,3,0,3,0,0.0,143.54,430.63,25.58,31.15,0.0,0,0.0,0.0,2,3.5,4.1,1.0,50.0,0.0,3.8,468,53.32,needs_monitoring
+1666,Vasudev Adiga's,Bangalore,MG Road,South Indian,low,4,4,0,2,2,100.0,187.16,748.65,38.5,44.69,0.0,1,25.0,89.63,2,2.2,4.6,2.0,100.0,0.0,2.5,301,53.28,needs_monitoring
+7302,The French Loaf,Bangalore,HSR,Bakery,mid,3,3,0,2,1,50.0,249.36,748.09,33.93,49.67,33.33,0,0.0,0.0,1,1.9,2.8,1.0,100.0,0.0,3.1,15,53.24,needs_monitoring
+613,Baba Chatkora,Bangalore,Koramangala 6th Block,North Indian,premium,4,4,0,4,0,0.0,694.8,2779.18,30.13,37.61,0.0,0,0.0,0.0,3,3.0,4.03,2.0,66.67,0.0,4.2,823,53.19,needs_monitoring
+4144,Sreeraj Lassi Bar,Bangalore,Malleshwaram,Beverages,low,3,3,0,2,1,50.0,120.0,360.0,29.48,44.6,33.33,1,33.33,42.59,3,3.1,4.13,2.0,66.67,0.0,3.8,72,53.18,needs_monitoring
+360,Chulha Chauki Da Dhaba,Bangalore,Kalyan Nagar,North Indian,premium,7,7,0,6,1,16.67,489.32,3425.27,41.04,51.74,14.29,1,14.29,108.8,6,3.7,4.0,2.0,33.33,0.0,4.1,1286,53.11,needs_monitoring
+3100,The Spice Saga,Bangalore,Kumaraswamy Layout,Biryani,premium,4,4,0,2,2,100.0,372.74,1490.98,34.88,41.89,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,3.7,126,53.08,needs_monitoring
+6659,Red Bawarchi,Bangalore,BTM,Biryani,premium,3,3,0,3,0,0.0,309.64,928.93,34.12,39.18,0.0,0,0.0,0.0,3,3.03,4.2,1.0,33.33,0.0,3.0,21,53.06,needs_monitoring
+633,Kittu's,Bangalore,Electronic City,North Indian,premium,4,4,0,4,0,0.0,365.49,1461.96,45.16,51.24,25.0,0,0.0,0.0,2,4.15,3.45,1.0,50.0,0.0,4.2,800,52.92,needs_monitoring
+462,Eurasia Pasta and Barbeque by Little Italy,Bangalore,Jayanagar,Italian,premium,4,4,0,4,0,0.0,804.8,3219.19,42.76,45.96,50.0,0,0.0,0.0,3,4.1,3.63,1.0,33.33,0.0,4.0,1065,52.9,needs_monitoring
+3997,Hotel Ajantha,Bangalore,MG Road,South Indian,low,4,4,0,4,0,0.0,125.18,500.72,31.14,36.75,0.0,1,25.0,87.55,1,3.5,4.0,0.0,0.0,0.0,3.9,77,52.88,needs_monitoring
+5865,Nandi Mess - Feel Like Mom's,Bangalore,Whitefield,South Indian,low,3,3,0,3,0,0.0,189.49,568.48,32.5,34.12,0.0,0,0.0,0.0,2,3.25,4.2,1.0,50.0,0.0,3.7,31,52.84,needs_monitoring
+8211,Thran Bakery,Bangalore,Kalyan Nagar,Bakery,premium,3,2,1,2,1,50.0,381.28,1143.83,44.23,48.97,50.0,0,0.0,0.0,1,2.1,4.5,1.0,100.0,33.33,3.6,8,52.81,needs_monitoring
+1298,Sharaab Factory,Bangalore,Bellandur,Biryani,premium,3,2,1,3,0,0.0,1171.27,3513.81,45.93,51.08,50.0,0,0.0,0.0,1,3.6,3.4,0.0,0.0,33.33,3.9,406,52.79,needs_monitoring
+2110,Mahadii's,Bangalore,Kammanahalli,Andhra,premium,4,4,0,4,0,0.0,340.63,1362.53,38.86,50.04,25.0,0,0.0,0.0,4,3.93,3.95,2.0,50.0,0.0,3.8,223,52.78,needs_monitoring
+9060,Adyar Ananda Bhavan Sweets,Bangalore,JP Nagar,Mithai,low,3,3,0,3,0,0.0,127.17,381.51,36.1,45.93,0.0,0,0.0,0.0,2,3.25,4.35,1.0,50.0,0.0,3.6,4,52.71,needs_monitoring
+3990,Goli Vada Pav No. 1,Bangalore,Electronic City,Street Food,low,4,4,0,4,0,0.0,120.0,480.0,38.24,45.37,0.0,0,0.0,0.0,2,2.85,4.75,2.0,100.0,0.0,2.9,78,52.43,needs_monitoring
+11448,Lemlei Cafe,Bangalore,Kammanahalli,Cafe,mid,3,3,0,3,0,0.0,275.12,825.35,43.93,49.16,0.0,0,0.0,0.0,2,3.35,4.55,1.0,50.0,0.0,0.0,0,52.42,needs_monitoring
+960,House Of Kebabs,Bangalore,Basavanagudi,North Indian,premium,3,3,0,3,0,0.0,421.3,1263.9,31.12,44.28,33.33,1,33.33,182.71,1,3.8,4.3,0.0,0.0,0.0,3.9,547,52.4,needs_monitoring
+9756,Dallas Hot & Cold,Bangalore,JP Nagar,Fast Food,low,3,3,0,3,0,0.0,147.86,443.59,31.91,41.54,0.0,1,33.33,105.94,2,3.45,4.4,0.0,0.0,0.0,0.0,0,52.37,needs_monitoring
+8607,The Good Bowl,Bangalore,JP Nagar,Italian,mid,3,2,1,3,0,0.0,326.09,978.28,55.13,55.85,100.0,0,0.0,0.0,1,3.5,3.9,0.0,0.0,33.33,3.7,6,52.36,needs_monitoring
+9062,Hatti Kaapi,Bangalore,Rajajinagar,Beverages,low,3,3,0,3,0,0.0,164.9,494.71,34.18,42.86,0.0,0,0.0,0.0,3,3.23,4.03,1.0,33.33,0.0,3.6,4,52.34,needs_monitoring
+6161,Keventers,Bangalore,BTM,Beverages,mid,3,3,0,2,1,50.0,245.66,736.97,35.06,38.67,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,3.8,26,52.3,needs_monitoring
+12133,Indira Canteen,Bangalore,Old Airport Road,South Indian,low,3,3,0,3,0,0.0,171.72,515.15,31.22,41.95,0.0,0,0.0,0.0,3,3.4,4.43,2.0,66.67,0.0,0.0,0,52.26,needs_monitoring
+7068,Late Night,Bangalore,Marathahalli,North Indian,mid,3,3,0,3,0,0.0,236.33,709.0,40.91,47.19,0.0,0,0.0,0.0,2,3.2,4.7,1.0,50.0,0.0,3.0,17,52.22,needs_monitoring
+8163,Race Course Restaurant,Bangalore,Rajajinagar,Chinese,mid,3,3,0,3,0,0.0,238.43,715.3,37.64,42.54,0.0,0,0.0,0.0,2,3.0,4.6,1.0,50.0,0.0,3.2,9,52.2,needs_monitoring
+779,Indian Coffee House & Restaurant,Bangalore,Koramangala 5th Block,South Indian,premium,4,3,1,4,0,0.0,353.16,1412.63,34.81,35.9,0.0,0,0.0,0.0,3,4.03,3.87,1.0,33.33,25.0,4.1,679,52.14,needs_monitoring
+2959,Andal Mess,Bangalore,Indiranagar,South Indian,low,4,4,0,4,0,0.0,184.15,736.61,34.4,41.79,0.0,0,0.0,0.0,2,3.1,4.15,1.0,50.0,0.0,3.2,136,52.1,needs_monitoring
+1122,Dhaba Social,Bangalore,Brookefield,North Indian,premium,4,4,0,4,0,0.0,407.92,1631.7,42.18,51.44,50.0,0,0.0,0.0,4,4.22,3.8,2.0,50.0,0.0,4.0,472,52.02,needs_monitoring
+9969,Dunkin' Donuts,Bangalore,Sarjapur Road,Desserts,low,3,3,0,3,0,0.0,196.45,589.35,34.08,38.83,0.0,0,0.0,0.0,2,3.25,4.55,1.0,50.0,0.0,0.0,0,52.02,needs_monitoring
+2949,Four Seasons Fast Food Center,Bangalore,Malleshwaram,North Indian,mid,3,3,0,3,0,0.0,274.85,824.56,48.61,57.78,66.67,0,0.0,0.0,2,4.1,4.3,1.0,50.0,0.0,3.8,136,52.01,needs_monitoring
+6670,Rajtilak Sweets,Bangalore,Sarjapur Road,Street Food,low,7,6,1,6,1,16.67,127.83,894.78,35.77,42.63,0.0,0,0.0,0.0,5,2.44,4.3,4.0,80.0,14.29,2.7,21,51.98,needs_monitoring
+1572,One Chu Restaurant,Bangalore,Old Airport Road,Chinese,premium,3,3,0,3,0,0.0,357.46,1072.38,41.57,48.79,33.33,0,0.0,0.0,2,3.6,4.45,1.0,50.0,0.0,3.9,327,51.92,needs_monitoring
+2758,Lassi Corner,Bangalore,Electronic City,Beverages,low,3,3,0,3,0,0.0,213.91,641.74,42.16,48.11,0.0,0,0.0,0.0,1,2.6,4.7,1.0,100.0,0.0,3.5,154,51.91,needs_monitoring
+8603,Insta Cafe,Bangalore,BTM,Cafe,mid,3,3,0,3,0,0.0,166.58,499.74,34.24,44.02,0.0,0,0.0,0.0,2,2.95,4.7,1.0,50.0,0.0,2.9,7,51.91,needs_monitoring
+6301,Starlite Bakery & Fastfood,Bangalore,Jayanagar,North Indian,low,3,3,0,3,0,0.0,194.11,582.33,29.33,40.05,33.33,0,0.0,0.0,2,4.5,3.55,1.0,50.0,0.0,3.9,24,51.88,needs_monitoring
+2231,Hind Ka Chulah,Bangalore,Marathahalli,North Indian,premium,3,3,0,3,0,0.0,340.48,1021.45,44.53,53.81,33.33,0,0.0,0.0,3,3.73,3.77,1.0,33.33,0.0,3.7,210,51.74,needs_monitoring
+1279,Beijing Bites,Bangalore,HSR,Chinese,premium,4,4,0,3,1,33.33,534.53,2138.12,49.68,54.73,50.0,1,25.0,170.35,2,3.6,3.7,1.0,50.0,0.0,4.0,411,51.7,needs_monitoring
+2249,Bun Town,Bangalore,BTM,Cafe,mid,4,3,1,4,0,0.0,285.97,1143.89,31.03,33.39,0.0,0,0.0,0.0,3,3.67,4.1,1.0,33.33,25.0,4.0,207,51.68,needs_monitoring
+6243,The Pallavas ( Authentic Taste Of Southern Cuisine ),Bangalore,Brookefield,South Indian,mid,3,3,0,3,0,0.0,169.15,507.45,42.0,46.22,0.0,0,0.0,0.0,1,2.8,4.4,1.0,100.0,0.0,3.7,25,51.58,needs_monitoring
+9014,Ustaad Biryani,Bangalore,HSR,Biryani,mid,3,3,0,3,0,0.0,285.61,856.82,34.03,34.91,0.0,0,0.0,0.0,2,2.65,4.85,1.0,50.0,0.0,3.2,5,51.42,needs_monitoring
+8610,Freeze It,Bangalore,BTM,Ice Cream,low,3,3,0,3,0,0.0,185.25,555.76,39.15,53.31,33.33,0,0.0,0.0,2,4.35,3.8,1.0,50.0,0.0,3.6,6,51.38,needs_monitoring
+4076,Ovenstory Pizza,Bangalore,Marathahalli,Pizza,premium,3,3,0,3,0,0.0,348.34,1045.01,36.35,43.3,0.0,0,0.0,0.0,1,2.9,3.8,1.0,100.0,0.0,4.1,74,51.19,needs_monitoring
+10775,Bangarpet Chats Adda,Bangalore,Electronic City,Street Food,low,3,2,1,3,0,0.0,130.29,390.88,43.43,50.15,50.0,0,0.0,0.0,1,4.0,3.0,0.0,0.0,33.33,0.0,0,51.17,needs_monitoring
+2558,Shree Khana Khazana,Bangalore,Bellandur,North Indian,mid,3,3,0,3,0,0.0,297.93,893.79,53.57,57.65,66.67,0,0.0,0.0,2,4.5,3.35,1.0,50.0,0.0,4.1,172,51.15,needs_monitoring
+1370,Moto Store & CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,Bangalore,Ulsoor,Pizza,mid,3,3,0,3,0,0.0,252.96,758.89,41.64,48.58,33.33,1,33.33,115.63,1,4.4,3.1,0.0,0.0,0.0,4.2,382,51.14,needs_monitoring
+6342,BMR Hyderabad Biryani,Bangalore,BTM,Biryani,mid,3,3,0,3,0,0.0,220.43,661.29,38.17,44.75,0.0,0,0.0,0.0,2,3.2,3.75,1.0,50.0,0.0,3.6,24,51.11,needs_monitoring
+8367,SV Restaurant,Bangalore,Whitefield,Andhra,premium,4,4,0,4,0,0.0,264.16,1056.63,35.7,41.41,0.0,0,0.0,0.0,1,2.4,4.9,1.0,100.0,0.0,3.1,8,51.06,needs_monitoring
+2541,Taza Khaana,Bangalore,HSR,Chinese,mid,3,3,0,3,0,0.0,198.45,595.35,36.14,39.74,0.0,0,0.0,0.0,1,2.7,4.4,1.0,100.0,0.0,3.1,175,51.0,needs_monitoring
+7422,Cookie Man,Bangalore,Whitefield,Bakery,low,5,5,0,5,0,0.0,128.55,642.77,36.83,46.03,20.0,0,0.0,0.0,2,3.35,4.45,1.0,50.0,0.0,3.0,14,50.93,needs_monitoring
+4156,Slate Cafe,Bangalore,JP Nagar,Cafe,premium,3,3,0,3,0,0.0,345.11,1035.32,41.22,47.52,33.33,0,0.0,0.0,2,3.9,3.7,1.0,50.0,0.0,4.1,71,50.71,needs_monitoring
+1088,Kapoor's Cafe,Bangalore,Kalyan Nagar,North Indian,premium,3,3,0,3,0,0.0,455.8,1367.4,43.0,52.01,66.67,0,0.0,0.0,3,4.13,3.27,1.0,33.33,0.0,4.1,488,50.66,needs_monitoring
+6364,New Kadai,Bangalore,Kalyan Nagar,North Indian,premium,3,3,0,3,0,0.0,299.33,897.98,34.29,39.83,0.0,0,0.0,0.0,2,3.0,3.8,1.0,50.0,0.0,3.5,24,50.65,needs_monitoring
+8605,New Curries & Spice Restaurant,Bangalore,New BEL Road,South Indian,low,3,3,0,3,0,0.0,128.89,386.67,35.38,39.77,0.0,0,0.0,0.0,3,2.93,4.3,2.0,66.67,0.0,2.9,7,50.63,needs_monitoring
+4069,Cafe Coffee Day,Bangalore,Electronic City,Cafe,premium,5,5,0,5,0,0.0,459.54,2297.71,36.37,44.87,0.0,0,0.0,0.0,3,2.73,4.03,3.0,100.0,0.0,3.2,75,50.61,needs_monitoring
+606,Hyderabad Biryaani House,Bangalore,Marathahalli,Biryani,premium,3,3,0,3,0,0.0,231.04,693.11,52.82,55.01,100.0,0,0.0,0.0,2,3.75,4.05,1.0,50.0,0.0,3.7,833,50.5,needs_monitoring
+923,A2B - Adyar Ananda Bhavan,Bangalore,Indiranagar,South Indian,mid,3,3,0,3,0,0.0,257.28,771.83,45.95,48.59,0.0,0,0.0,0.0,2,2.75,4.1,2.0,100.0,0.0,3.0,570,50.49,needs_monitoring
+3900,Berrylicious Cafe,Bangalore,MG Road,Italian,premium,3,3,0,3,0,0.0,1362.58,4087.75,45.58,52.27,33.33,0,0.0,0.0,3,3.53,4.03,1.0,33.33,0.0,3.7,82,50.49,needs_monitoring
+935,Mandi,Bangalore,JP Nagar,North Indian,premium,3,3,0,3,0,0.0,452.04,1356.13,37.41,47.86,33.33,0,0.0,0.0,2,3.6,3.95,1.0,50.0,0.0,3.8,563,50.45,needs_monitoring
+5708,Earth Plate Express,Bangalore,JP Nagar,Italian,premium,3,3,0,3,0,0.0,375.44,1126.33,46.49,51.48,33.33,0,0.0,0.0,2,4.0,3.55,1.0,50.0,0.0,3.9,33,50.26,needs_monitoring
+2700,Biriyani Mane,Bangalore,Jayanagar,Biryani,premium,3,3,0,3,0,0.0,414.83,1244.48,37.84,55.53,33.33,1,33.33,137.47,2,3.8,3.75,0.0,0.0,0.0,3.7,159,50.22,needs_monitoring
+6841,Thalis Of India,Bangalore,Whitefield,South Indian,mid,3,3,0,3,0,0.0,312.67,938.01,39.94,46.06,33.33,0,0.0,0.0,3,3.43,4.1,1.0,33.33,0.0,3.3,19,50.2,needs_monitoring
+7404,Baskin Robbins,Bangalore,Marathahalli,Ice Cream,low,3,3,0,3,0,0.0,137.02,411.07,29.19,39.86,0.0,0,0.0,0.0,2,2.65,4.35,2.0,100.0,0.0,3.2,14,50.15,needs_monitoring
+5777,Kaulige Millet Corner,Bangalore,Brigade Road,Healthy Food,low,3,3,0,3,0,0.0,142.88,428.63,43.75,49.23,33.33,0,0.0,0.0,3,3.53,4.07,2.0,66.67,0.0,4.0,32,49.74,needs_monitoring
+4333,Ayodhya Sagara,Bangalore,Basaveshwara Nagar,Chinese,low,3,3,0,3,0,0.0,125.9,377.69,43.51,49.13,0.0,0,0.0,0.0,1,3.0,3.4,1.0,100.0,0.0,3.8,65,49.73,needs_monitoring
+4451,Haveli,Bangalore,Marathahalli,Biryani,premium,3,3,0,3,0,0.0,419.61,1258.82,38.91,51.46,33.33,0,0.0,0.0,2,3.6,3.9,1.0,50.0,0.0,3.7,61,49.64,needs_monitoring
+7147,KafeKombos,Bangalore,HSR,North Indian,low,3,3,0,3,0,0.0,212.66,637.98,35.98,42.38,0.0,0,0.0,0.0,3,2.37,4.43,3.0,100.0,0.0,3.5,16,49.63,needs_monitoring
+4077,Poha On Wheels,Bangalore,Bellandur,Street Food,low,3,3,0,3,0,0.0,120.0,360.0,47.39,58.51,66.67,0,0.0,0.0,3,3.73,3.37,1.0,33.33,0.0,4.1,74,49.59,needs_monitoring
+11571,Ganesh Bakery,Bangalore,Kammanahalli,Bakery,mid,3,3,0,3,0,0.0,285.76,857.27,36.52,42.68,0.0,0,0.0,0.0,2,2.9,4.2,1.0,50.0,0.0,0.0,0,49.57,needs_monitoring
+1640,Pizza Hut,Bangalore,Marathahalli,Pizza,premium,3,3,0,3,0,0.0,430.56,1291.68,34.86,43.99,0.0,0,0.0,0.0,3,2.4,4.5,3.0,100.0,0.0,2.2,310,49.55,needs_monitoring
+11655,Sri Udupi,Bangalore,Old Airport Road,South Indian,mid,4,4,0,4,0,0.0,256.42,1025.66,45.6,52.49,50.0,0,0.0,0.0,3,3.8,3.7,1.0,33.33,0.0,0.0,0,49.54,needs_monitoring
+5541,Sutra Spice-The Resto Bar,Bangalore,Koramangala 4th Block,South Indian,premium,3,3,0,3,0,0.0,595.27,1785.82,39.42,45.23,0.0,0,0.0,0.0,1,2.7,4.0,1.0,100.0,0.0,3.8,36,49.48,needs_monitoring
+1941,A2B - Adyar Ananda Bhavan,Bangalore,Koramangala 7th Block,South Indian,mid,3,3,0,3,0,0.0,215.2,645.61,37.62,39.98,0.0,0,0.0,0.0,2,2.85,3.8,1.0,50.0,0.0,2.7,249,49.45,needs_monitoring
+1027,Happy Singh,Bangalore,Whitefield,Chinese,premium,3,3,0,3,0,0.0,495.89,1487.68,40.12,46.59,33.33,1,33.33,297.17,2,3.65,3.55,0.0,0.0,0.0,3.8,515,49.43,needs_monitoring
+11517,Multi Ruchish,Bangalore,New BEL Road,North Indian,low,5,5,0,5,0,0.0,176.07,880.37,45.53,53.25,40.0,0,0.0,0.0,4,3.18,3.7,1.0,25.0,0.0,0.0,0,49.34,needs_monitoring
+10618,WanderCrust,Bangalore,HSR,Pizza,mid,3,3,0,3,0,0.0,226.07,678.2,43.36,50.48,33.33,0,0.0,0.0,3,3.4,4.23,1.0,33.33,0.0,0.0,0,49.16,needs_monitoring
+1601,Zeeshan,Bangalore,JP Nagar,North Indian,premium,3,3,0,3,0,0.0,431.53,1294.58,46.15,52.34,66.67,0,0.0,0.0,2,3.5,4.2,1.0,50.0,0.0,3.1,320,49.05,needs_monitoring
+3907,Moriz Restaurant,Bangalore,Bellandur,Arabian,premium,3,3,0,3,0,0.0,527.82,1583.45,36.48,39.54,0.0,0,0.0,0.0,2,2.4,4.2,2.0,100.0,0.0,2.7,82,48.87,needs_monitoring
+904,Rustic Stove,Bangalore,Jayanagar,North Indian,premium,5,5,0,5,0,0.0,535.47,2677.33,46.4,55.31,40.0,1,20.0,165.12,4,3.33,3.93,0.0,0.0,0.0,3.7,582,48.77,needs_monitoring
+6828,Meat and Eat,Bangalore,Electronic City,Fast Food,mid,3,3,0,3,0,0.0,286.83,860.49,41.17,43.7,0.0,0,0.0,0.0,1,2.7,3.7,1.0,100.0,0.0,3.4,19,48.69,needs_monitoring
+9875,North Tadka Restaurant,Bangalore,HSR,North Indian,mid,3,3,0,3,0,0.0,249.28,747.83,50.88,60.21,33.33,0,0.0,0.0,2,3.95,3.55,1.0,50.0,0.0,0.0,0,48.65,needs_monitoring
+3126,Ramji Chaiwale,Bangalore,Old Airport Road,Beverages,low,3,3,0,2,1,50.0,148.8,446.4,42.14,49.48,33.33,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,3.9,124,48.63,needs_monitoring
+3135,Aroma Spice,Bangalore,Kalyan Nagar,Andhra,premium,3,3,0,3,0,0.0,403.62,1210.85,41.84,48.42,33.33,0,0.0,0.0,3,3.33,3.77,2.0,66.67,0.0,3.9,123,48.56,needs_monitoring
+3750,Kakal-Kai Ruchi,Bangalore,JP Nagar,Fast Food,mid,3,3,0,3,0,0.0,251.5,754.51,37.14,47.47,33.33,0,0.0,0.0,2,3.7,3.75,1.0,50.0,0.0,3.8,89,48.49,needs_monitoring
+6663,Oven Fresh,Bangalore,Whitefield,Bakery,premium,3,3,0,3,0,0.0,296.06,888.19,31.5,34.65,0.0,0,0.0,0.0,1,2.4,4.4,1.0,100.0,0.0,2.9,21,48.36,needs_monitoring
+208,Burger King,Bangalore,Whitefield,Burger,premium,3,3,0,3,0,0.0,335.63,1006.89,43.77,51.16,33.33,0,0.0,0.0,1,4.1,2.4,1.0,100.0,0.0,4.0,1972,48.33,needs_monitoring
+5513,Coastal Express,Bangalore,Malleshwaram,North Indian,mid,3,3,0,3,0,0.0,246.29,738.86,40.35,47.12,33.33,1,33.33,207.66,1,3.2,4.2,0.0,0.0,0.0,3.4,37,48.18,needs_monitoring
+7156,Swadist Pakhal Restaurant,Bangalore,Sarjapur Road,North Indian,premium,3,3,0,3,0,0.0,326.52,979.57,43.03,49.95,33.33,0,0.0,0.0,2,3.5,3.7,1.0,50.0,0.0,3.5,16,48.09,needs_monitoring
+6237,NYS Kitchen,Bangalore,Whitefield,North Indian,mid,3,3,0,3,0,0.0,335.37,1006.1,43.72,50.17,33.33,0,0.0,0.0,2,3.45,3.7,1.0,50.0,0.0,3.7,25,47.92,needs_monitoring
+7808,Hearts Unlock Cafe,Bangalore,BTM,Cafe,mid,3,3,0,3,0,0.0,231.04,693.11,32.74,37.41,0.0,0,0.0,0.0,1,2.5,4.1,1.0,100.0,0.0,3.2,11,47.74,needs_monitoring
+8791,Tiwari's Ghee Paratha and Chats,Bangalore,JP Nagar,North Indian,low,3,3,0,3,0,0.0,135.33,406.0,42.96,49.85,33.33,0,0.0,0.0,3,3.0,3.97,1.0,33.33,0.0,3.2,6,47.72,needs_monitoring
+6930,Ganga Foods,Bangalore,Marathahalli,South Indian,low,3,3,0,2,1,50.0,120.36,361.08,42.54,52.05,33.33,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,3.5,18,47.72,needs_monitoring
+6233,Baskin Robbins,Bangalore,Basavanagudi,Ice Cream,low,3,3,0,3,0,0.0,171.9,515.71,50.95,63.23,66.67,0,0.0,0.0,3,4.03,3.47,2.0,66.67,0.0,3.7,25,47.71,needs_monitoring
+5729,Roll N Rock,Bangalore,JP Nagar,Chinese,mid,4,4,0,4,0,0.0,209.63,838.53,47.24,55.59,50.0,0,0.0,0.0,2,3.8,3.3,1.0,50.0,0.0,3.7,33,47.55,needs_monitoring
+1568,Taste Of Nawaabs,Bangalore,Banaswadi,North Indian,premium,3,3,0,3,0,0.0,320.01,960.02,43.29,52.15,33.33,0,0.0,0.0,2,3.0,3.9,1.0,50.0,0.0,3.6,328,47.54,needs_monitoring
+1179,Cinnamon,Bangalore,HSR,North Indian,premium,3,3,0,3,0,0.0,313.96,941.88,40.56,47.04,0.0,1,33.33,109.71,3,3.53,4.43,1.0,33.33,0.0,3.9,450,47.5,needs_monitoring
+6325,Biryanis And More,Bangalore,Koramangala 5th Block,Biryani,premium,3,3,0,3,0,0.0,523.36,1570.09,47.04,52.53,33.33,0,0.0,0.0,2,3.2,3.75,1.0,50.0,0.0,3.7,24,47.36,needs_monitoring
+8240,Marhaba,Bangalore,Whitefield,Arabian,mid,3,2,1,3,0,0.0,373.62,1120.87,37.53,43.87,0.0,0,0.0,0.0,1,3.0,4.6,1.0,100.0,33.33,3.5,8,47.3,needs_monitoring
+5494,Once In Nature,Bangalore,JP Nagar,Healthy Food,low,3,3,0,3,0,0.0,151.6,454.8,43.39,47.06,33.33,0,0.0,0.0,2,3.5,3.35,1.0,50.0,0.0,3.7,37,47.16,needs_monitoring
+922,King,Bangalore,Electronic City,North Indian,low,4,4,0,4,0,0.0,158.45,633.81,37.19,47.22,25.0,1,25.0,111.14,4,3.93,4.18,1.0,25.0,0.0,3.7,570,47.04,needs_monitoring
+11999,Hot Biriyani Center,Bangalore,Marathahalli,Biryani,low,3,3,0,3,0,0.0,123.95,371.85,45.15,53.21,33.33,0,0.0,0.0,2,3.05,4.5,1.0,50.0,0.0,0.0,0,46.9,needs_monitoring
+3942,Navami,Bangalore,Jayanagar,Andhra,premium,4,4,0,4,0,0.0,448.32,1793.27,38.61,47.11,50.0,0,0.0,0.0,3,3.2,3.77,2.0,66.67,0.0,3.5,80,46.86,needs_monitoring
+8370,Eatwell Restaurant,Bangalore,Sarjapur Road,Biryani,mid,3,3,0,3,0,0.0,227.9,683.7,44.4,51.78,33.33,0,0.0,0.0,2,3.1,4.15,1.0,50.0,0.0,3.0,8,46.83,needs_monitoring
+4050,Reddy's Hyderabadi Biryani,Bangalore,Electronic City,Chinese,mid,3,3,0,3,0,0.0,248.97,746.91,43.43,45.44,0.0,0,0.0,0.0,1,2.1,4.0,1.0,100.0,0.0,2.7,76,46.76,needs_monitoring
+4365,New Prashanth Hotel,Bangalore,JP Nagar,South Indian,premium,3,2,1,3,0,0.0,337.09,1011.28,39.58,39.58,0.0,0,0.0,0.0,1,3.0,4.3,1.0,100.0,33.33,3.1,64,46.75,needs_monitoring
+4279,Chaiywaala Da Dhaba,Bangalore,New BEL Road,Cafe,low,4,3,1,4,0,0.0,146.28,585.11,36.44,45.38,0.0,0,0.0,0.0,2,3.2,3.8,1.0,50.0,25.0,3.7,67,46.62,needs_monitoring
+2572,Faasos,Bangalore,Sarjapur Road,North Indian,mid,3,3,0,3,0,0.0,287.13,861.4,44.15,52.2,33.33,0,0.0,0.0,2,2.9,3.7,2.0,100.0,0.0,3.9,171,46.41,needs_monitoring
+10813,Indulge,Bangalore,Electronic City,Bakery,low,4,3,1,4,0,0.0,123.58,494.32,28.73,35.38,0.0,0,0.0,0.0,3,3.13,4.33,2.0,66.67,25.0,0.0,0,45.88,needs_monitoring
+5525,Midnight Food Point,Bangalore,Kalyan Nagar,North Indian,mid,3,3,0,3,0,0.0,292.16,876.48,34.71,36.95,0.0,0,0.0,0.0,3,1.73,4.23,3.0,100.0,0.0,2.7,37,45.79,needs_monitoring
+2429,Sukh Sagar,Bangalore,Kammanahalli,North Indian,mid,5,5,0,5,0,0.0,278.95,1394.77,44.75,53.69,60.0,0,0.0,0.0,5,3.14,3.74,2.0,40.0,0.0,2.7,185,45.76,needs_monitoring
+735,Chung Wah,Bangalore,Kalyan Nagar,Chinese,premium,3,2,1,3,0,0.0,528.7,1586.11,49.4,53.62,100.0,0,0.0,0.0,1,4.5,3.1,1.0,100.0,33.33,4.0,717,45.74,needs_monitoring
+5300,Crunch Pizzas,Bangalore,Whitefield,Italian,premium,3,3,0,3,0,0.0,422.83,1268.5,48.13,58.27,33.33,0,0.0,0.0,2,2.7,4.2,2.0,100.0,0.0,2.6,41,45.63,needs_monitoring
+10531,Sethi's,Bangalore,HSR,North Indian,premium,3,3,0,3,0,0.0,250.93,752.8,52.77,54.48,100.0,0,0.0,0.0,2,3.35,3.5,1.0,50.0,0.0,0.0,0,45.57,needs_monitoring
+612,Pin Me Down,Bangalore,BTM,Continental,premium,5,5,0,5,0,0.0,501.74,2508.69,43.0,50.51,40.0,1,20.0,144.0,4,4.2,3.45,1.0,25.0,0.0,4.5,823,45.53,needs_monitoring
+5898,KC Das - Sweet Sensation,Bangalore,Whitefield,Mithai,low,3,3,0,3,0,0.0,167.54,502.61,35.65,43.09,0.0,0,0.0,0.0,3,1.93,4.1,3.0,100.0,0.0,2.9,31,45.38,needs_monitoring
+7951,Savours,Bangalore,Sarjapur Road,North Indian,mid,3,3,0,3,0,0.0,181.41,544.23,53.66,58.32,100.0,0,0.0,0.0,2,3.0,3.95,1.0,50.0,0.0,3.3,10,45.38,needs_monitoring
+771,Moriz Restaurant,Bangalore,Marathahalli,Arabian,premium,3,3,0,3,0,0.0,464.32,1392.95,40.71,49.69,33.33,0,0.0,0.0,1,2.4,4.0,1.0,100.0,0.0,3.2,684,45.19,needs_monitoring
+4729,Sri Krishna Sagar,Bangalore,JP Nagar,South Indian,low,3,2,1,3,0,0.0,165.22,495.66,40.14,42.08,0.0,0,0.0,0.0,1,2.7,4.6,1.0,100.0,33.33,3.1,54,45.11,needs_monitoring
+9117,Smoke - The Sizzler House,Bangalore,Bellandur,Continental,premium,3,3,0,3,0,0.0,537.71,1613.12,43.88,53.45,33.33,0,0.0,0.0,2,2.95,3.6,1.0,50.0,0.0,3.3,4,45.07,needs_monitoring
+266,Kabab Magic,Bangalore,Basavanagudi,North Indian,mid,3,3,0,3,0,0.0,246.49,739.47,37.93,38.93,0.0,1,33.33,97.96,2,3.3,4.35,1.0,50.0,0.0,4.1,1720,44.92,high_risk_partner
+1162,Grow Fit,Bangalore,Koramangala 6th Block,Healthy Food,mid,3,3,0,3,0,0.0,263.49,790.48,34.66,44.33,33.33,0,0.0,0.0,1,3.4,2.4,1.0,100.0,0.0,4.0,457,44.87,high_risk_partner
+7530,Al Swaad Take Away,Bangalore,Richmond Road,North Indian,mid,3,3,0,3,0,0.0,163.55,490.66,40.7,53.24,33.33,0,0.0,0.0,2,2.8,3.8,1.0,50.0,0.0,3.1,13,44.8,high_risk_partner
+6012,Vasudev Adiga's,Bangalore,Frazer Town,South Indian,low,3,3,0,3,0,0.0,166.36,499.07,33.3,40.44,0.0,0,0.0,0.0,2,1.7,4.25,2.0,100.0,0.0,2.8,29,44.78,high_risk_partner
+6796,Egg Star,Bangalore,HSR,Healthy Food,low,3,2,1,3,0,0.0,136.43,409.28,36.1,40.55,0.0,0,0.0,0.0,2,2.45,4.35,1.0,50.0,33.33,3.6,19,44.66,high_risk_partner
+11534,Lassi Lab,Bangalore,Kammanahalli,Desserts,low,3,3,0,3,0,0.0,120.0,360.0,37.42,40.71,0.0,1,33.33,47.48,3,3.43,4.63,1.0,33.33,0.0,0.0,0,44.65,high_risk_partner
+7083,Hyderabadi Biryaani Hub,Bangalore,Electronic City,Biryani,low,3,2,1,3,0,0.0,204.63,613.89,34.55,36.17,0.0,0,0.0,0.0,2,2.45,4.55,2.0,100.0,33.33,2.7,17,44.24,high_risk_partner
+10460,Wok And Rolls,Bangalore,Koramangala 1st Block,Chinese,low,3,3,0,3,0,0.0,128.98,386.94,47.7,52.42,33.33,0,0.0,0.0,2,2.9,3.35,1.0,50.0,0.0,0.0,0,43.85,high_risk_partner
+1651,Kijiji - Chal Yaha Khate Hai,Bangalore,Nagawara,North Indian,mid,3,2,1,3,0,0.0,197.41,592.23,46.84,55.99,50.0,0,0.0,0.0,1,4.2,3.1,1.0,100.0,33.33,3.7,306,43.7,high_risk_partner
+6749,Hatti Punjab Di,Bangalore,Brigade Road,North Indian,premium,3,3,0,3,0,0.0,210.62,631.87,42.05,52.4,33.33,0,0.0,0.0,2,2.8,3.35,1.0,50.0,0.0,2.8,20,43.52,high_risk_partner
+6458,Ambur Star Biryani,Bangalore,Sarjapur Road,Biryani,low,3,3,0,3,0,0.0,148.79,446.36,45.76,55.83,66.67,0,0.0,0.0,3,2.83,3.7,2.0,66.67,0.0,3.5,23,43.36,high_risk_partner
+3335,Rayalaseema Ruchulu,Bangalore,New BEL Road,Andhra,premium,3,3,0,3,0,0.0,468.95,1406.86,40.26,47.16,0.0,1,33.33,129.82,3,2.87,4.3,1.0,33.33,0.0,3.2,112,43.35,high_risk_partner
+4193,Juice Junction Food Court,Bangalore,Koramangala 6th Block,Beverages,low,3,3,0,3,0,0.0,160.75,482.26,35.27,36.88,0.0,1,33.33,74.7,2,3.25,4.3,1.0,50.0,0.0,3.7,70,43.34,high_risk_partner
+7552,Chaithanya Xpress,Bangalore,Indiranagar,South Indian,low,3,3,0,3,0,0.0,180.83,542.49,48.1,51.04,33.33,0,0.0,0.0,2,2.75,3.45,2.0,100.0,0.0,3.6,12,43.08,high_risk_partner
+3842,Anand Sweets and Savouries,Bangalore,Jayanagar,Mithai,mid,3,3,0,3,0,0.0,266.67,800.0,37.98,50.57,33.33,1,33.33,122.22,3,4.03,3.9,1.0,33.33,0.0,3.9,84,43.02,high_risk_partner
+4713,Thanco's Natural Ice Creams,Bangalore,Electronic City,Ice Cream,mid,3,3,0,3,0,0.0,304.57,913.7,38.73,41.01,0.0,1,33.33,92.74,3,3.1,4.37,2.0,66.67,0.0,3.7,54,42.88,high_risk_partner
+6940,Ambur Biryani Mess,Bangalore,Koramangala 6th Block,Biryani,low,3,3,0,3,0,0.0,167.43,502.3,50.73,59.78,66.67,0,0.0,0.0,2,3.2,3.1,1.0,50.0,0.0,3.4,18,42.88,high_risk_partner
+4397,Madurai Idli Dosa Shop,Bangalore,Marathahalli,South Indian,low,3,3,0,3,0,0.0,120.0,360.0,29.95,33.44,0.0,1,33.33,55.21,2,3.15,4.65,1.0,50.0,0.0,3.6,63,42.85,high_risk_partner
+4319,Baskin Robbins,Bangalore,Koramangala 6th Block,Ice Cream,low,3,3,0,3,0,0.0,136.77,410.32,41.41,49.01,33.33,0,0.0,0.0,3,2.0,4.37,3.0,100.0,0.0,3.0,66,42.59,high_risk_partner
+9222,Deepak Fast Food,Bangalore,Marathahalli,Fast Food,mid,4,4,0,4,0,0.0,248.92,995.66,32.98,41.52,0.0,1,25.0,74.77,3,3.23,4.07,1.0,33.33,0.0,3.3,4,42.33,high_risk_partner
+2353,Pizza Hut,Bangalore,Electronic City,Pizza,premium,4,4,0,4,0,0.0,306.4,1225.6,40.05,48.24,0.0,1,25.0,181.94,4,2.8,4.57,2.0,50.0,0.0,2.7,195,42.0,high_risk_partner
+9304,Polo Scoops,Bangalore,Electronic City,Desserts,low,3,2,1,3,0,0.0,132.08,396.25,39.55,42.06,0.0,0,0.0,0.0,2,2.25,4.3,2.0,100.0,33.33,3.2,4,41.92,high_risk_partner
+7432,Lassi Darbar,Bangalore,BTM,Ice Cream,low,3,2,1,3,0,0.0,144.86,434.58,37.67,48.25,50.0,0,0.0,0.0,2,3.35,3.85,1.0,50.0,33.33,3.7,13,41.78,high_risk_partner
+11707,Amarnath Ice Cream Parlour,Bangalore,Koramangala 1st Block,Ice Cream,low,3,3,0,3,0,0.0,145.67,437.02,49.85,54.6,66.67,0,0.0,0.0,1,3.3,2.7,1.0,100.0,0.0,0.0,0,41.67,high_risk_partner
+1303,Cave N Dine,Bangalore,Basaveshwara Nagar,North Indian,premium,3,3,0,3,0,0.0,349.08,1047.23,38.64,45.83,0.0,1,33.33,249.6,2,2.85,4.15,1.0,50.0,0.0,3.1,405,41.36,high_risk_partner
+294,Mainland China,Bangalore,Indiranagar,Chinese,premium,3,3,0,3,0,0.0,1214.27,3642.81,45.13,48.86,66.67,1,33.33,522.64,3,4.37,3.1,2.0,66.67,0.0,4.4,1555,41.06,high_risk_partner
+1553,Domino's Pizza,Bangalore,Sarjapur Road,Pizza,mid,3,3,0,3,0,0.0,323.55,970.65,46.01,51.29,33.33,0,0.0,0.0,2,2.05,3.25,2.0,100.0,0.0,2.7,332,40.51,high_risk_partner
+26,Brew and Barbeque - A Microbrewery Pub,Bangalore,Marathahalli,Continental,premium,4,4,0,4,0,0.0,714.87,2859.47,38.92,42.21,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,4.6,5913,40.03,high_risk_partner
+3225,Paprica,Bangalore,Marathahalli,North Indian,premium,3,2,1,3,0,0.0,712.75,2138.24,35.45,40.43,0.0,0,0.0,0.0,1,1.7,3.9,1.0,100.0,33.33,2.6,118,39.95,high_risk_partner
+3208,Cuppa,Bangalore,Electronic City,Cafe,premium,3,3,0,3,0,0.0,472.78,1418.34,40.68,49.58,33.33,1,33.33,126.71,3,3.13,4.17,1.0,33.33,0.0,3.0,119,39.63,high_risk_partner
+7119,Healthy Yummy Food Restaurant,Bangalore,HSR,Beverages,premium,3,3,0,3,0,0.0,469.5,1408.49,36.57,48.33,33.33,1,33.33,196.42,3,3.1,4.57,2.0,66.67,0.0,3.6,16,39.21,high_risk_partner
+559,Giselle Resto Cafe,Bangalore,Kammanahalli,Cafe,premium,4,4,0,4,0,0.0,390.34,1561.36,36.59,46.07,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,4.2,884,39.12,high_risk_partner
+174,NoLimmits Lounge and Club,Bangalore,Brigade Road,Chinese,premium,3,3,0,3,0,0.0,1043.95,3131.86,31.97,36.73,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,4.1,2181,39.03,high_risk_partner
+1019,Shanthi Sagar,Bangalore,JP Nagar,South Indian,mid,3,3,0,3,0,0.0,231.67,695.0,50.78,55.78,66.67,2,66.67,264.9,3,3.87,3.47,2.0,66.67,0.0,3.7,520,38.82,high_risk_partner
+1448,Burger King,Bangalore,HSR,Burger,premium,3,3,0,3,0,0.0,507.85,1523.54,25.88,27.04,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,4.1,359,38.58,high_risk_partner
+8727,Bangalore Agarwal Bhavan,Bangalore,Whitefield,Mithai,mid,4,4,0,4,0,0.0,227.44,909.76,41.81,47.26,25.0,1,25.0,100.27,1,2.9,4.3,1.0,100.0,0.0,3.3,6,37.99,high_risk_partner
+3674,Davangere Benna Dose Hotel,Bangalore,Jayanagar,South Indian,low,3,3,0,3,0,0.0,120.0,360.0,32.0,34.72,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,4.1,92,37.94,high_risk_partner
+2490,Baker's Home,Bangalore,Bellandur,Bakery,low,3,3,0,3,0,0.0,191.6,574.8,30.89,37.44,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,3.9,179,37.89,high_risk_partner
+3391,Messy's,Bangalore,Electronic City,Fast Food,mid,3,3,0,3,0,0.0,228.09,684.28,34.45,39.87,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,3.8,108,37.65,high_risk_partner
+6086,Hunger2Eat,Bangalore,BTM,Biryani,mid,3,3,0,3,0,0.0,235.82,707.46,31.12,33.61,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,3.8,27,37.31,high_risk_partner
+1728,Gusto's Pizza,Bangalore,Bellandur,Pizza,mid,3,3,0,3,0,0.0,379.11,1137.33,37.35,40.14,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,3.0,289,37.02,high_risk_partner
+3932,Jeff's - Royal Orchid Hotel,Bangalore,Old Airport Road,Chinese,premium,3,3,0,3,0,0.0,981.91,2945.74,38.1,43.56,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,3.9,80,36.99,high_risk_partner
+3837,Woodee Pizza,Bangalore,JP Nagar,Cafe,mid,3,2,1,3,0,0.0,324.14,972.43,46.82,51.68,50.0,0,0.0,0.0,1,2.9,3.0,1.0,100.0,33.33,2.7,85,36.78,high_risk_partner
+10933,The Fiery Indian Kitchen,Bangalore,Electronic City,North Indian,premium,3,3,0,3,0,0.0,412.76,1238.28,34.61,44.39,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,36.67,high_risk_partner
+12259,True South,Bangalore,Whitefield,Fast Food,low,4,4,0,4,0,0.0,125.05,500.2,33.88,41.07,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,36.57,high_risk_partner
+8902,Royal Iceberry,Bangalore,Electronic City,Desserts,low,3,3,0,3,0,0.0,145.23,435.68,27.12,30.91,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,3.4,5,36.49,high_risk_partner
+1291,Donne Biriyani House,Bangalore,Jayanagar,Biryani,mid,3,3,0,3,0,0.0,239.68,719.03,40.58,48.04,33.33,1,33.33,204.83,1,2.9,3.7,1.0,100.0,0.0,3.5,408,36.19,high_risk_partner
+6285,Dilli Highway,Bangalore,Kammanahalli,North Indian,mid,4,4,0,4,0,0.0,256.9,1027.59,33.17,39.5,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,3.0,25,35.61,high_risk_partner
+9759,Cee Yem,Bangalore,BTM,South Indian,low,4,3,1,4,0,0.0,136.37,545.49,51.58,54.05,66.67,0,0.0,0.0,1,2.8,3.0,1.0,100.0,25.0,0.0,0,35.57,high_risk_partner
+4153,Marhaba,Bangalore,Malleshwaram,North Indian,premium,3,3,0,3,0,0.0,315.07,945.21,40.69,47.8,33.33,1,33.33,182.05,3,2.63,4.13,3.0,100.0,0.0,2.7,72,35.39,high_risk_partner
+6259,Marhaba,Bangalore,Bannerghatta Road,Arabian,mid,3,3,0,3,0,0.0,252.23,756.69,40.06,51.59,33.33,2,66.67,266.07,3,2.67,4.23,3.0,100.0,0.0,3.6,25,35.28,high_risk_partner
+8800,Andhra Star Biryani,Bangalore,Brookefield,Biryani,low,5,5,0,5,0,0.0,121.96,609.78,43.71,53.49,20.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,3.2,6,34.21,high_risk_partner
+637,Hyderabad Biryaani House,Bangalore,Bannerghatta Road,Biryani,premium,3,3,0,3,0,0.0,434.82,1304.46,41.57,43.16,33.33,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,3.6,798,34.06,high_risk_partner
+1064,The Purple Pan,Bangalore,Rajajinagar,North Indian,premium,3,2,1,3,0,0.0,340.88,1022.65,40.45,47.41,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,33.33,4.1,502,33.47,high_risk_partner
+4793,Baskin Robbins,Bangalore,Brookefield,Ice Cream,low,3,3,0,3,0,0.0,138.8,416.39,42.17,53.32,33.33,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,3.9,52,33.42,high_risk_partner
+2683,Shalimar,Bangalore,Indiranagar,North Indian,premium,3,2,1,3,0,0.0,473.45,1420.34,32.04,35.19,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,33.33,4.0,160,33.07,high_risk_partner
+2219,Sreeraj Lassi Bar,Bangalore,Jayanagar,Beverages,low,3,2,1,3,0,0.0,120.0,360.0,22.46,26.23,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,33.33,4.1,210,32.95,high_risk_partner
+2290,North Indian Bhukkads,Bangalore,Nagawara,North Indian,mid,3,2,1,3,0,0.0,212.32,636.97,40.66,47.36,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,33.33,4.0,202,32.83,high_risk_partner
+2358,Kamat Swaad,Bangalore,JP Nagar,South Indian,mid,3,2,1,3,0,0.0,233.02,699.07,44.05,44.11,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,33.33,3.9,194,32.71,high_risk_partner
+7498,New Kabab Zone,Bangalore,Bommanahalli,North Indian,mid,3,3,0,3,0,0.0,379.99,1139.97,44.42,49.58,33.33,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,3.4,13,32.53,high_risk_partner
+5552,Kolkata Famous Katti Rolls,Bangalore,BTM,Fast Food,low,4,3,1,4,0,0.0,134.1,536.4,36.25,39.53,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,25.0,3.7,36,32.27,high_risk_partner
+6387,Indian Paratha Factory,Bangalore,BTM,North Indian,low,3,3,0,3,0,0.0,130.57,391.71,50.39,57.97,66.67,1,33.33,49.92,1,2.8,3.1,1.0,100.0,0.0,2.9,24,31.79,high_risk_partner
+8325,The Combo House,Bangalore,Marathahalli,Fast Food,mid,3,2,1,3,0,0.0,247.36,742.07,37.53,38.15,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,33.33,3.3,8,31.28,high_risk_partner
+4814,Crunch Pizzas,Bangalore,Bellandur,Italian,premium,3,2,1,3,0,0.0,391.68,1175.04,47.89,47.96,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,33.33,2.5,52,31.14,high_risk_partner
+4612,Pizza Da Dhaba,Bangalore,Bannerghatta Road,Fast Food,mid,5,4,1,4,0,0.0,291.64,1458.19,38.71,49.02,25.0,1,25.0,204.63,2,2.75,3.7,1.0,50.0,20.0,2.9,57,30.68,high_risk_partner
+7215,The Tiffin Express,Bangalore,Koramangala 4th Block,South Indian,low,4,4,0,4,0,0.0,139.95,559.78,43.84,50.99,50.0,1,25.0,67.21,4,1.58,4.02,3.0,75.0,0.0,2.6,16,28.45,high_risk_partner
