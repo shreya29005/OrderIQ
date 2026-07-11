@@ -52,8 +52,6 @@ This project covers the complete analytics workflow:
 7. Streamlit dashboard for product and business decision-making
 8. Business insight cards and compact evidence tables
 
-The project is designed as a portfolio-grade Product Analyst / Business Analyst / Data Analyst case study.
-
 ---
 
 ## 4. Data Sources
