@@ -189,14 +189,6 @@ The SQL layer contains dedicated analytical models for different marketplace que
 
 ## Dashboard Preview
 
-### Executive Overview
-
-![Executive Overview 1](<assets/screenshots/executive overview 1.jpg>)
-
-![Executive Overview 2](<assets/screenshots/executive overview 2.jpg>)
-
-![Executive Overview 3](<assets/screenshots/executive overview 3.jpg>)
-
 ---
 
 ### Funnel and Retention
@@ -205,27 +197,8 @@ The SQL layer contains dedicated analytical models for different marketplace que
 
 ![Funnel and Retention 2](<assets/screenshots/funnel and retention 2.jpg>)
 
-![Funnel and Retention 3](<assets/screenshots/funnel and retention 3.jpg>)
-
 ---
 
-### Marketplace Health
-
-![Marketplace Health 1](<assets/screenshots/Marketplace Health 1.jpg>)
-
-![Marketplace Health 2](<assets/screenshots/Marketplace Health 2.jpg>)
-
----
-
-### Delivery Operations
-
-![Delivery Ops 1](<assets/screenshots/Delivery Ops 1.jpg>)
-
-![Delivery Ops 2](<assets/screenshots/Delivery ops 2.jpg>)
-
-![Delivery Ops 3](<assets/screenshots/Delivery Opps 3.jpg>)
-
----
 
 ### Search Quality
 
@@ -242,18 +215,6 @@ The SQL layer contains dedicated analytical models for different marketplace que
 ![Restaurants 2](<assets/screenshots/Restaurants 2.jpg>)
 
 ![Restaurants 3](<assets/screenshots/Restaurants 3.jpg>)
-
----
-
-### Lightweight Forecasting
-
-![Forecasting 1](<assets/screenshots/Forecasting 1.jpg>)
-
-![Forecasting 2](<assets/screenshots/Forecasting 2.jpg>)
-
-![Forecasting 3](<assets/screenshots/Forecasting 3.jpg>)
-
-![Forecasting 4](<assets/screenshots/Forecasting 4.jpg>)
 
 ---
 
