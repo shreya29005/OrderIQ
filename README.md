@@ -4,12 +4,6 @@ OrderIQ is a portfolio analytics project that uses **DuckDB SQL, Python, and Str
 
 The project combines cleaned public food-delivery datasets with **synthetic event-level telemetry**. The results demonstrate the analytical workflow and should not be interpreted as the performance of a real food-delivery company.
 
-## Resume-aligned highlights
-
-- Built a SQL analysis over **6.5k users and 90k sessions** to track funnel conversion, retention, and delivery reliability.
-- Mapped the journey from **app open to delivered order** and found **app open to search** to be the largest funnel drop-off in the generated dataset.
-- Grouped customers into monthly cohorts using their **first delivered order** and compared **D7 and D30 retention**.
-
 ## Business questions
 
 The analysis focuses on three main questions:
