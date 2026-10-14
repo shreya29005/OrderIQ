@@ -106,49 +106,6 @@ The validation script checks items such as:
 - valid rating ranges
 - consistent delivery component times
 
-### Baseline forecasting
-
-The repository also compares simple time-based baselines, including lag and rolling-average methods, for short-term delivered-order estimates. Forecasts are evaluated using MAE, RMSE, MAPE, and bias. This is a supporting experiment, not a production forecasting system.
-
-## Repository structure
-
-```text
-OrderIQ/
-├── app/
-│   └── dashboard.py
-├── assets/
-│   └── screenshots/
-├── data/
-│   ├── raw/
-│   ├── interim/
-│   ├── processed/
-│   └── analysis/
-├── docs/
-│   ├── business_problem.md
-│   ├── data_assumptions.md
-│   ├── data_sources.md
-│   ├── metric_dict.md
-│   └── sql_catalog.md
-├── sql/
-│   └── 00_smoke_test.sql ... 16_forecast_input_city_daily.sql
-├── src/
-│   ├── clean_public_datasets.py
-│   ├── generate_synthetic_telemetry.py
-│   ├── data_quality.py
-│   ├── sql_runner.py
-│   └── forecast_city_daily.py
-├── requirements.txt
-└── README.md
-```
-
-## Tech stack
-
-- DuckDB SQL
-- Python
-- Pandas and NumPy
-- Streamlit
-- Plotly
-
 ## Run locally
 
 ```bash
