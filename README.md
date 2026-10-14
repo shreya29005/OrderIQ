@@ -77,29 +77,6 @@ These cohort comparisons describe repeat-order behavior in the synthetic dataset
 
 Delivery analysis summarizes metrics such as delivery time, P90 delivery time, and SLA-breach rate by dimensions including city, zone, and time slot. These views help locate segments that may require further investigation, rather than automatically identifying a root cause.
 
-## SQL models
-
-| File | Analysis |
-|---|---|
-| `01_funnel_conversion.sql` | Stage-level conversion and drop-off |
-| `02_cohort_retention.sql` | Monthly cohorts with D7 and D30 retention |
-| `03_delivery_p90.sql` | Delivery-time reliability |
-| `04_restaurant_quality_score.sql` | Exploratory restaurant score |
-| `05_discount_efficiency.sql` | Discount and delivered-order comparison |
-| `06_sla_root_cause.sql` | SLA-related diagnostic cuts |
-| `07_order_frequency_segments.sql` | Order-frequency segments |
-| `08_repeat_rate_by_cuisine.sql` | Repeat rate by cuisine and price segment |
-| `09_refund_anomaly_restaurants.sql` | Restaurants with unusual refund-related metrics |
-| `10_first_order_experience_retention.sql` | First-order experience and later repeat activity |
-| `11_city_zone_marketplace_score.sql` | Exploratory city-zone indicators |
-| `12_search_result_quality.sql` | Search result-depth and engagement metrics |
-| `13_restaurant_visibility_opportunity.sql` | Visibility candidates for further review |
-| `14_delivery_time_hourly_heatmap.sql` | Delivery metrics by day and hour |
-| `15_forecast_input_metrics.sql` | Daily aggregates used by the baseline forecast |
-| `16_forecast_input_city_daily.sql` | City-day forecast inputs |
-
-Composite scores and flags are analytical heuristics used to organize the dashboard. They are not validated production scoring models or automated business rules.
-
 ## Dashboard preview
 
 ### Funnel and retention
